@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "fr",
+    "en-CA",
+    "pt-BR"
+  ],
+  "tabSize": 3,
+  "promptDelete": false
+}

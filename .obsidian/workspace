@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "17879adb51effcd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a5bbeba11ba635",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Langs&Runtimes/Rust/Rust.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fdb77f4c6d525f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dca9ff69972493f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e76e6a6d3ea02e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "873e07ad22689c56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50aa07eaabc77464",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "1d5be1d88501c552",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc39fceeba28f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b99d617c51c6237",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Langs&Runtimes/Rust/Rust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62b8a6ec031e3820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Langs&Runtimes/Rust/Rust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12ad7fefa7ab4cef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e004c94359e72fb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 523.5
+  },
+  "active": "58a5bbeba11ba635",
+  "lastOpenFiles": [
+    "Langs&Runtimes/Rust/Rust.md",
+    "Langs&Runtimes/Rust/Built-in-utils.md",
+    "Technologies/Web/Remix.run/Modules constraints.md",
+    "Technologies/Web/Untitled 2.md",
+    "Technologies/Web/React/Hooks.md",
+    "Technologies/Web/React/How hooks work.md",
+    "Technologies/Web/React/SSR - SSG - ISG - DSG - SPA - so many difs. 🥴 (but cool difs 😄).md",
+    "Technologies/Web/React/How it works.md",
+    "Technologies/Web/React.md",
+    "Programing/Paradigms.md"
+  ]
+}
