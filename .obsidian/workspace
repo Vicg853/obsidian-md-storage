@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Langs&Runtimes/Rust/Rust.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 239,
+    "collapsed": true
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -119,24 +120,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 523.5,
+    "collapsed": true
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
     "Langs&Runtimes/Rust/Rust.md",
+    "Langs&Runtimes/Rust/Syntax/Literals.md",
     "Langs&Runtimes/Rust/Built-in-utils.md",
-    "Technologies/Web/Remix.run/Modules constraints.md",
-    "Technologies/Web/Untitled 2.md",
-    "Technologies/Web/React/Hooks.md",
-    "Technologies/Web/React/How hooks work.md",
-    "Technologies/Web/React/SSR - SSG - ISG - DSG - SPA - so many difs. 🥴 (but cool difs 😄).md",
-    "Technologies/Web/React/How it works.md",
-    "Technologies/Web/React.md",
-    "Programing/Paradigms.md"
+    "Langs&Runtimes/C++.md",
+    "Langs&Runtimes/Rust/Syntax/Ponctuation.md",
+    "Langs&Runtimes/Rust/Syntax/Others.md",
+    "Langs&Runtimes/Rust/Lexical struct/Data types.md",
+    "Langs&Runtimes/Rust/Untitled.md",
+    "Langs&Runtimes/Rust/Lexical struct.md",
+    "Technologies/Web/Remix.run/Modules constraints.md"
   ]
 }

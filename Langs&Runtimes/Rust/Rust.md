@@ -1,1 +1,7 @@
-Docs: https://doc.rust-lang.org/rust-by-example/index.html
+#Rust #Docs
+
+### Quick tips #quick-tips
+- Open rust docs: ``rustup docs --book``
+
+### Introduction
+
