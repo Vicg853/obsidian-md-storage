@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Rust.md",
-            "mode": "source",
+            "file": "Tech articles 📰🗞️.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239,
-    "collapsed": true
+    "width": 239
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Rust.md",
+                "file": "Tech articles 📰🗞️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Rust.md",
+                "file": "Tech articles 📰🗞️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,24 +119,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 523.5,
-    "collapsed": true
+    "width": 523.5
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Rust.md",
-    "Langs&Runtimes/Rust/Syntax/Literals.md",
-    "Langs&Runtimes/Rust/Built-in-utils.md",
-    "Langs&Runtimes/C++.md",
-    "Langs&Runtimes/Rust/Syntax/Ponctuation.md",
-    "Langs&Runtimes/Rust/Syntax/Others.md",
-    "Langs&Runtimes/Rust/Lexical struct/Data types.md",
-    "Langs&Runtimes/Rust/Untitled.md",
-    "Langs&Runtimes/Rust/Lexical struct.md",
-    "Technologies/Web/Remix.run/Modules constraints.md"
+    "Tech articles 📰🗞️.md",
+    "Langs&Runtimes/Web (HTML-CSS-JS)/Tip&Tricks&Facts.md",
+    "Langs&Runtimes/Dart w. flutter.md",
+    "Technologies/Web/NextJs.md",
+    "Technologies/Web/Remix.run/Untitled.md",
+    "Technologies/Web/Remix.run/Route file conventions.md",
+    "Technologies/Web/Remix.run/Modules constraints.md",
+    "Technologies/Web/React.md",
+    "Technologies/Web/Untitled 2.md",
+    "Technologies/Testing/Microsoft playwright.md"
   ]
 }
