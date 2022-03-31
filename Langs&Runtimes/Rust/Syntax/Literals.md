@@ -69,11 +69,3 @@ A string iteral is a sequence of any Unicode characters enclosed within two doub
 ##### Sufixes
 	``u8``, ``u16``, ``u32``, ``u64``, ``u128``, ``usize``, ``i8``, ``i16`` | ``i32`` | ``i64`` | ``i128`` | ``isize``
 
-### Tuples
-- ``(``  [INT, STRING, ...] ``)`` 
-- Tuple indexes: [TUPLE_IDENTIFIER]``.``[INDEX]
-```rust
-	let tupple = ("dog", "cat", "horse");
-	let dog = tupple.0;
-```
-

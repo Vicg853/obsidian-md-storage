@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/GraphQL/Intro.md",
+            "file": "Langs&Runtimes/Rust/Data/Strings.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/GraphQL/Intro.md",
+                "file": "Langs&Runtimes/Rust/Data/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/GraphQL/Intro.md",
+                "file": "Langs&Runtimes/Rust/Data/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/GraphQL/Intro.md",
-    "BigAreas&Subject/Algorithms/Algorithms performance.md",
-    "BigAreas&Subject/Algorithms/Recursive functions.md",
-    "BigAreas&Subject/Algorithms/Loops.md",
-    "BigAreas&Subject/Algorithms/IIFE (a.k.a. Immediately Invoked Function Expression).md",
-    "BigAreas&Subject/Data/Objects/Methods vs parameters.md",
-    "BigAreas&Subject/Paradigms/Data-driven.md",
-    "BigAreas&Subject/Paradigms/Process oriented.md",
-    "BigAreas&Subject/Data/Objects.md",
-    "Technologies/For langs & etc/GaphQL/GraphQL-Code-Generator.md"
+    "Langs&Runtimes/Rust/Data/Strings.md",
+    "Langs&Runtimes/Rust/Ownership.md",
+    "BigAreas&Subject/Data/Characters and representation/Unicode consortium and UTF-8 (most used).md",
+    "Langs&Runtimes/Rust/Built-in-utils.md",
+    "Langs&Runtimes/Rust/Syntax/Refernces.md",
+    "Langs&Runtimes/Rust/Syntax/Ponctuation.md",
+    "Langs&Runtimes/Rust/Syntax/Literals.md",
+    "Langs&Runtimes/Rust/Data/Integers.md",
+    "Langs&Runtimes/Rust/Dictio&Usefull.md",
+    "Langs&Runtimes/Rust/Macros.md"
   ]
 }
