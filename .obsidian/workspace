@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech articles 📰🗞️.md",
-            "mode": "preview",
+            "file": "BigAreas&Subject/Algorithms/Algorithms performance.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech articles 📰🗞️.md",
+                "file": "BigAreas&Subject/Algorithms/Algorithms performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech articles 📰🗞️.md",
+                "file": "BigAreas&Subject/Algorithms/Algorithms performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 383.5
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Tech articles 📰🗞️.md",
-    "Langs&Runtimes/Web (HTML-CSS-JS)/Tip&Tricks&Facts.md",
-    "Langs&Runtimes/Dart w. flutter.md",
-    "Technologies/Web/NextJs.md",
-    "Technologies/Web/Remix.run/Untitled.md",
-    "Technologies/Web/Remix.run/Route file conventions.md",
-    "Technologies/Web/Remix.run/Modules constraints.md",
-    "Technologies/Web/React.md",
-    "Technologies/Web/Untitled 2.md",
-    "Technologies/Testing/Microsoft playwright.md"
+    "BigAreas&Subject/Algorithms/Algorithms performance.md",
+    "BigAreas&Subject/Algorithms/Recursive functions.md",
+    "BigAreas&Subject/Algorithms/Loops.md",
+    "BigAreas&Subject/Algorithms/IIFE (a.k.a. Immediately Invoked Function Expression).md",
+    "BigAreas&Subject/Data/Objects/Methods vs parameters.md",
+    "BigAreas&Subject/Paradigms/Data-driven.md",
+    "BigAreas&Subject/Paradigms/Process oriented.md",
+    "BigAreas&Subject/Data/Objects.md",
+    "Langs&Runtimes/GraphQL/Intro.md",
+    "Technologies/For langs & etc/GaphQL/GraphQL-Code-Generator.md"
   ]
 }
