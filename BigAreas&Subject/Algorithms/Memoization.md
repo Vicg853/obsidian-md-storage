@@ -32,3 +32,5 @@ This technique is used on computer science to optimize a program performance by 
 > addM(2) //Finds x = 2 result on the results var and returns it instantly
 > ```
 
+It can also be called on other languages as tabling and is related to caching. 
+It is also used along with recursive functionalities as it can reduce its complexity and shrink the function's big O notation.
