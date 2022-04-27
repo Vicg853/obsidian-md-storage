@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BigAreas&Subject/Networking/Techniques/P2P (peer-to-peer).md",
-            "mode": "source",
+            "file": "BigAreas&Subject/Algorithms/Memoization.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigAreas&Subject/Networking/Techniques/P2P (peer-to-peer).md",
+                "file": "BigAreas&Subject/Algorithms/Memoization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigAreas&Subject/Networking/Techniques/P2P (peer-to-peer).md",
+                "file": "BigAreas&Subject/Algorithms/Memoization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 327.5
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
+    "BigAreas&Subject/Algorithms/Memoization.md",
+    "Practices&policies/Polyfill.md",
+    "Tech articles 📰🗞️.md",
     "BigAreas&Subject/Networking/Techniques/P2P (peer-to-peer).md",
     "BigAreas&Subject/Data/Stacks  and Qeueus.md",
     "BigAreas&Subject/Networking/Techniques/Hole punching.md",
     "BigAreas&Subject/Networking/Techniques/NAT Related/NAT traversal.md",
     "BigAreas&Subject/Networking/Techniques/NAT Related.md",
     "BigAreas&Subject/Networking/Protocols/Intro.md",
-    "BigAreas&Subject/Soft. Arch./Pool.md",
-    "BigAreas&Subject/Soft. Arch./Fork-join.md",
-    "BigAreas&Subject/Soft. Arch./Asynchronious-IO.md",
-    "Langs&Runtimes/JS and TS.md"
+    "BigAreas&Subject/Soft. Arch./Pool.md"
   ]
 }
