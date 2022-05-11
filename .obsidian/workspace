@@ -129,14 +129,14 @@
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
     "Langs&Runtimes/Rust/Modules.md",
-    "Langs&Runtimes/Rust/Conventions.md",
-    "Langs&Runtimes/Rust/Ownership.md",
-    "Langs&Runtimes/Rust/Rust.md",
-    "Langs&Runtimes/Rust/Dictio&Usefull.md",
-    "Langs&Runtimes/Rust/Functions/Macros.md",
     "Langs&Runtimes/Rust/Functions/Contructors.md",
-    "Langs&Runtimes/Rust/Combinators....md",
-    "Langs&Runtimes/Rust/Built-in-utils.md",
-    "Langs&Runtimes/Rust/Data/Strcuts.md"
+    "Langs&Runtimes/Rust/Functions/Macros.md",
+    "Langs&Runtimes/Rust/Dictio&Usefull.md",
+    "Langs&Runtimes/Rust/Ownership.md",
+    "Langs&Runtimes/Rust/Functions/Combinators....md",
+    "Langs&Runtimes/Rust/Data/Result.md",
+    "Langs&Runtimes/Rust/Conventions.md",
+    "Langs&Runtimes/Rust/Rust.md",
+    "Langs&Runtimes/Rust/Built-in-utils.md"
   ]
 }

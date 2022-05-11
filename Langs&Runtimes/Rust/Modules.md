@@ -72,10 +72,15 @@ To make anything accessible outside of a file you need to use the ``pub`` keywor
 Sometimes things can get quite tricky to access a specific element from a module, e.g.: ``database::models::users::get::meta`` . 
 To fix this we may use the __``use``__ keyword: 
 ```rust
-	use database::models::users::get::meta();
+	use database::models::users::get::meta;
+	use database::models::users::get::sessions;
+
+	//or to be even shoter/specific 
+	use database::models::users::get::{meta, sessions}
 
 	//Now we have a smaller sintax when accessing things inside users
 	fn main() {
-		let a = meta().to_owned();
+		let user_meta = meta()
+		let usr_sessions = sessions()
 	}
 ```
