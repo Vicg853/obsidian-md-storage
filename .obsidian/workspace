@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BigAreas&Subject/Cybersec/Closing files.md",
-            "mode": "source",
+            "file": "Langs&Runtimes/Rust/Modules.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigAreas&Subject/Cybersec/Closing files.md",
+                "file": "Langs&Runtimes/Rust/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigAreas&Subject/Cybersec/Closing files.md",
+                "file": "Langs&Runtimes/Rust/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 336.5
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "BigAreas&Subject/Cybersec/Closing files.md",
-    "BigAreas&Subject/Cybersec/CSRF.md",
-    "BigAreas&Subject/Cybersec/SSR template injection.md",
-    "BigAreas&Subject/Algorithms/Recursive functions.md",
-    "BigAreas&Subject/Algorithms/Memoization.md",
-    "BigAreas&Subject/Algorithms/the BIGG O notation.md",
-    "BigAreas&Subject/Algorithms/Bynary search.md",
-    "Practices&policies/Polyfill.md",
-    "Tech articles 📰🗞️.md",
-    "BigAreas&Subject/Networking/Techniques/P2P (peer-to-peer).md"
+    "Langs&Runtimes/Rust/Modules.md",
+    "Langs&Runtimes/Rust/Conventions.md",
+    "Langs&Runtimes/Rust/Ownership.md",
+    "Langs&Runtimes/Rust/Rust.md",
+    "Langs&Runtimes/Rust/Dictio&Usefull.md",
+    "Langs&Runtimes/Rust/Functions/Macros.md",
+    "Langs&Runtimes/Rust/Functions/Contructors.md",
+    "Langs&Runtimes/Rust/Combinators....md",
+    "Langs&Runtimes/Rust/Built-in-utils.md",
+    "Langs&Runtimes/Rust/Data/Strcuts.md"
   ]
 }
