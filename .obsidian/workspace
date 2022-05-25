@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Modules.md",
-            "mode": "preview",
+            "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Modules.md",
+                "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Modules.md",
+                "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
+    "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
+    "BigAreas&Subject/Paradigms/API Paradigms/RPC.md",
+    "BigAreas&Subject/Paradigms/API Paradigms/REST.md",
+    "BigAreas&Subject/Networking/Protocols/Intro.md",
+    "BigAreas&Subject/Networking/Protocols/HTTP.md",
+    "Technologies/APIs&Rests/Untitled.md",
     "Langs&Runtimes/Rust/Modules.md",
     "Langs&Runtimes/Rust/Functions/Contructors.md",
     "Langs&Runtimes/Rust/Functions/Macros.md",
-    "Langs&Runtimes/Rust/Dictio&Usefull.md",
-    "Langs&Runtimes/Rust/Ownership.md",
-    "Langs&Runtimes/Rust/Functions/Combinators....md",
-    "Langs&Runtimes/Rust/Data/Result.md",
-    "Langs&Runtimes/Rust/Conventions.md",
-    "Langs&Runtimes/Rust/Rust.md",
-    "Langs&Runtimes/Rust/Built-in-utils.md"
+    "Langs&Runtimes/Rust/Dictio&Usefull.md"
   ]
 }
