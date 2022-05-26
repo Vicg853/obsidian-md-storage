@@ -53,7 +53,6 @@ An even better thing: the Rust compiler actually takes types very seriously, so 
 	}
 ```
 
-
 ## Multiple generics a time:
 ```rust
 	fn my_func2<T, U>(t: T, u: U) {
@@ -73,7 +72,6 @@ Sometimes, you may want to narrow your options. As in a case you are comparing t
 		return y
 	}
 ```
-
 
 ## Querying types in bevy example
 You can use generics to query specific struct data.
