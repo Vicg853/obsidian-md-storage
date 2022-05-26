@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Functions/Traits.md",
-            "mode": "source",
+            "file": "Langs&Runtimes/Rust/Typing/Generics.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Traits.md",
+                "file": "Langs&Runtimes/Rust/Typing/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Traits.md",
+                "file": "Langs&Runtimes/Rust/Typing/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Functions/Traits.md",
-    "Langs&Runtimes/Rust/Typing/Untitled.md",
     "Langs&Runtimes/Rust/Typing/Generics.md",
+    "Querying types in bevy example.md",
+    "Langs&Runtimes/Rust/Functions/Macros.md",
+    "Langs&Runtimes/Rust/Functions/Traits.md",
+    "Langs&Runtimes/Rust/Functions/Contructors.md",
+    "Langs&Runtimes/Rust/Typing/Untitled.md",
     "Langs&Runtimes/Rust/Typing/Enums.md",
     "Langs&Runtimes/Rust/Built-in-utils.md",
     "Langs&Runtimes/Rust/Untitled.md",
-    "Langs&Runtimes/Rust/Data/Untitled.md",
-    "Langs&Runtimes/Rust/Data/Implementations.md",
-    "Langs&Runtimes/Rust/Data/Structs.md",
-    "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md"
+    "Langs&Runtimes/Rust/Data/Untitled.md"
   ]
 }
