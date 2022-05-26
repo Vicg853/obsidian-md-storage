@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
+            "file": "Langs&Runtimes/Rust/Functions/Traits.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 257.5
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
+                "file": "Langs&Runtimes/Rust/Functions/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
+                "file": "Langs&Runtimes/Rust/Functions/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 221.5
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md",
-    "BigAreas&Subject/Paradigms/API Paradigms/RPC.md",
-    "BigAreas&Subject/Paradigms/API Paradigms/REST.md",
-    "BigAreas&Subject/Networking/Protocols/Intro.md",
-    "BigAreas&Subject/Networking/Protocols/HTTP.md",
-    "Technologies/APIs&Rests/Untitled.md",
-    "Langs&Runtimes/Rust/Modules.md",
-    "Langs&Runtimes/Rust/Functions/Contructors.md",
-    "Langs&Runtimes/Rust/Functions/Macros.md",
-    "Langs&Runtimes/Rust/Dictio&Usefull.md"
+    "Langs&Runtimes/Rust/Functions/Traits.md",
+    "Langs&Runtimes/Rust/Typing/Untitled.md",
+    "Langs&Runtimes/Rust/Typing/Generics.md",
+    "Langs&Runtimes/Rust/Typing/Enums.md",
+    "Langs&Runtimes/Rust/Built-in-utils.md",
+    "Langs&Runtimes/Rust/Untitled.md",
+    "Langs&Runtimes/Rust/Data/Untitled.md",
+    "Langs&Runtimes/Rust/Data/Implementations.md",
+    "Langs&Runtimes/Rust/Data/Structs.md",
+    "BigAreas&Subject/Paradigms/API Paradigms/Query-Graph.md"
   ]
 }
