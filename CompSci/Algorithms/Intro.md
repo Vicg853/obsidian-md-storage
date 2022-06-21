@@ -1,0 +1,2 @@
+> **Fun fact**: algorithm comes from the combination of the great Mathematician Muhammed al-Khawarizmi's family name, and the 'al-jabr' word, which means algebra. 
+>                                                     >`` 'al-jabr' + 'Khwarizmi'`` <
