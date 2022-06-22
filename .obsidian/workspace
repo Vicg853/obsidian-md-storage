@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Functions/Implementations.md",
+            "file": "Langs&Runtimes/Rust/Data/Scalars (only values)/Integers.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Implementations.md",
+                "file": "Langs&Runtimes/Rust/Data/Scalars (only values)/Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Implementations.md",
+                "file": "Langs&Runtimes/Rust/Data/Scalars (only values)/Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Functions/Implementations.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Integers.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Booleans.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Characters.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Floats.md",
     "Langs&Runtimes/Rust/Data/Structs.md",
+    "Langs&Runtimes/Rust/Syntax/Veriables.md",
+    "Langs&Runtimes/Rust/Functions/Implementations.md",
     "Langs&Runtimes/Rust/Functions/Traits.md",
     "Langs&Runtimes/Rust/Typing/Generics.md",
-    "Langs&Runtimes/Rust/Data/Result.md",
-    "Langs&Runtimes/Rust/Rust.md",
-    "Langs&Runtimes/Rust/Functions/Combinators....md",
-    "Langs&Runtimes/Rust/Functions/Contructors.md",
-    "Langs&Runtimes/Rust/Syntax/Literals.md",
-    "Langs&Runtimes/Rust/Syntax/References.md"
+    "Langs&Runtimes/Rust/Data/Result.md"
   ]
 }
