@@ -6,7 +6,6 @@ They are useful to define variable types in cases where a same piece of code use
 A nice thing to know, is that, generic types are replaced by its type in each of its use case, so... no performance bottlenecks trying to discover types.
 An even better thing: the Rust compiler actually takes types very seriously, so you are able to even query a certain struct element by its generic types: [[#Querying types in bevy example]]
 
-
 ## Main e.g.s:
 - For functions: 
 ```rust
@@ -24,7 +23,7 @@ An even better thing: the Rust compiler actually takes types very seriously, so 
 		None
 	}
 ```
-- Finally for structs and implementations
+- Finally for structs and implementations 
 ```rust
 	// Here x and y must both:
 	// - have the same type as X
