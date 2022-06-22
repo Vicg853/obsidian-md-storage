@@ -20,7 +20,7 @@ impl Quad {
 ```
 
 ## Simple Methods
-As said, methods are functions. The straightforward version of methods always receive a reference to itself as a first argument, this way, methods will be tied to a Struct's instance.
+As said, methods are functions. The straightforward version of methods always receive a reference to itself as a first argument, this way, methods will be tied to a Struct's instance, but aren't limited to it.
 ```rust
 impl Quad { 
 	fn area(&self) -> u64 { //<-- note the &self notation that determines this function is a tied method
@@ -36,6 +36,11 @@ let rectangle = Quad {
 	height: 20,
 }
 println!("Teh rectangle's are corresponds to: {}", rectangle.area())
+
+//Or like this 
+let myArea = Quad::area(&rectangle);
+println!("Teh rectangle's are corresponds to: {}", myArea)
+
 ```
 
 ## Associate methods
