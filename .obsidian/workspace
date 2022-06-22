@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CompSci/Algorithms/Intro.md",
-            "mode": "preview",
+            "file": "CompSci/Data represesntation/Intro (Bit & binary).md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/Algorithms/Intro.md",
+                "file": "CompSci/Data represesntation/Intro (Bit & binary).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/Algorithms/Intro.md",
+                "file": "CompSci/Data represesntation/Intro (Bit & binary).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
+    "CompSci/Data represesntation/Intro (Bit & binary).md",
+    "CompSci/Data represesntation/Float.md",
+    "CompSci/Data represesntation/Integers.md",
+    "CompSci/Algorithms/BIG0 & Performance.md",
     "CompSci/Algorithms/Intro.md",
     "Software engineering/Paradigms/IIFE (a.k.a. Immediately Invoked Function Expression).md",
-    "CompSci/Data represesntation/Intro.md",
     "CompSci/Data represesntation/Objects/Methods vs parameters.md",
     "CompSci/Data represesntation/Bin format/Unicode consortium and UTF-8 (most used).md",
     "CompSci/Data represesntation/Bin format/Intro.md",
-    "CompSci/Data represesntation/Bin format/ASCII.md",
-    "Practices&policies/Cors.md",
-    "CompSci/Networking/Techniques/NAT Related/NAT traversal.md",
-    "CompSci/Networking/Techniques/Hole punching.md"
+    "CompSci/Data represesntation/Bin format/ASCII.md"
   ]
 }
