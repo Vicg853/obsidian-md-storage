@@ -17,3 +17,5 @@ To access values in arrays, just use the bracket syntax:
 ```rust
 let my_int = my_array[1];
 ```
+
+> When accessing out of range values, Rust compiler will panic at build time.

@@ -13,3 +13,5 @@ let (player_name, player_lives) = my_tupl;
 ```rust
 let player_name = my_tupl.0;
 ```
+
+> When accessing out of range values, Rust compiler will panic at build time.
