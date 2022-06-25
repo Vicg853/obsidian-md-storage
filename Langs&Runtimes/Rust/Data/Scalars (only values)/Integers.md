@@ -11,10 +11,16 @@ Integers type in Rust.
 - Types starting with u are un-signed integers: 1, 2, 3
 
 In Rust integers can be represented as: 
-- decimal (1,2, 3)
-- hexadecimal ( ``0x1000``)
-- octal (numbers represented in base8 format)
-- binary (only for ``u8`` type)
+- decimal 
+  > prefix none
+- hexadecimal 
+>   prefix ``0x``
+- octal 
+  > prefix ``0o``
+- binary 
+>   prefix ``0b``
+- Bytes (for u8 only!!)
+>  prefix ``b'`` - suffix ``'``
 
 What if literal overflow happens?
 Well, in this case, there are two opposite results, for two different circumstances:

@@ -39,33 +39,7 @@ And their float point should be at:
 	``f32``, ``f64``
 
 ### Char and string literals
-##### Character literal
-`` ' ( ~[' \ \n \r \t ] | QUOTE_ESCAPE | ASCII_ESCAPE | UNICODE_ESCAPE ) ' ``
-A character literal is a single Unicode character enclosed within two single quote characters
 
-##### String
-`` ' ( ~[" \ ``_IsolatedCR_`` ] | QUOTE_ESCAPE | ASCII_ESCAPE | UNICODE_ESCAPE | STRING_CONTINUE )* ' ``
-A string iteral is a sequence of any Unicode characters enclosed within two double quotes
 
-### Byte literals
-- ``b" ( ASCII_FOR_STRING | BYTE_ESCAPE | STRING_CONTINUE ) "``
-				_ASCII_FOR_STRING_: 0x00 to 0x7F, except for ``"``, ``\`` and _``IsolatedCR``_
-- raw byte: ``br RAW_BYTE_STRING_CONTENT``
-								_RAW_BYTE_STRING_CONTENT_: `"` ASCII* (non-greedy) `"`  | `#` RAW_BYTE_STRING_CONTENT `#`
 
-### Integer literals
-- Integer iteral: ``( DEC_LITERAL | BIN_LITERAL | OCT_LITERAL | HEX_LITERAL ) INTEGER_SUFFIX?``
-- Decimal literal: DEC_DIGIT (DEC_DIGIT|`_`)*
-- Binary iteral: ``0b`` (BIN_DIGIT|`_`)* BIN_DIGIT (BIN_DIGIT|`_`)*
-- Oct literal: `0o` (OCT_DIGIT|`_`)* OCT_DIGIT (OCT_DIGIT|`_`)*
-- Hexadecimal literal: `0x` (HEX_DIGIT|`_`)* HEX_DIGIT (HEX_DIGIT|`_`)*
-
-##### Digits
-- Binary digit: [0-1]
-- Oct digit: [0-7]
-- Decimal digit: [0-9]
-- Hexadecimal digit: [0-9 a-f A-D]
-
-##### Sufixes
-	``u8``, ``u16``, ``u32``, ``u64``, ``u128``, ``usize``, ``i8``, ``i16`` | ``i32`` | ``i64`` | ``i128`` | ``isize``
 
