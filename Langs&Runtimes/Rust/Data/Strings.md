@@ -1,33 +1,37 @@
-### Intro
+## Intro
 In rust, differently than js, is not abstracted at all and can bring quite some complexity for starters.
 
 So starting with the whole explanation of strings in Rust, with some main concepts/bullet points: 
 - Strings in rust follow the UTF-8 format 
 - Rust has two string variable types: ``&str`` (also reffered sometimes as a string slice) and ``String``
-- 
+- Both string types follow different storage methods
 
-
-### ``&str`` and ``String``
-
-##### Firstly how to declare them:
+Delcaration:
 ```rust
 let a: &str = "Hello, ";
 let b: String = String::from("world!");
 ```
 
-##### Specifications
+## Specifications
 Both string variable types, consist of simply an address to the real value written somewhere. These adresses can then be used in the heap, binary and stack. Although they have a similar purpose, they are formatted and  contain different characteristics:
-- A ``&str`` contains two properties: the address and the variable length. But it does not own the ``str`` value, it only offers a read access to the original dynamic value: the ``str``. Plus an ``&str`` may not point to an entire string but only to a specific section from that string. 
-  A ``str`` may be stored inside the binary, stack or heap memory; 
-- in the other hand a ``String`` references and owns a string: it gives you mutation access to the original value, by storing three properties: the address, the length and the variable max capacity. 
-  Unlike to its brother, his value will always be allocated on the heap.
 
-The use cases for these two are:
-- for variables where the objective it only to access a value: ``&str`` is the right candidate
-- and where mutable variables are needed, ``String`` is the solution
+#### ``&str``
+First, string slices are actually pointers to string stored in the program's binary or to other stored string. They don't own the actual string's data and aren't able to mutate it, having only read access to it. 
+String slices, as their nickname mentions, can also point only to a slice of a String. 
 
+They are composed of two main properties: 
+- The String's address 
+- The string's or slice length
 
-### Advanced ``String`` manipulation
+#### ``String``
+On the other hand, a string actually owns its data while also being of a pointer. Don't get it wrong, it has write access to it, but when as it runs on the stack and its value is mutable, with that. of variable size, its value must be stored on the memory's heap.
+
+As for what it is composed of:
+- The string's address
+- Its length (the entire length, no slices)
+- And it's max capacity
+
+## ``String`` manipulation
 ```rust
 //Definition
 

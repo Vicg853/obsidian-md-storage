@@ -14,3 +14,7 @@
 	```rust
 	let a: String = format!("{}{}", "Hello, ", "world!");
 	```
+
+### Commands
+- ``cargo vendor``
+Generates all vendor required manifests in a specific folder.
