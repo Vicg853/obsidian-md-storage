@@ -9,5 +9,6 @@
     "pt-BR"
   ],
   "tabSize": 3,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

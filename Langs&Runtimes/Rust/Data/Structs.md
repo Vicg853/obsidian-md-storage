@@ -53,8 +53,18 @@ let second_user = User {
 	usrname: String::from("random"),
 	email: String::from("random@example.com"),
 	..new_user //Here both missing declared values will be declared with their respectives from the new_user struct, them being here: active and sign_in_count
-}
+};
 ```
+- Using the field short init syntax, which consists of passing an existing variable to an equally named field:
+	```rust
+	let username = String::from("Tumex");
+	let email = String::from("tumex@gmail.com");
+	let third_user = User {
+		username,  //Here
+		email,  //and here
+		..new_user
+	};
+	```
 
 _Tuple like structs_
 To access specific values inside a tuple struct, you simply use their index, just like in lists/array, after the same dot notation:

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Ownership.md",
+            "file": "Langs&Runtimes/Rust/Syntax/Option Enum.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Ownership.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Option Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Ownership.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Option Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Ownership.md",
-    "Langs&Runtimes/Rust/Data/Strings.md",
-    "Langs&Runtimes/Rust/Dictio&Usefull.md",
-    "Langs&Runtimes/Rust/Data/References.md",
-    "Langs&Runtimes/Rust/Syntax/Veriables.md",
-    "Langs&Runtimes/Rust/Syntax/Loops.md",
-    "Langs&Runtimes/Rust/Syntax/Literals.md",
-    "Langs&Runtimes/Rust/Syntax/Others.md",
+    "Langs&Runtimes/Rust/Syntax/Option Enum.md",
+    "Langs&Runtimes/Rust/Syntax/Match expr.md",
+    "Langs&Runtimes/Rust/Data/Enums.md",
+    "Langs&Runtimes/Rust/Syntax/If&Else Statements.md",
+    "Langs&Runtimes/Rust/Scopes.md",
+    "Langs&Runtimes/Rust/Data/Structs.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Booleans.md",
     "Langs&Runtimes/Rust/Syntax/Ponctuation.md",
-    "Langs&Runtimes/Rust/Syntax/References.md"
+    "Langs&Runtimes/Rust/Syntax/References.md",
+    "Langs&Runtimes/Rust/Ownership.md"
   ]
 }
