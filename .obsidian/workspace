@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Examples Explained/HashMap word counter.md",
+            "file": "Langs&Runtimes/Rust/Syntax/Error handling.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Examples Explained/HashMap word counter.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Error handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Examples Explained/HashMap word counter.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Error handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Examples Explained/HashMap word counter.md",
-    "Langs&Runtimes/Rust/Personal discoveries/Data types.md",
-    "Langs&Runtimes/Rust/Data/Compound/HashMaps.md",
-    "Langs&Runtimes/Rust/Ownership.md",
-    "Langs&Runtimes/Rust/Data/Strings.md",
-    "Langs&Runtimes/Rust/Data/Compound/Vectors.md",
-    "Langs&Runtimes/Rust/Syntax/Option_Enum.md",
+    "Langs&Runtimes/Rust/Syntax/Error handling.md",
     "Langs&Runtimes/Rust/Syntax/Match expr.md",
-    "Langs&Runtimes/Rust/Data/Compound/Arrays.md",
-    "Langs&Runtimes/Rust/Data/Compound/Tuples.md"
+    "Langs&Runtimes/Rust/Functions/Basic functions.md",
+    "Langs&Runtimes/Rust/Functions/Combinators....md",
+    "Langs&Runtimes/Rust/Functions/Contructors.md",
+    "Langs&Runtimes/Rust/Functions/Implementations.md",
+    "Langs&Runtimes/Rust/Functions/Macros.md",
+    "Langs&Runtimes/Rust/Functions/Traits.md",
+    "Langs&Runtimes/Rust/Examples Explained/HashMap word counter.md",
+    "Langs&Runtimes/Rust/Personal discoveries/Data types.md"
   ]
 }
