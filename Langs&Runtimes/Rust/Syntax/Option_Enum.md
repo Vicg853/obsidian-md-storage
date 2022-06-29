@@ -38,13 +38,14 @@ match some_value {
 Or we may use the if/else operators to handle it. For that we declare a some inside our if condition and compare it to the desired optional value.
 
 ```rust
-if let Some(3) = some_value {
-	println!("three!");
+if let Some(i) = some_value {
+	println!("{}!", i);
 } else {
 	println!("Not def");
 }
 ```
 
+> _Note:_ Rust is creating a variable ``i `` here, from ou possibly defined ``some_value``
 
 ## Built-in implementations
 Rust options have some built-in methods, to help with optional values handling. 

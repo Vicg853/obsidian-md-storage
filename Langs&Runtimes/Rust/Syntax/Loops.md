@@ -47,3 +47,5 @@ Also very similar to other langs. There are to methods to iterate using ``for``:
 	}
 	```
 
+When using for we can also use the ``in`` keyword to iterate over arrays, 
+

@@ -27,7 +27,9 @@ What if we need to modify data? For that we have mutable references, that are de
 
 ```rust
 let mut x = String::from("Hi!");
-x.push_str(" How are you doing?");
+let y = &mut x;
+
+y.push_str(" How are you doing?");
 ```
 
 ## References and ownership 

@@ -1,6 +1,6 @@
 The match expression is used mainly with Enums. 
 
-It is almost like an iterator, that receives a value and copares it to defined cases in its scopes, proceeding then with the action defined for this specific action. 
+The match operator compares the inputted data to defined cases. We start by defining the keyword followed by the desired value. Then, on each following (inside its scope) line we handle the cases by defining the case value and the resulting function, return, etc, on the right of an arrow ``=>``.
 
 ``Match``es are declared like so:
 ```rust 
@@ -38,7 +38,7 @@ match section {
 ```
 
 ## Enum variant values
-In the case an Enum has a variant built into it, you may also handle it inside a match, by using parenthesis, just as if we were using function arguments:
+In the case an Enum has a variant built into it, you may also handle it inside a match. You do it by defining a variable with the variant, just as a function's inner argument:
 ```rust
 enum SectionThirdType {
 	One,
@@ -56,4 +56,6 @@ match section2 {
 	}
 }
 ```
+
+> _Abstraction:_ We could say that when checking the above case, Rust tries to create a variable from the SectionThirdType::Two variant. If it does not succeed (the value var can be defined), it goes the follows on with matching, but if it does succeed, it defined the value just as a function inner argument, that can be used on the right side of the =>
 

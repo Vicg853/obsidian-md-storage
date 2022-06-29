@@ -2,11 +2,11 @@
 In rust, differently than js, is not abstracted at all and can bring quite some complexity for starters.
 
 So starting with the whole explanation of strings in Rust, with some main concepts/bullet points: 
-- Strings in rust follow the UTF-8 format 
-- Rust has two string variable types: ``&str`` (also reffered sometimes as a string slice) and ``String``
+- Strings in rust follow the UTF-8 format, that means, strings' bytes are of variable length (1, 2, 3, 4).
+- Rust has two string variable types: ``&str`` (also referred sometimes as a string slice) and ``String``
 - Both string types follow different storage methods
 
-Delcaration:
+Declaration:
 ```rust
 let a: &str = "Hello, ";
 let b: String = String::from("world!");
