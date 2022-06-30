@@ -2,7 +2,7 @@ The match expression is used mainly with Enums.
 
 The match operator compares the inputted data to defined cases. We start by defining the keyword followed by the desired value. Then, on each following (inside its scope) line we handle the cases by defining the case value and the resulting function, return, etc, on the right of an arrow ``=>``.
 
-``Match``es are declared like so:
+``match``es are declared like so:
 ```rust 
 // Consider the following enum and var
 //enum Section {
@@ -59,3 +59,12 @@ match section2 {
 
 > _Abstraction:_ We could say that when checking the above case, Rust tries to create a variable from the SectionThirdType::Two variant. If it does not succeed (the value var can be defined), it goes the follows on with matching, but if it does succeed, it defined the value just as a function inner argument, that can be used on the right side of the =>
 
+## Match and borrowing
+When passing the match value result to a case, you may want sometimes not to move the value, but only borrow if. For it, you may use the ``ref`` keyword, before the defined variable
+
+```rust
+match a {
+	Some(ref val) => println!("Value exists and is: {}", a),
+	_ => println!("Value does not exist")
+}
+```

@@ -49,8 +49,8 @@ fn my_func() -> i32 {
 }
 ```
 
-## Generic limitation
-You may sometimes, need to limit the types that can be passed to a generic, for that you may use ``:`` after the generic's definition and specify its types. 
+## Type narrowing
+You may sometimes, need to limit the types that can be passed to a generic, you can do that, in the same way as if you were defining a variable's types: 
 ```rust
 struct E<T: i32> {
 	//...
@@ -59,12 +59,19 @@ struct E<T: i32> {
 
 You can define many types using the ``+`` : 
 ```rust
-struct F<T: i32 + i64>{
+struct F<T: i32 + i64> {
 	//...
 }
 ```
 
-You can think of this feature, as the typescript ``extends`` keyword.
+You can think of this as typescript's ``extends`` keyword.
+
+You can also use trait bounds, to narrow down generics to only types that implement a certain trait (check out more about [trait bounds](./Trait_bounds)):
+```rust
+struct G<T: Display + Clone> {
+	//...
+}
+```
 
 ## Traits and Impls "type filtering"
 When defining implementations and traits into structs/enums, using generics, you may filter by type, which implementations and traits are implemented.
@@ -83,8 +90,28 @@ impl A<i64> {
 }
 ```
 
-> _Explanation:_ In this case, the ``a`` method will be available to any data implemented with the ``A`` struct. But the ``b`` method, will only be available to data implmented with the ``A`` struct where the generic is of type ``i64``. 
+> _Explanation:_ In this case, the ``a`` method will be available to any data implemented with the ``A`` struct. But the ``b`` method, will only be available to data implemented with the ``A`` struct where the generic is of type ``i64``. 
 
+## ``where``
+On ``impl``s, ``trait``s, ``enum``s, ``struct``s and ``fn``s generics can sometimes get quite long and complicated. For that the ``where`` keyword exists. It is a syntax sugar, that should be defined under the above mentioned element's definition. 
+
+There you can specify in a more readable way, each's generic type starting by a ``where`` keyword and a comma at the end of each generic's type definition. 
+
+```rust
+fn my_func<T, U>() -> i64
+	where T: Display,
+			U: Copy, 
+{
+
+}
+```
+
+It is usually recommended to be used along trait bound definitions. 
+
+## Performance
+There are no performance overheads when using generics. Rust only does generic type checks at compile time and removes them at from runtime code. 
+
+Rust actually generates all the necessary code for each generic type case. So for as an example when using the ``A`` struct to create a ``let x`` variable with a i32 value and another ``let y`` variable with i64: Rust will create two different struct implementations, one for the i32 and another for i64.
 
 
 
