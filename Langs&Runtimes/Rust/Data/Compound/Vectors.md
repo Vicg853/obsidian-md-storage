@@ -51,7 +51,7 @@ my_vector2.push(1, 2, 3, 4);
 ## References 
 You can just like with other data types, create references, following the same rules. 
 
-Remember that, you can only have an only mutable references or many immutable references inside a "virtual" scope (as explained and abstracted [here](../../Ownership)).
+Remember that, you can only have an only mutable references or many immutable references inside a "virtual" scope (as explained and abstracted [here](Ownership.md)).
 
 Under the hood, this is justified by the fact that vectors are stored on the heap. When mutating a vector's value and causing it to shrink/grow, this memory part is reallocated to a different address, causing the reference to point to now, an invalid address.
 
