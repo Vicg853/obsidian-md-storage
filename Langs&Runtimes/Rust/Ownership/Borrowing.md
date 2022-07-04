@@ -2,7 +2,7 @@ Something that helps us a when working with Rust's ownership systems are _refere
 References can be used when we want to access data, without taking ownership for it. 
 
 To create a reference, we use the ``&`` symbol before the String type and variable usage. 
-Check [this](../Data/References) out to know more about defining references
+Check [this](References.md) out to know more about defining references
 
 ## Refrence rules
 1. At any given time, you can either have one mutable reference or any number of immutable references

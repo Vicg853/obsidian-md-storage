@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Data/Smart_pointers/Box.md",
+            "file": "Langs&Runtimes/Rust/Syntax/Deref_operator.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Smart_pointers/Box.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Deref_operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Smart_pointers/Box.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Deref_operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Box.md",
-    "Langs&Runtimes/Rust/Cargo & Crates/Mod import helpers.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Intro.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Droped_trait.md",
+    "Langs&Runtimes/Rust/Syntax/Deref_operator.md",
     "Langs&Runtimes/Rust/Data/Smart_pointers/Deref_trait.md",
-    "Langs&Runtimes/Rust/Data/References.md",
-    "Langs&Runtimes/Rust/Syntax/Variables.md",
-    "Langs&Runtimes/Rust/Ownership/Borrowing.md",
-    "Langs&Runtimes/Rust/Data/Strings.md",
-    "Langs&Runtimes/Rust/Useful STD/Iter_trait.md"
+    "Langs&Runtimes/Rust/Syntax/If&Else Statements.md",
+    "Langs&Runtimes/Rust/Syntax/Error handling.md",
+    "Langs&Runtimes/Rust/Data/Smart_pointers/Box.md",
+    "Langs&Runtimes/Rust/Syntax/Option_Enum.md",
+    "Langs&Runtimes/Rust/Syntax/Loops.md",
+    "Langs&Runtimes/Rust/Syntax/Literals.md",
+    "Langs&Runtimes/Rust/Ownership/Ownership.md",
+    "Langs&Runtimes/Rust/Syntax/References.md"
   ]
 }

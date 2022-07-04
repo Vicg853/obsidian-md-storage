@@ -33,4 +33,4 @@ y.push_str(" How are you doing?");
 ```
 
 ## References and ownership 
-You must take care when using references. A set of rules provide memory safety when using them, so take a look [here](Ownership.md).
+You must take care when using references. A set of rules provide memory safety when using them, so take a look [here](../Ownership/Ownership.md).

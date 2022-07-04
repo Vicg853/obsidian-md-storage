@@ -1,0 +1,1 @@
+It is important to know about the deref operator and its traits when working with smart pointers. Check more about it [here](../../Syntax/Deref_operator).
