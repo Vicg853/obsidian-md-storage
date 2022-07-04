@@ -69,3 +69,17 @@ Two other features come with nested imports:
 	```rust
 	use MyOtherCrate::{self, my_module};
 	```
+
+## With data types
+You may also use ``use`` (haha) with other data types. They allow you to bring their child elements into scope. 
+
+Example with an enum:
+```rust
+enum my_enum {
+	A,
+	B
+}
+
+use my_enum:{A, B};
+//Now A and B can be used directly as they are in scope
+```
