@@ -14,7 +14,7 @@ println!("A is equal to, {}", a);
 ```
 
 #### Type definition
-A trait that accepts a generic of type T: ``Box<T>``
+A struct that accepts a generic of type T: ``Box<T>``
 ```rust
 enum A {
 	Box<B>,
