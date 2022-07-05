@@ -11,7 +11,7 @@ Smart pointers can also be created from scratch, by the way, many libraries and 
 ## Index
 #### Traits
 - The [deref trait](./Deref_trait)
-- The [dropped trait](./Droped_trait)
+- The [dropped trait](Drop_trait.md)
 
 #### STD smart pointers
 - The [Box](./Box) smart pointer
