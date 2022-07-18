@@ -1,6 +1,7 @@
 The match expression is used mainly with Enums. 
 
 The match operator compares the inputted data to defined cases. We start by defining the keyword followed by the desired value. Then, on each following (inside its scope) line we handle the cases by defining the case value and the resulting function, return, etc, on the right of an arrow ``=>``.
+These matches, are called patterns arms.
 
 ``match``es are declared like so:
 ```rust 
@@ -19,8 +20,9 @@ match section {
 }
 ```
 
+##
 Matches are exhaustive, that is: all possibilities MUST be handled. 
-In a case of innumerable variants we may use the underscore ``_`` to handle all non handled cases by default.
+In some cases, we may not wan't to handle each & every case. For that, we may use the underscore ``_`` to handle all non handled cases by default.
 
 ```rust
 enum SectionSecondType {
@@ -34,6 +36,20 @@ match section {
 		println!("Option one");
 	},
 	_ => 0  //Both `Two` and `Three` variants will be handled here
+}
+```
+
+> _Note_ that, the input value is usually bound to the matched arm. But, when using the match all underscore, the value **isn't** bound to it. 
+
+To bound it, we must declare it as a variable instead. Consider the above example and that the ``SectionSecondType`` struct is derived by ``Debug``:
+```rust
+match section {
+	Section::One => {
+		println!("Option one");
+	}
+	bounded_to_me => {
+		println!("Option {:?}", Three);
+	}
 }
 ```
 
