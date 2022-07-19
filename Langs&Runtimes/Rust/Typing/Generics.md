@@ -49,6 +49,28 @@ fn my_func() -> i32 {
 }
 ```
 
+## Defaults
+Sometimes we may want not to define a different type for each case. For that we have default generic types, which turns defining generic types at each implementation something optional.
+
+It is done pretty similar to normal variables ``VARIABLE`` + ``=`` + ``DEFINITION``, but inside the same arrow brackets.
+
+
+```rust
+trait MyTrait<T = i32> {
+	fn a(self, arg: T) -> T { /*... */ }
+}
+
+// See, we aren't required to define any generics here
+impl MyTrait for MyStruct {
+	fn a(self, arg: i32) -> i32 { /*... */ }
+}
+
+//But we may do it if we want
+impl MyTrait<isize> for MySecondStruct {
+	fn a(self, arg: isize) -> isize { /*... */ }
+}
+```
+
 ## Type narrowing
 You may sometimes, need to limit the types that can be passed to a generic, you can do that, in the same way as if you were defining a variable's types: 
 ```rust
