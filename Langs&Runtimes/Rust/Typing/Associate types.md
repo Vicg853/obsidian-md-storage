@@ -1,4 +1,4 @@
-_Check out [traits](../Functions/Traits) before!_
+_Check out [traits](Langs&Runtimes/Rust/Functions/Traits/Intro.md) before!_
 
 Associate types are pretty similar to generics: you define type variables, that can be used across multiple components.
 
