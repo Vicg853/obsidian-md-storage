@@ -1,3 +1,5 @@
+It is recommended to check [this](../../Typing/Aliasing) out before 
+
 Originally the orphan rule doesn't allow us to implement a type that is external to our crate, with an external trait. 
 
 You can get around this, by simply warping our type inside a tuple struct and then, implementing a trait to the internal struct, instead of the type directly. 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Syntax/Unsafe/Unions.md",
+            "file": "Langs&Runtimes/Rust/Functions/Advanced functions.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Syntax/Unsafe/Unions.md",
+                "file": "Langs&Runtimes/Rust/Functions/Advanced functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Syntax/Unsafe/Unions.md",
+                "file": "Langs&Runtimes/Rust/Functions/Advanced functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Syntax/Unsafe/Impls & traits.md",
-    "Langs&Runtimes/Rust/Syntax/Unsafe/Static variables.md",
-    "Langs&Runtimes/Rust/Syntax/Unsafe/FFIs.md",
-    "Langs&Runtimes/Rust/Syntax/Unsafe/Functions.md",
-    "Langs&Runtimes/Rust/Syntax/Unsafe/Raw pointers.md",
-    "Langs&Runtimes/Rust/Syntax/Unsafe/Intro.md",
-    "Langs&Runtimes/Rust/Functions/Traits/Newtype_pattern.md",
-    "Langs&Runtimes/Rust/Functions/Traits/Intro.md",
-    "Langs&Runtimes/Rust/Functions/Traits/Super traits.md",
-    "Langs&Runtimes/Rust/Typing/Trait_bounds.md"
+    "Langs&Runtimes/Rust/Functions/Closures.md",
+    "Langs&Runtimes/Rust/Functions/R.md",
+    "Langs&Runtimes/Rust/Functions/Advanced functions.md",
+    "Langs&Runtimes/Rust/Functions/Functions.md",
+    "Langs&Runtimes/Rust/Typing/Type sizes.md",
+    "Langs&Runtimes/Rust/Typing/Types.md",
+    "Langs&Runtimes/Rust/Typing/Aliasing.md",
+    "Langs&Runtimes/Rust/Typing/Spe.md",
+    "Langs&Runtimes/Rust/Typing/Trait_bounds.md",
+    "Langs&Runtimes/Rust/Functions/Traits/Newtype_pattern.md"
   ]
 }
