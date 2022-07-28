@@ -4,7 +4,7 @@ They are declared by first using the ``macro_rule!`` keyword followed by the mac
 
 Then inside it, we declare something similar to a match's expression arm: a pattern between parenthesis that will tell Rust about the syntax pattern that should be used for declaration and then the respective generation code between curly brackets again.
 
-Also, on top of the declaration we must use the state our macro with ``#[macro_export]``, in case we want to export it.
+Also, on top of the declaration we must use the state our macro with the ``#[macro_export]`` macro, in case we want to export it.
 
 ## Declaration by example
 ```rust

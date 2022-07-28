@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Functions/Macros/Delcarative.md",
+            "file": "Langs&Runtimes/Rust/Functions/Macros/Procedural/Function macros.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Macros/Delcarative.md",
+                "file": "Langs&Runtimes/Rust/Functions/Macros/Procedural/Function macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Functions/Macros/Delcarative.md",
+                "file": "Langs&Runtimes/Rust/Functions/Macros/Procedural/Function macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Functions/Macros/Untitled.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Procedural/Attribute like macros.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Procedural/Derive macro.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Procedural/Macro-formats.md",
     "Langs&Runtimes/Rust/Functions/Macros/Delcarative.md",
-    "Langs&Runtimes/Rust/Functions/Macros/Procedural.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Procedural/Intro.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Procedural/Function macros.md",
+    "Langs&Runtimes/Rust/Functions/Macros/Untitled.md",
     "Langs&Runtimes/Rust/Functions/Macros/Intro.md",
     "Langs&Runtimes/Rust/Functions/Macros.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/RefCell.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Weak.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Rc_(aka_reference_counting).md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Intro.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Drop_trait.md"
+    "Langs&Runtimes/Rust/Data/Smart_pointers/RefCell.md"
   ]
 }

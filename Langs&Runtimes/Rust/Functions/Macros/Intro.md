@@ -7,4 +7,4 @@ This allows us to narrow things down, what could take lines of code, intro small
 The problem with them, is that they can be quite are hard to understand and maintain, but can be a great tool when used to them.
 
 #### Macro types
-There are two different macro types: [procedural macros](./Procedural) and [declarative macros](./Declarative). 
+There are two different macro types: [procedural macros](Langs&Runtimes/Rust/Functions/Macros/Procedural/Intro.md) and [declarative macros](./Declarative). 
