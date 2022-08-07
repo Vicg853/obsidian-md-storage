@@ -5,6 +5,8 @@ The compiler allows you to create methods across traits and data types "natural"
 You just need to tell the compiler your current intentions, otherwise by default, it will use directly implemented methods (when using the ``.``method``()`` notation). 
 Then there are two different scenarios as for intention declaration.
 
+Note that isn't the same as function overload: some data can't have equally named methods in its root ``impl`` block. You may only have equally named methods on a data type where each originates from it's own trait definition block.
+
 #### normal methods
 When a trait's method accepts a ``&self`` argument, Rust can easily figure things out. So we simply use the trait name and double columns, followed by the chosen method, which will receive the desired type variable that implements this trait: ``MyTrait::my_method(&my_struct_that_impls_MyTrait)``
 
@@ -51,5 +53,3 @@ let my_var2 = MyStruct2 { };
 MyStruct::fly(); //The method implemented at (1)
 <MyStruct2 as MyTrait2>::fly(); //The method implemented at (2)
 ```
-
-## Super traits
