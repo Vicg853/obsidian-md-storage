@@ -8,7 +8,7 @@ It works with a lock-release system: when accessing a variable, we must acquire 
 In Rust, we must wrap our data inside a mutex and call the ``.lock()`` method to access a reference of it. The ``.lock()`` method, will return a ``MutexGuard`` smart pointer, which implements both the ``Drop`` and ``Deref`` trait. 
 Which means, that, to access the underlying mutex data, we must dereference it with ``*`` and when the pointer goes out of scope, both itself and the its respective lock are dropped.
 
-Though, when passing the mutex variable itself onto other threads, the ownership rules must be applied as we've seen with thread cllosures, which means, the mutex smart pointer it not that useful alone. 
+Though, when passing the mutex variable itself onto other threads, the ownership rules must be applied as we've seen with thread closures, which means, the mutex smart pointer it not that useful alone. 
 So, we need to use something similar to the ``Rc`` (about it the ``Rc`` smrt pntr [here](../../Data/Smart_pointers/Rc_(aka_reference_counting))) smart pointer along with it: the ``Arc``, which stands for "Atomic reference counting". 
 
 The ``Arc`` smrt pntr, differently than its brother ``Rc``, is thread safe (it will be able to keep track of all owners across thread accurately).
