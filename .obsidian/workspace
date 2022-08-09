@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/Message_passing.md",
+            "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/State_sharing.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/Message_passing.md",
+                "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/State_sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/Message_passing.md",
+                "file": "Langs&Runtimes/Rust/Useful STD/Concurrency/State_sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
+    "Langs&Runtimes/Rust/Useful STD/Concurrency/Sync_and_Send.md",
+    "Langs&Runtimes/Rust/Data/Smart_pointers/Rc_(aka_reference_counting).md",
     "Langs&Runtimes/Rust/Useful STD/Concurrency/State_sharing.md",
     "Langs&Runtimes/Rust/Useful STD/Concurrency/Message_passing.md",
     "Langs&Runtimes/Rust/Useful STD/Concurrency/Intro.md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency/Sync_and_Send.md",
     "Langs&Runtimes/Rust/Useful STD/Concurrency.md",
     "Langs&Runtimes/Rust/Idiomacy/Working with option.md",
     "Langs&Runtimes/Rust/Idiomacy/Builder pattern.md",
     "Langs&Runtimes/Rust/Idiomacy/Constructors.md",
-    "Langs&Runtimes/Rust/Functions/Traits/Static and dynamic dispatch trait impl.md",
-    "Langs&Runtimes/Rust/Functions/Traits/Shared method naming.md"
+    "Langs&Runtimes/Rust/Functions/Traits/Static and dynamic dispatch trait impl.md"
   ]
 }
