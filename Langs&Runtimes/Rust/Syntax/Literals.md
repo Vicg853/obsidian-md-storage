@@ -1,45 +1,36 @@
-### Intro
-	In rust, a literal is an expression consisting of a single token instead of sequence. It imediately and directly denotes the value it evaluates. Literals are evaluated at compile time.
+## Char and string literals
 
-### Specifications
-Literals may have the following formats and share with common formats the following escapes:
-##### ASCII
-- ``\n`` newline
-- ``\x41`` 7-bit character (exactly 2-digits, up to 0x7F)
-- ``\r`` carriage return 
-- ``\t`` tab
-- ``\\`` backslash
-- ``\0`` null
-##### Byte
-- ``\x7F`` 8-bit character (exactly 2-digits)
-- same others as ASCII excluding ``\x41`` 
-##### Unicode
-- ``\u{7FFF}`` 24-bit Unicode character (up to 6 digits)
-##### Quotes
-- ``\'`` single
-- ``\"`` double
-##### Numbers
-- Decimal integers
-- Hex integer
-- Octal integer
-- Binary Integer
-- Floating-point
+#### Raw string literals
+Raw string literals, are useful when using special ``"`` characters inside a string, e.g.: when writing a JSON strings.
 
-	**Info all number literals accept ``_`` as a visual separator, e.g.: ``1_234`` -> 1234**
-
-##### Suffixes
-In rust macros accept suffixes, it is then decided by the macro itself if this should result in an error or success. 
-Suffices are positioned directly after the end of any string, integer, etc, e.g.: 
+Consider the following case, that would probably error, as we use ``"`` inside our string:
 ```rust
-	potato!("string"suffix)
+let my_json = "
+	"a": 1,
+	"b": 1,
+	"c": [
+		"abc",
+		"efg"
+	]
+"; 
 ```
-However, suffixes on literal tokens are rejected on non-numeric literal tokens and numeric literal tokens are accepted only with the following suffixes:
-	``u8``,  ``i8``, ``u16``, ``i16``, ``u32``, ``i32``, ``u64``, ``i64``, ``u128``, ``i128``, ``usize``, ``isize`` 
-And their float point should be at: 
-	``f32``, ``f64``
 
-### Char and string literals
+We may solve this, using raw string literals... We declare a raw string literal, by prefixing our string with an ``r`` followed by N quantity of ``#``s and an  opening ``"``. To close our raw string literal we use a ``"`` followed by the same N number of ``#`` at the end.
 
 
+Now, this works:
+```rust
+let my_json = r#"
+	"a": 1,
+	"b": 1,
+	"c": [
+		"abc",
+		"efg"
+	]
+"#;
+
+//And this also works 
+let my_complex_string = r##"This, will not close: "# It will only close here -> "##
+```
 
 
