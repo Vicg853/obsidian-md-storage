@@ -79,6 +79,12 @@ let cube = ThreeD_Obj(..vector)
 ```
 Although properties inside both structs are entirely the same, they can't be reused as they represent different structs, so probably different data parts. This rule prevents confusion between data types. The _same applies_ to _function arguments_ with different struct tuple types.
 
+## Unit like structs
+Unit-like structs, are pretty simple, they can be used when you need to create trait implementations, without having any actual data stored. To declare an unit-like struct, you simply use the ``struct`` keyword followed by the desired name... That's it!
+
+```rust
+struct MyUnitStruct;
+```
 
 ## Implementing a struct
 To implement methods or other things to our struct, we need to use the ``impl`` syntax. More about it [here](../Functions/Implementations).
