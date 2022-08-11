@@ -21,6 +21,23 @@ let x = loop {
 }
 ```
 
+#### ``loop`` Tags
+You may add a tag to your loop, for both readability and practical usage: you can use a label, to specify which loop must be broken in nested loops.
+
+Label are declared using a ``'`` followed by the tag name and a double column. Then we simply declare the loop itself.
+
+```rust 
+'my_loop_label: loop {
+	
+	loop {
+		if true {
+			break 'my_loop_label; //This will break the outer loop
+		}
+		break; //This would brake the inner loop
+	}
+}
+```
+
 ## While 
 Very similar to other langs
 ```rust 
