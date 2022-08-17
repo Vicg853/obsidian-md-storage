@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Syntax/Expression and statements.md",
+            "file": "Langs&Runtimes/Rust/Data/Compound/Arrays.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Syntax/Expression and statements.md",
+                "file": "Langs&Runtimes/Rust/Data/Compound/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Syntax/Expression and statements.md",
+                "file": "Langs&Runtimes/Rust/Data/Compound/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Syntax/Loops.md",
-    "Langs&Runtimes/Rust/Syntax/Literals.md",
-    "Langs&Runtimes/Rust/Data/Structs.md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency/Sync_and_Send.md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency/State_sharing.md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency/Message_passing.md",
-    "Langs&Runtimes/Rust/Data/Smart_pointers/Rc_(aka_reference_counting).md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency/Intro.md",
-    "Langs&Runtimes/Rust/Useful STD/Concurrency.md",
-    "Langs&Runtimes/Rust/Idiomacy/Working with option.md"
+    "Langs&Runtimes/Rust/Data/Compound/Vectors.md",
+    "Langs&Runtimes/Rust/Data/Compound/Tuples.md",
+    "Langs&Runtimes/Rust/Data/Strings.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Simple operators.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Characters.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Booleans.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Floats.md",
+    "Langs&Runtimes/Rust/Syntax/Variables.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Chars.md",
+    "Langs&Runtimes/Rust/Data/Scalars (only values)/Integers.md"
   ]
 }
