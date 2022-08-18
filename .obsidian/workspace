@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+            "file": "Langs&Runtimes/Rust/Useful STD/Testing/Test_macros.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+                "file": "Langs&Runtimes/Rust/Useful STD/Testing/Test_macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+                "file": "Langs&Runtimes/Rust/Useful STD/Testing/Test_macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Data/Compound/Tuples.md",
+    "Langs&Runtimes/Rust/Useful STD/Testing/Intro.md",
     "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+    "Langs&Runtimes/Rust/Data/Compound/Tuples.md",
     "Langs&Runtimes/Rust/Data/Compound/Arrays.md",
     "Langs&Runtimes/Rust/Data/Compound/Vectors.md",
     "Langs&Runtimes/Rust/Data/Scalars (only values)/Simple operators.md",
     "Langs&Runtimes/Rust/Data/Scalars (only values)/Characters.md",
     "Langs&Runtimes/Rust/Data/Scalars (only values)/Booleans.md",
     "Langs&Runtimes/Rust/Data/Scalars (only values)/Floats.md",
-    "Langs&Runtimes/Rust/Syntax/Variables.md",
-    "Langs&Runtimes/Rust/Data/Scalars (only values)/Chars.md"
+    "Langs&Runtimes/Rust/Syntax/Variables.md"
   ]
 }
