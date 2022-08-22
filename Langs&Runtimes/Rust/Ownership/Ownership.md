@@ -5,76 +5,70 @@ This model works with three specific rules, that ensures these features:
 2. Each value always has one and only owner
 3. When a value's owner goes out of scope, the same is dropped
 
-Let's see how these concepts apply in the real world: 
-- String Moves
-	```rust
-		let x = String::from("Hello world!");
-		let y = x;
-	```
-	Remember the 2nd rule?
-	Well, in most programming languages, when doing this, ``x``'s' value would either be duplicated/copied into ``y``  or a second pointer would be created for this value.
-	
-	What actually happens in Rust, is that ``x`` 's value will be moved to ``y``, making it its new owner and x will become invalid, because it has no data. 
+Ownership ensures our program can safely allocate and deallocate memory (from the heap), without double freed, memory corruption, or dangling memory. But keep in mind, that ownership isn't totally applied in all types: push/pop variable types (which can be stored on the stack), are copied by default.
 
-	Although, its possible to perform a copy, by simply using the default ``.clone()`` string method. (consider the above example)
-	```rust 
-	let z = y.clone();
-	```
+## Strings and som compound types
+Strings are on of the most complicated types to manage and store in memory. They are usually either allocated on the heap or in the program's binary. What is kept on the stack, is actually a simple pointer to this data, which has a compile time know size.
 
-	Note that this only occurs with Strings. For integers, th Rust will copy its value by default, instead of being moved.
+Quoting the three rules: to keep ownership, we can only have an only pointer on the stack, pointin to allocated data, as having more than one, could result in double frees. 
 
-- String Moves for functions
-	The previous behaviour is similar on functions: when passing a String as an argument to a functions, its ownership will be handed over to the function. The same thing happens on the opposite direction: when returning a value at a function and appending this function's result to a variable, it will obtain the return's ownership. 
-
-	```rust 
-	fn a(my_arg: String) { 
-		//... do something
-		
-		//!! Warn, we are considering that the bellow value is a String!!
-		my_return //The function loses this variable's ownership
-	}
-
-	fn main() {
-		let my_string = String::from("Hello World!");
-
-		let my_result = a(my_arg); //my_arg loses ownership over the String
-		//my_result now has ownership over a's return
-	}
-	```
-
-	Remember, the same does not happen with integers. If we replaced the above example strings, by integers, their values would be copied from  ``my_string`` to ``my_arg`` and return to ``my_result``. 
-	
-
-## Some examples
-- Working with ownership, shadowing 
+So, in the example bellow, we are actually moving ``x`` to ``y``. Which means that ``x`` does not exist anymore after its pointer has been moved to ``y``. This also means that the underlying ``String`` data, is now owned by ``y``:
 ```rust
-fn main() {
+let x = String::from("Hello world!");
+let y = x;
+```
 
-    let mut x = String::from("Hello World");
+We could optionally clone ou ``String`` instead of moving it. Now we have two equal ``String`` values, both having its own only onwer and valid:
+```rust
+let x = String::from("Hello world!");
+let y = x.clone();
+```
 
-    let y = get_slice(&x);
-    println!("Y: {}", y);
+> Note that, clone on compound types, can be pretty expensive, as performance wise. Our system needs to look for the data on the heap, talk with the allocator to allocate memory and then duplicate the data on the new opened space.
 
-    x.clear();
+## Scalar values, the ``Drop`` trait and the ``Copy`` trait
+Although most compound values must be either moved, or referenced or copied, and inflict quite some complexity, scalar types are pretty simple: they are simply copied by default.
 
-    let y = get_slice(&x); //* If we haven't done this shadowing then the .clear() 
-    //would throw an error
-	 //* As we would be accessing both an immutable and mutable reference to the
-	 // same string, on the same scope.
-    println!("Y: {}", y);
+Don't worry, copying scalars is fast as fuck, as they are stored on the stack, we simply push a copy of the data. Just like that: no search, or allocation requests. Moving or copying data to the stack, has almost no performance difference.
+
+So when we do this, both ``x`` and ``y`` are valid, as our integer is simply being copied by default:
+```rust 
+let x = 5;
+let y = x;
+```
+
+But how does Rust keeps track of all this? It uses the ``Drop`` and ``Copy`` traits. Every type that implements the ``Copy`` trait, is usually pushed to the stack, therefore it can be copied by default. 
+While, every type that implements the ``Drop`` trait, is allocated to the heap and _can't_ implement the ``Copy`` trait. As they impl ``Drop``, they have a special way of deallocating memory, we can't simply pop it from the stack, we must call its ``drop()`` method, which does something special. 
+
+Which types implement the ``Copy`` trait: 
+- All Integers types
+- All Floating point types
+- All bolean types
+- ``char`` types
+- tuple types: _only if they are solely composed of  ``Copy`` implemented types_ (example: ``(i32, String)``s won't work, while ``(i32, i32)`` would work)
+
+## Function and returns
+The same applies when we call functions, types that implement ``Drop`` are moved, while the ones that implement ``Copy`` are simply duplicated.
+
+And although functions may take ownership, we may also return ownership from it.
+
+```rust 
+fn take_and_give_back(my_string: String) -> String {
+	my_string //This return hands over my_string's ownership back 
 }
 
-  
+let my_string = String::from("A");
+let x = take_and_give_back(my_string);
 
-fn get_slice(string: &str) -> &str {
-    let bytes = string.bytes();
-    
-    for (i, item) in bytes.enumerate() {
-        if item == b' ' {
-            return &string[..i];
-        }
-    }
+//Now my_string's previous value is onwed by x
+//the take_and_give_back function, took ownership of our string
+//and gave it back to x 
 
-    &string[..]
+fn just_copy(my_int: u32) -> String {
+	my_string
 }
+
+let my_int = 5;
+just_copy(my_int)
+let y = my_int; //This is valid, as my_int was simply copied by just_copy
 ```
