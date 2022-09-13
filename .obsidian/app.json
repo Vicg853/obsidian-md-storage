@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "fr-FR",
+    "pt-BR"
+  ],
+  "vimMode": true
+}

@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "d4e651a5fdc4830b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6189406b488f428",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CompSci - l1/Language Basics/C++.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a2fcccaf2ede0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd72b26c8a96d997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bee714e1439d8ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65560ba8c975318f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "945043a887bbaed9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "230f669b441f7d54",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1a07a1f22faa95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c743160c9cbb926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CompSci - l1/Language Basics/C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "969e47f241a51cd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CompSci - l1/Language Basics/C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21f681b9fce79237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a10c2a3e5a5f5911",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CompSci - l1/Language Basics/C++.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6189406b488f428",
+  "lastOpenFiles": [
+    "CompSci - l1/UE - The basics/The machine basics.md",
+    "CompSci - l1/UE - The basics/Coding basics.md",
+    "CompSci - l1/Untitled.md",
+    "UE - Bases prog/CPU.md",
+    "UE - Bases prog/OSs.md",
+    "UE - Bases prog/RAM.md",
+    "Algebra - L1/Logique/Intro.md",
+    "Algebra - L1/Vocab.md"
+  ]
+}
