@@ -7,8 +7,12 @@
         "id": "58a5bbeba11ba635",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +124,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
-  "active": "58a5bbeba11ba635",
+  "active": "3e76e6a6d3ea02e2",
   "lastOpenFiles": [
     "Langs&Runtimes/Rust/Useful STD/Testing/Test orgnization.md",
     "Langs&Runtimes/Rust/Ownership/Borrowing.md",
