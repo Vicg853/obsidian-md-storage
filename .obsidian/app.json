@@ -1,11 +1,14 @@
 {
-  "promptDelete": false,
+  "legacyEditor": false,
   "livePreview": false,
+  "showFrontmatter": false,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "en-US",
-    "fr-FR",
+    "fr",
+    "en-CA",
     "pt-BR"
   ],
-  "vimMode": true
+  "tabSize": 3,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
