@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+            "file": "EN - L1/TDs/20-09-2022.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+                "file": "EN - L1/TDs/20-09-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+                "file": "EN - L1/TDs/20-09-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +127,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "3e76e6a6d3ea02e2",
+  "active": "58a5bbeba11ba635",
   "lastOpenFiles": [
-    "Langs&Runtimes/Rust/Useful STD/Testing/Test orgnization.md",
-    "Langs&Runtimes/Rust/Ownership/Borrowing.md",
-    "Langs&Runtimes/Rust/Ownership/Ownership.md",
-    "Langs&Runtimes/Rust/Ownership/Memory_leaks&related.md",
-    "Langs&Runtimes/Rust/Ownership/Lifetimes.md",
-    "Langs&Runtimes/Rust/Modules.md",
-    "Langs&Runtimes/Rust/Useful STD/Testing/Controling_runs.md",
-    "Langs&Runtimes/Rust/Idiomacy/Constructors.md",
-    "Langs&Runtimes/Rust/Idiomacy/Builder pattern.md",
-    "Langs&Runtimes/Rust/Conventions.md"
+    "EN - L1/Text comp. syn..md",
+    "Algebra - L1/Raisonement matematique/Par l'absurde.md",
+    "Algebra - L1/Mathematical thiking.md",
+    "Algebra - L1/Logique/Intro.md",
+    "Mathematical Analysis - L1/Funcs/Monotone.md",
+    "Mathematical Analysis - L1/Funcs/Min, maj & born.md",
+    "Mathematical Analysis - L1/Funcs/Periodique.md",
+    "Mathematical Analysis - L1/Intro.md",
+    "Mathematical Analysis - L1/S1.md",
+    "CompSci - l1/UE - Programming basics/Coding basics.md"
   ]
 }
