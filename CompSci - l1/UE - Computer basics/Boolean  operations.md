@@ -18,3 +18,14 @@ When you have an element, added to itself (aka it passes through an ``OR`` expre
 ### Commutativit'e
 ``a + b = b + a``
 ``a * b = b * a``
+
+### Exercices
+``(a+b¨).b = ``
+``a.b¨+b = a+b``
+``a+a.b = ``
+``a.(a+b) = ``
+
+## Other operators
+### ``XOR`` ( ``OR`` EXCLUSIF)
+a¨+b.a+b¨
+(a+b).(a.b)¨
