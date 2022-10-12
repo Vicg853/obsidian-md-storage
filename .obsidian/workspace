@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
+            "file": "CompSci - l1/Algorithms/Fibonacci.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
+                "file": "CompSci - l1/Algorithms/Fibonacci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
+                "file": "CompSci - l1/Algorithms/Fibonacci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
-  "active": "58a5bbeba11ba635",
+  "active": "3e76e6a6d3ea02e2",
   "lastOpenFiles": [
+    "CompSci - l1/TD - Programming basics/Untitled.md",
+    "CompSci - l1/UE - Computer basics/Boolean functions.md",
     "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+    "CompSci - l1/UE - Computer basics/Function simplification.md",
+    "EN - L1/TDs/11-10-2022.md",
+    "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
+    "Algebra - L1/TDs/TD3.md",
     "EN - L1/TDs/27-09-2022.md",
     "EN - L1/TDs/20-09-2022.md",
-    "EN - L1/Text comp. syn..md",
-    "Algebra - L1/TDs/TD1.md",
-    "CompSci - l1/TD - Programming basics/TD1.md",
-    "CompSci - l1/UE - Programming basics/Untitled.md",
-    "Algebra - L1/Raisonement matematique/Par l'absurde.md",
-    "Algebra - L1/Mathematical thiking.md",
-    "Algebra - L1/Logique/Intro.md"
+    "EN - L1/Text comp. syn..md"
   ]
 }
