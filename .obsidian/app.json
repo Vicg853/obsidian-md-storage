@@ -10,5 +10,6 @@
   ],
   "tabSize": 3,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
 }
