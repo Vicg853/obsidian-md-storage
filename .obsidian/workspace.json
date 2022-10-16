@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6eda10d3a1d1b587",
+            "id": "00e009ba80298931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Periodicals.md",
-                "mode": "source",
+                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "08ffa181b2d673c3",
+            "id": "4e68186cf1cb3da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Periodicals.md",
+                "file": "Mathematical Analysis - L1/Function types/Monotones.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Periodicals.md",
+                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Periodicals.md",
+                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +143,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6eda10d3a1d1b587",
+  "active": "00e009ba80298931",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Function types/Paires.md",
     "Mathematical Analysis - L1/Function types/Absolute value.md",
+    "Mathematical Analysis - L1/Function types/Bounded.md",
+    "Mathematical Analysis - L1/Function types/Monotones.md",
+    "Mathematical Analysis - L1/Function types/Periodicals.md",
+    "Mathematical Analysis - L1/Function types/Paires.md",
     "Mathematical Analysis - L1/Function types/Power of two.md",
     "Mathematical Analysis - L1/Symbols recap.md",
     "Mathematical Analysis - L1/Function types/Inverse.md",
     "Mathematical Analysis - L1/Function types/Affine.md",
-    "Mathematical Analysis - L1/Intro.md",
-    "Mathematical Analysis - L1/Funcs/Min, maj & born.md",
-    "Mathematical Analysis - L1/Funcs/Monotone.md",
-    "Mathematical Analysis - L1/Funcs/Periodique.md"
+    "Mathematical Analysis - L1/Intro.md"
   ]
 }
