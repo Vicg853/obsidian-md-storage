@@ -13,6 +13,8 @@
 
 **∈** is an element of
 
+**◦** composition of functions: $f: x \to y, g: y \to z \iff g(f(x))$  
+
 ## Intervals
 **ℝ** Real number: integers, decimals, fractions, anything.
 

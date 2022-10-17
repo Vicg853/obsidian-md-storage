@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00e009ba80298931",
+            "id": "b3ed5f7dc68c5bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
+                "file": "Algebra - L1/Bool.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d1c03a7b05091933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Bool.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4e68186cf1cb3da4",
+            "id": "f7b3a62ce5e13efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Monotones.md",
+                "file": "Algebra - L1/Basic theorems.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
+                "file": "Algebra - L1/Bool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Function types/Bounded.md",
+                "file": "Algebra - L1/Bool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "00e009ba80298931",
+  "active": "b3ed5f7dc68c5bc6",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Function types/Absolute value.md",
-    "Mathematical Analysis - L1/Function types/Bounded.md",
-    "Mathematical Analysis - L1/Function types/Monotones.md",
-    "Mathematical Analysis - L1/Function types/Periodicals.md",
-    "Mathematical Analysis - L1/Function types/Paires.md",
-    "Mathematical Analysis - L1/Function types/Power of two.md",
+    "Algebra - L1/Vocab.md",
+    "Algebra - L1/Basic theorems.md",
+    "Algebra - L1/TDs/TD3.md",
+    "Algebra - L1/TDs/TD1.md",
+    "Algebra - L1/Raisonement matematique/Par l'absurde.md",
+    "Algebra - L1/Logique/Intro.md",
+    "Mathematical Analysis - L1/Function types/Polynomial.md",
     "Mathematical Analysis - L1/Symbols recap.md",
-    "Mathematical Analysis - L1/Function types/Inverse.md",
-    "Mathematical Analysis - L1/Function types/Affine.md",
-    "Mathematical Analysis - L1/Intro.md"
+    "Mathematical Analysis - L1/Function types/Monotones.md",
+    "Mathematical Analysis - L1/Function types/Bounded.md"
   ]
 }
