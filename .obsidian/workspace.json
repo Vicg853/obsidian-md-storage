@@ -13,37 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Bool.md",
+                "file": "Algebra - L1/Bool/Properties.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d1c03a7b05091933",
+            "id": "5586935d67233d10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Bool.md",
+                "file": "Algebra - L1/Bool/Properties.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "f7b3a62ce5e13efd",
+            "id": "7e6d997440428f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Basic theorems.md",
+                "file": "Algebra - L1/Vocab.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ab78210beb48d5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Mathematical thinking.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "666d7a7f949e3158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Bool/Intro.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -105,12 +130,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b99d617c51c6237",
+            "id": "62b8a6ec031e3820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra - L1/Mathematical thinking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bab5a8a7b7e47c36",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Bool.md",
+                "file": "Algebra - L1/Mathematical thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,50 +159,38 @@
             }
           },
           {
-            "id": "62b8a6ec031e3820",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Algebra - L1/Bool.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "12ad7fefa7ab4cef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3ed5f7dc68c5bc6",
+  "active": "ab78210beb48d5d2",
   "lastOpenFiles": [
     "Algebra - L1/Vocab.md",
-    "Algebra - L1/Basic theorems.md",
-    "Algebra - L1/TDs/TD3.md",
-    "Algebra - L1/TDs/TD1.md",
-    "Algebra - L1/Raisonement matematique/Par l'absurde.md",
-    "Algebra - L1/Logique/Intro.md",
-    "Mathematical Analysis - L1/Function types/Polynomial.md",
+    "Algebra - L1/Mathematical thinking.md",
+    "Algebra - L1/Bool/Properties.md",
+    "Algebra - L1/Bool/Intro.md",
     "Mathematical Analysis - L1/Symbols recap.md",
-    "Mathematical Analysis - L1/Function types/Monotones.md",
-    "Mathematical Analysis - L1/Function types/Bounded.md"
+    "Algebra - L1/Quantifiers.md",
+    "Algebra - L1/Basic theorems.md",
+    "Algebra - L1/Bool.md",
+    "Algebra - L1/TDs/TD3.md",
+    "Algebra - L1/TDs/TD1.md"
   ]
 }

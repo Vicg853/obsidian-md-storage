@@ -3,3 +3,6 @@ An axiom is a statement which everyone agrees on. We could say it is a mathemati
 
 #### Theory
 A theory is an assertion, which we prove by basing ourselves from multiple small axioms or other already proven theories. We could compare it to argumentative texts in a whole, with an introduction, development and conclusion.
+
+#### Symbols 
+There is a symbols recap [[Symbols recap|here]].

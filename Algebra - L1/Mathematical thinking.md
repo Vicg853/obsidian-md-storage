@@ -1,0 +1,1 @@
+To go on with this, be sure to have a good understanding of [[Intro|boolean logic basics]] and [[Vocab|basic vocabulary]]. 
