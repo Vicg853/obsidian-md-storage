@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4f2e8665e2b492",
+        "id": "26d35eed957aabaa",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ed5f7dc68c5bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra - L1/Bool/Properties.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5586935d67233d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra - L1/Bool/Properties.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e6d997440428f72",
+            "id": "58a5bbeba11ba635",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +20,7 @@
             }
           },
           {
-            "id": "ab78210beb48d5d2",
+            "id": "9e42c621da9417b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +32,19 @@
             }
           },
           {
-            "id": "666d7a7f949e3158",
+            "id": "d5ee7584d182c917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Bool/Intro.md",
+                "file": "Algebra - L1/Mathematical thinking.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FFI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,19 +106,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62b8a6ec031e3820",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Algebra - L1/Mathematical thinking.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bab5a8a7b7e47c36",
+            "id": "0b99d617c51c6237",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -159,38 +123,50 @@
             }
           },
           {
+            "id": "62b8a6ec031e3820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra - L1/Mathematical thinking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "12ad7fefa7ab4cef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 221.5,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ab78210beb48d5d2",
+  "active": "9e42c621da9417b3",
   "lastOpenFiles": [
     "Algebra - L1/Vocab.md",
     "Algebra - L1/Mathematical thinking.md",
-    "Algebra - L1/Bool/Properties.md",
+    "Algebra - L1/Mathematical thinking/Syllogism.md",
     "Algebra - L1/Bool/Intro.md",
-    "Mathematical Analysis - L1/Symbols recap.md",
-    "Algebra - L1/Quantifiers.md",
-    "Algebra - L1/Basic theorems.md",
-    "Algebra - L1/Bool.md",
-    "Algebra - L1/TDs/TD3.md",
-    "Algebra - L1/TDs/TD1.md"
+    "Algebra - L1/Bool/Properties.md",
+    "CompSci/Algorithms/Intro.md",
+    "CompSci/Algorithms/BIG0 & Performance.md",
+    "Langs&Runtimes/Rust/Ownership/Borrowing.md",
+    "Langs&Runtimes/Rust/Useful STD/Testing/Test orgnization.md",
+    "Langs&Runtimes/Rust/Ownership/Ownership.md"
   ]
 }
