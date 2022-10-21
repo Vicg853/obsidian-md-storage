@@ -21,6 +21,14 @@ Consider the following example:
 ![[Pasted image 20221020230132.png]]
 
 #### By counterexample
+A counterexample is when you find an only case in a $\forall x \in A$ assertion format, where it does not work. 
 
+This translates mathematically into: $$\begin{align} 
+\forall x \in A
+\\ \exists\ x_0 \in A, \lnot P(x_0)
+\end{align}$$
 
 #### By recursivity
+Demonstrating by recursivity consists of trying to prove a statement, by first initializing it (usually proving it by 0) and then demonstrating by an equations development, that this statement recursively works on any following case.
+
+Consider the following example: 
