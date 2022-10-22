@@ -29,6 +29,25 @@ This translates mathematically into: $$\begin{align}
 \end{align}$$
 
 #### By recursivity
-Demonstrating by recursivity consists of trying to prove a statement, by first initializing it (usually proving it by 0) and then demonstrating by an equations development, that this statement recursively works on any following case.
+We recursively demonstrate a statement, by creating an introduction axiom, which we suppose is "strictly true" (usually by proving a mathematical equation against 0 or 1) and then a second axiom where we usually prove the statement basing ourselves from what has been found in the introduction and therefore confirming what was supposedly true.
+
+This way we will have stablished the following mathematical statement:
+
+1)$\ \ P(0)$ is true$._\text{(introduction axiom)}$
+2)$\ \ n \in \Bbb N, (P(n) \implies P(n + 1))$$._\text{(development axiom, or "hérédité" in French)}$
+therefore $P(n)$ is true $\forall \ \Bbb N$
 
 Consider the following example: 
+![[Pasted image 20221022140940.png]]
+
+#### Necessary and sufficient conditions
+We have $P$ and $Q$:
+- P is a sufficient condition for Q: $P \implies Q$, as if the previous and $P$ are true, then $Q$ is true too;
+- P is a necessary condition for Q: $Q \implies P$, as if $Q$ is true, then for $\lnot Q \lor P$ to be true, $P$ must be true;
+- P is sufficient and necessary for Q: $P \iff Q$, $P$ is necessary for $Q$ and $P$ sufficient for $Q$
+
+Consider the following example: 
+![[Pasted image 20221022144137.png]]
+
+Here we have $P$ equals to the $n = 0 \lor n = 1$ statement and $Q = n^2 - n$ one. We have proven that $\lnot P \lor Q$, or, that $P$ is sufficient for $Q$, as if $P = true, \lnot P = false$ then $P$ is sufficient for $Q$ to be true.
+At the same time, $\lnot Q \lor P$, or, that $P$ is necessary for $Q$, as if $Q = true, \lnot Q = false$ therefore $P$ is a must as $Q$ is true.
