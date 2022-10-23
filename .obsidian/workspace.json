@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Sets.md",
+                "file": "Algebra - L1/Objects.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "65601149df611f56",
+            "id": "cfee81fe3f16fa72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Sets.md",
+                "file": "Algebra - L1/Objects.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a884092611b445f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Sets/Subsets.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Sets.md",
+                "file": "Algebra - L1/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Sets.md",
+                "file": "Algebra - L1/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,15 +156,15 @@
   },
   "active": "e64863a258ca2a0d",
   "lastOpenFiles": [
-    "Algebra - L1/Mathematical thinking.md",
-    "Algebra - L1/Sets.md",
-    "Algebra - L1/Mathematical thinking/Syllogism.md",
+    "Algebra - L1/Sets/Subsets.md",
+    "Algebra - L1/Objects.md",
+    "Pasted image 20221023203432.png",
+    "Algebra - L1/Sets/Operations.md",
+    "Algebra - L1/Sets/Relations.md",
+    "Algebra - L1/Sets/Sets.md",
     "Algebra - L1/Vocab.md",
-    "Algebra - L1/Bool/Intro.md",
-    "Algebra - L1/Bool/Properties.md",
-    "CompSci/Algorithms/Intro.md",
-    "CompSci/Algorithms/BIG0 & Performance.md",
-    "Langs&Runtimes/Rust/Ownership/Borrowing.md",
-    "Langs&Runtimes/Rust/Useful STD/Testing/Test orgnization.md"
+    "Algebra - L1/Quantifiers.md",
+    "Algebra - L1/Mathematical thinking.md",
+    "Algebra - L1/Basic theorems.md"
   ]
 }
