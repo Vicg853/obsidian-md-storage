@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "26d35eed957aabaa",
+        "id": "80311c14790faf5a",
         "type": "tabs",
         "children": [
           {
-            "id": "e64863a258ca2a0d",
+            "id": "99f6b38e086137e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Objects.md",
+                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "cfee81fe3f16fa72",
+            "id": "624bb98c75d1e7c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Objects.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a884092611b445f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra - L1/Sets/Subsets.md",
+                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FFI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +93,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b99d617c51c6237",
+            "id": "62b8a6ec031e3820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bab5a8a7b7e47c36",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Objects.md",
+                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,49 +122,38 @@
             }
           },
           {
-            "id": "62b8a6ec031e3820",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Algebra - L1/Objects.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "12ad7fefa7ab4cef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e64863a258ca2a0d",
+  "active": "99f6b38e086137e8",
   "lastOpenFiles": [
-    "Algebra - L1/Sets/Subsets.md",
-    "Algebra - L1/Objects.md",
-    "Pasted image 20221023203432.png",
-    "Algebra - L1/Sets/Operations.md",
-    "Algebra - L1/Sets/Relations.md",
+    "Mathematical Analysis - L1/Function/Derivation/Extrema search.md",
+    "Mathematical Analysis - L1/Function/Bijection.md",
+    "Mathematical Analysis - L1/Symbols recap.md",
     "Algebra - L1/Sets/Sets.md",
-    "Algebra - L1/Vocab.md",
     "Algebra - L1/Quantifiers.md",
     "Algebra - L1/Mathematical thinking.md",
-    "Algebra - L1/Basic theorems.md"
+    "Mathematical Analysis - L1/Class/18-10-2022.md",
+    "CompSci - l1/UE - Computer basics/Boolean functions.md",
+    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+    "EN - L1/TDs/18-10-2022.md"
   ]
 }
