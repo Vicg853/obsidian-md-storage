@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "99f6b38e086137e8",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Function/Derivation/Extrema search.md",
+    "CompSci - l1/UE - Computer basics/Function simplification.md",
+    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
     "Mathematical Analysis - L1/Function/Bijection.md",
+    "Mathematical Analysis - L1/Function/Derivation/Extrema search.md",
     "Mathematical Analysis - L1/Symbols recap.md",
     "Algebra - L1/Sets/Sets.md",
     "Algebra - L1/Quantifiers.md",
     "Algebra - L1/Mathematical thinking.md",
-    "Mathematical Analysis - L1/Class/18-10-2022.md",
-    "CompSci - l1/UE - Computer basics/Boolean functions.md",
-    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
-    "EN - L1/TDs/18-10-2022.md"
+    "Mathematical Analysis - L1/Class/18-10-2022.md"
   ]
 }
