@@ -4,28 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "80311c14790faf5a",
+        "id": "26d35eed957aabaa",
         "type": "tabs",
         "children": [
           {
-            "id": "99f6b38e086137e8",
+            "id": "e64863a258ca2a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
+=======
+                "file": "Mathematical Analysis - L1/Function/Rational.md",
+>>>>>>> 262cd37d189b5da7bd2e831c60bd6e6f64a775eb
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "624bb98c75d1e7c3",
+            "id": "19cde84679233843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+                "file": "Mathematical Analysis - L1/Function/Rational.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cfee81fe3f16fa72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Objects.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a884092611b445f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Sets/Subsets.md",
                 "mode": "preview",
                 "source": true
               }
@@ -61,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FFI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +121,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "62b8a6ec031e3820",
             "type": "leaf",
             "state": {
@@ -106,11 +135,18 @@
           },
           {
             "id": "bab5a8a7b7e47c36",
+=======
+            "id": "0b99d617c51c6237",
+>>>>>>> 262cd37d189b5da7bd2e831c60bd6e6f64a775eb
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "CompSci - l1/UE - Computer basics/Boolean functions.md",
+=======
+                "file": "Mathematical Analysis - L1/Function/Rational.md",
+>>>>>>> 262cd37d189b5da7bd2e831c60bd6e6f64a775eb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,29 +158,41 @@
             }
           },
           {
+            "id": "62b8a6ec031e3820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematical Analysis - L1/Function/Rational.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "12ad7fefa7ab4cef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 221.5,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "99f6b38e086137e8",
+  "active": "e64863a258ca2a0d",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "CompSci - l1/UE - Computer basics/Function simplification.md",
     "CompSci - l1/UE - Computer basics/Boolean  operations.md",
     "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
@@ -155,5 +203,17 @@
     "Algebra - L1/Quantifiers.md",
     "Algebra - L1/Mathematical thinking.md",
     "Mathematical Analysis - L1/Class/18-10-2022.md"
+=======
+    "Mathematical Analysis - L1/Function/Bijection.md",
+    "Mathematical Analysis - L1/Function/Derivation/Extrema search.md",
+    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+    "Algebra - L1/Objects.md",
+    "Algebra - L1/Sets/Subsets.md",
+    "Pasted image 20221023203432.png",
+    "Algebra - L1/Sets/Operations.md",
+    "Algebra - L1/Sets/Relations.md",
+    "Algebra - L1/Sets/Sets.md",
+    "Algebra - L1/Vocab.md"
+>>>>>>> 262cd37d189b5da7bd2e831c60bd6e6f64a775eb
   ]
 }
