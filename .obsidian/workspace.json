@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb50afc683c598f",
+        "id": "115820631dbba3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "5f69f412864a3b11",
+            "id": "a64aa3883033cafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic functions.md",
+                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "c10a9154a8036b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic functions.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a78abb453714973d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic functions.md",
+                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic functions.md",
+                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,20 +136,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5f69f412864a3b11",
+  "active": "a64aa3883033cafd",
   "lastOpenFiles": [
+    "Mathematical Analysis - L1/Symbols recap.md",
+    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
+    "Mathematical Analysis - L1/Naperian Logarithm.md",
+    "Algebra - L1/Divisibility/Definition.md",
+    "Algebra - L1/Bachet bezout.md",
+    "Mathematical Analysis - L1/Derivation/Trigonometric functions.md",
     "CompSci - l1/UE - Computer basics/Logic functions.md",
     "imgs/tab-verit.png",
     "CompSci - l1/UE - Computer basics/Boolean functions.md",
-    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
-    "Mathematical Analysis - L1/Function/Bounded.md",
-    "Mathematical Analysis - L1/Function/Bijection.md",
-    "Mathematical Analysis - L1/Function/Affine.md",
-    "Mathematical Analysis - L1/Function/Absolute value.md",
-    "Mathematical Analysis - L1/Symbols recap.md",
-    "Mathematical Analysis - L1/Function types/Inverse.md"
+    "CompSci - l1/UE - Computer basics/Boolean  operations.md"
   ]
 }

@@ -1,1 +1,0 @@
-$ln(k^n) = n\ \mathsf x\ ln(k)$
