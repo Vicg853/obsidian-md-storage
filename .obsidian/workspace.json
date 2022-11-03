@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "58a5bbeba11ba635",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
-            "mode": "source",
-            "source": true
+        "id": "a2f532c8336b5a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047ec86e95dc2a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langs&Runtimes/Rust/Syntax/Loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a0137a1c5f321b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langs&Runtimes/Rust/Syntax/Variables.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FFI",
+                "query": "state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs&Runtimes/Rust/Data/Compound/Strings.md",
+                "file": "Langs&Runtimes/Rust/Syntax/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +145,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
-  "active": "58a5bbeba11ba635",
+  "active": "a2a0137a1c5f321b",
   "lastOpenFiles": [
-    "Software engineering/Paradigms/Currying.md",
-    "Langs&Runtimes/Rust/Syntax/Variables.md",
+    "Langs&Runtimes/Rust/Syntax/Scopes.md",
+    "Langs&Runtimes/Rust/Syntax/Loops.md",
     "Langs&Runtimes/Rust/Syntax/If&Else Statements.md",
-    "Langs&Runtimes/Rust/Data/Enums.md",
-    "Langs&Runtimes/Rust/Ownership/Borrowing.md",
-    "Langs&Runtimes/Rust/Useful STD/Testing/Test orgnization.md",
-    "Langs&Runtimes/Rust/Ownership/Ownership.md",
-    "Langs&Runtimes/Rust/Ownership/Memory_leaks&related.md",
-    "Langs&Runtimes/Rust/Ownership/Lifetimes.md",
-    "Langs&Runtimes/Rust/Modules.md"
+    "Langs&Runtimes/Rust/Syntax/Match expr.md",
+    "Langs&Runtimes/Rust/Syntax/Literals.md",
+    "Langs&Runtimes/Rust/Syntax/Patterns.md",
+    "Langs&Runtimes/Rust/Syntax/Others.md",
+    "Langs&Runtimes/Rust/Syntax/Expression and statements.md",
+    "Langs&Runtimes/Rust/Dictio&Usefull.md",
+    "Langs&Runtimes/Rust/Syntax/Variables.md"
   ]
 }
