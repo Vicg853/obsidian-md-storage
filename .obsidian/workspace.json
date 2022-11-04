@@ -13,8 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83c3cb1dfd231080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a9af21022974f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Naperian Logarithm.md",
+                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +162,15 @@
   },
   "active": "a64aa3883033cafd",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Symbols recap.md",
-    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md",
-    "Mathematical Analysis - L1/Naperian Logarithm.md",
-    "Algebra - L1/Divisibility/Definition.md",
-    "Algebra - L1/Bachet bezout.md",
-    "Mathematical Analysis - L1/Derivation/Trigonometric functions.md",
-    "CompSci - l1/UE - Computer basics/Logic functions.md",
-    "imgs/tab-verit.png",
+    "CompSci - l1/UE - Computer basics/Complex boolean operators.md",
+    "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+    "CompSci - l1/UE - Computer basics/Logic function simplification.md",
     "CompSci - l1/UE - Computer basics/Boolean functions.md",
-    "CompSci - l1/UE - Computer basics/Boolean  operations.md"
+    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
+    "Algebra - L1/Sets/Relations.md",
+    "Algebra - L1/Sets/Operations.md",
+    "Mathematical Analysis - L1/Naperian Logarithm.md",
+    "Mathematical Analysis - L1/Symbols recap.md",
+    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md"
   ]
 }
