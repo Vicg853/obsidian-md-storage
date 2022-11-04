@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5a5efaeabb7b4240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +175,7 @@
   "active": "a64aa3883033cafd",
   "lastOpenFiles": [
     "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+    "CompSci - l1/UE - Computer basics/Logic gates.md",
     "CompSci - l1/UE - Computer basics/Logic function simplification.md",
     "CompSci - l1/UE - Computer basics/Complex boolean operators.md",
     "CompSci - l1/UE - Computer basics/Boolean functions.md",
@@ -170,7 +183,6 @@
     "Algebra - L1/Sets/Relations.md",
     "Algebra - L1/Sets/Operations.md",
     "Mathematical Analysis - L1/Naperian Logarithm.md",
-    "Mathematical Analysis - L1/Symbols recap.md",
-    "Mathematical Analysis - L1/Function/Typical functions/Napierian logarithm.md"
+    "Mathematical Analysis - L1/Symbols recap.md"
   ]
 }
