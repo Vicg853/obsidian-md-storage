@@ -1,6 +1,4 @@
-Logic functions are Boolean expressions/evaluations, that produce a Boolean value. 
-
-There are many ways to write and express these Boolean functions, some are easier and others.
+Logic functions are Boolean expressions/evaluations, that produce a Boolean value. We usually don't write down Boolean expressions all alone, they're usually written in a function format, similar to mathematical functions.
 
 #### Truthiness tables
 A good way to visualize function results, are truthiness tables, they give us results for each of the function's variables and their variations.
@@ -11,9 +9,16 @@ Example [[tab-verit.png | hover or click.]]
 Boolean functions have three main formats (all the listed patterns under here, are normal):
 - _Disjonctive_ form: function elements are grouped into AND operator groups and then connected along with OR operators.
   $A . B\ +\ B . D + A . D$
+  > [!FACT] 
+  > All it's terms, in a truthiness table will only have one match for the value ``1`` (all others will be ``0``)
+  
 - _Conjunctive_ form: elements are now grouped into OR operator groups and then connected along with AND operators. Note that, as it consist of OR operator groups, they must be surrounded by parenthesis. 
   $(A + B)\ .\ (B + D) . (A + D)$
+    > [!FACT] 
+    > All it's terms, in a truthiness table will only have one match for the value ``0`` (all others will be ``1``)
 - _Canonical_ form: each of the function groups, are composed of all of the function variables, that means, a canonical function is either also conjunctive or disjonctive. This means
+  > [!TIP]  TIP: verification
+  > In the canonical form more precisely, one of its single pieces, can be represented as expressions containing $2^{N - n}$ (where $N$ is the number of variables present in this expression and $n$ the number of term in the non converted piece).
 
 #### Neutral and absorbant elements
 ###### AND operator

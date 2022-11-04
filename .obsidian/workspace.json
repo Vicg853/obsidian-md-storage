@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +162,9 @@
   },
   "active": "a64aa3883033cafd",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Complex boolean operators.md",
     "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
     "CompSci - l1/UE - Computer basics/Logic function simplification.md",
+    "CompSci - l1/UE - Computer basics/Complex boolean operators.md",
     "CompSci - l1/UE - Computer basics/Boolean functions.md",
     "CompSci - l1/UE - Computer basics/Boolean  operations.md",
     "Algebra - L1/Sets/Relations.md",
