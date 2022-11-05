@@ -1,4 +1,4 @@
-To go on with this, be sure to have a good understanding of [[Intro|boolean logic basics]] and [[Vocab|basic vocabulary]]. 
+To go on with this, be sure to have a good understanding of [[Algebra - L1/Bool/Intro|boolean logic basics]] and [[Vocab|basic vocabulary]]. 
 
 #### Syllogism
 With Syllogism (or as also called direct thinking), we simply follow a direct flow of thinking, going through each of the statement's steps and proving each one at its time.

@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5a5efaeabb7b4240",
+            "id": "aac7d776e4802aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "83c3cb1dfd231080",
+            "id": "91012f9153a05673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic function simplification.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
                 "mode": "preview",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+                "file": "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Logic gates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,15 +174,15 @@
   },
   "active": "a64aa3883033cafd",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Basic boolean expressions.md",
+    "Algebra - L1/Bool/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
+    "CompSci - l1/UE - Computer basics/Untitled.md",
     "CompSci - l1/UE - Computer basics/Logic gates.md",
-    "CompSci - l1/UE - Computer basics/Logic function simplification.md",
-    "CompSci - l1/UE - Computer basics/Complex boolean operators.md",
+    "CompSci - l1/UE - Computer basics/Boolean logic/Logic function simplification.md",
+    "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
+    "CompSci - l1/UE - Computer basics/Boolean logic/Complex boolean operators.md",
     "CompSci - l1/UE - Computer basics/Boolean functions.md",
-    "CompSci - l1/UE - Computer basics/Boolean  operations.md",
-    "Algebra - L1/Sets/Relations.md",
-    "Algebra - L1/Sets/Operations.md",
-    "Mathematical Analysis - L1/Naperian Logarithm.md",
-    "Mathematical Analysis - L1/Symbols recap.md"
+    "CompSci - l1/UE - Computer basics/Boolean  operations.md"
   ]
 }
