@@ -13,8 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1c3ba6b6bd018afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "be97cda93a7f57eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
-                "mode": "preview",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +197,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "a64aa3883033cafd",
+  "active": "1c3ba6b6bd018afc",
   "lastOpenFiles": [
-    "Algebra - L1/Bool/Intro.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
     "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
+    "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
+    "Algebra - L1/Bool/Intro.md",
     "CompSci - l1/UE - Computer basics/Untitled.md",
     "CompSci - l1/UE - Computer basics/Logic gates.md",
     "CompSci - l1/UE - Computer basics/Boolean logic/Logic function simplification.md",
-    "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
-    "CompSci - l1/UE - Computer basics/Boolean logic/Complex boolean operators.md",
-    "CompSci - l1/UE - Computer basics/Boolean functions.md",
-    "CompSci - l1/UE - Computer basics/Boolean  operations.md"
+    "CompSci - l1/UE - Computer basics/Boolean logic/Complex boolean operators.md"
   ]
 }

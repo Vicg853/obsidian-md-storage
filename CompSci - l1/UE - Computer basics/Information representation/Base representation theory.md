@@ -30,7 +30,13 @@ $N$ is usually noted: $(N)_b$
 
 For example this translates to (with $N = 563, k = 3, b = 10$): $563 = 10^2\ \cdot \ 5\ +\ 10^1\ \cdot \ 6\ +\ 10^0\ \cdot \ 3 = 10^2\ \cdot \ 5\ +\ 10\ \cdot \ 6\ +\ 3$
 
+### Conversion
+To convert from a base to another, we can use Euclides algorithm
+
 ### Computer science
 Apart from what is said in the introduction, this concept is primarily important for computer science because computers don't communicate and work in the same base as us, they use a base of 2, which means ``0``s and ``1``s, a.k.a.: binary. 
 
 This idea allows us to combine a set of binary values (bits) and group them. From these two simple values we can do anything we want. 
+
+As we now have the basics, we can go on with [[Integer representation and operations | computer science focused applications]] of these tecniques.
+
