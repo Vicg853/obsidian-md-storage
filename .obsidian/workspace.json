@@ -13,74 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
+                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1c3ba6b6bd018afc",
+            "id": "027a8ef9eb22532e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be97cda93a7f57eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
+                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "aac7d776e4802aa6",
+            "id": "0759f25b0fde1e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "91012f9153a05673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1a9af21022974f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
+                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -147,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,17 +160,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "1c3ba6b6bd018afc",
+  "active": "a64aa3883033cafd",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
+    "Mathematical Analysis - L1/Function/Logarithmic/Intro.md",
+    "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+    "Mathematical Analysis - L1/Function/Logarithmic/Naperianic Properties.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+    "imgs/Pasted image 20221105011816.png",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
     "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
     "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
     "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
-    "Algebra - L1/Bool/Intro.md",
-    "CompSci - l1/UE - Computer basics/Untitled.md",
-    "CompSci - l1/UE - Computer basics/Logic gates.md",
-    "CompSci - l1/UE - Computer basics/Boolean logic/Logic function simplification.md",
-    "CompSci - l1/UE - Computer basics/Boolean logic/Complex boolean operators.md"
+    "Algebra - L1/Bool/Intro.md"
   ]
 }
