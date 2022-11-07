@@ -13,37 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+                "file": "Mathematical Analysis - L1/Function/Types/N Root.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "027a8ef9eb22532e",
+            "id": "b10b31a232527955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+                "file": "Mathematical Analysis - L1/Function/Types/N Root.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "0759f25b0fde1e33",
+            "id": "3770faa5404947f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+                "file": "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8f8846ba16ecbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Analysis - L1/Derivation/Derivatives/Power.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+                "file": "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
+                "file": "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +173,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "a64aa3883033cafd",
+  "active": "3770faa5404947f4",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Function/Logarithmic/Intro.md",
-    "Mathematical Analysis - L1/Function/Logarithmic/Based logarithmic Properties.md",
-    "Mathematical Analysis - L1/Function/Logarithmic/Naperianic Properties.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
-    "imgs/Pasted image 20221105011816.png",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
-    "CompSci - l1/UE - Computer basics/Boolean logic/Basic boolean expressions.md",
-    "Algebra - L1/Bool/Intro.md"
+    "Mathematical Analysis - L1/Function/Types/N Root.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/Power.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/Trigonometric functions.md",
+    "Mathematical Analysis - L1/Function/Types/Power of two.md",
+    "Mathematical Analysis - L1/Function/Adjectives/Bounded.md",
+    "Mathematical Analysis - L1/Function/Adjectives/Bijection.md",
+    "Mathematical Analysis - L1/Function/Adjectives/Affine.md",
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Intro.md",
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Naperianic Properties.md",
+    "Mathematical Analysis - L1/Naperian Logarithm.md"
   ]
 }

@@ -2,7 +2,7 @@ The logarithm function has some pretty special properties, primarily along other
 
 
 #### Powers
-$\mathsf_a(a^x) = x$
+$\mathsf{log}_a(a^x) = x$
 
 And $\forall x \in\ ] 0 ; + \infty [\ ,\ \ a^{\mathsf log_a(x)} = x$
 

@@ -1,5 +1,7 @@
 The naperian logarithm function has some pretty special properties, primarily along other mathematical symbols and operators.
 
+$ln(e) = 1$
+
 #### Powers 
 $ln(a^n) = n \cdot \mathsf{ln}(a)$
 $a^2 = e^{n\ \mathsf{ln}(a)}$
