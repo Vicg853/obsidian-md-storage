@@ -21,4 +21,4 @@ Also every subset of an empty set is equal to an empty set: $(E \subset \emptyse
 >	- $\exists x \in \emptyset, P(x)$ is always false
 
 #### More
-Also, after this, check out about [[Relations| set relations]] and then [[Operations| set operations]].
+Also, after this, check out about [[Relations| set relations]] and then [[Algebra - L1/Sets/Operations| set operations]].

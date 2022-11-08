@@ -1,17 +1,4 @@
-We use a combination of bits to represent numbers in a computer. Each exact combination set, represents a single integer and this certain combination is defined by a convention, e.g.: 
-
-|Binary|Decimal|
-|--|--|
-|0000|0|
-|0001|1|
-|0010|2|
-|0011|3|
-|...|...|
-
-This convention follows the [[Base representation theory#Mathematical theory| base representation mathematical theory]]. Therefore the decimal representation of ``0011`` is justified by: 
-$$0011 \iff 0 \cdot 2^3 + 0 \cdot 2^2 + 1 \cdot 2^1 + 1 \cdot 2^0 = 3$$ 
-
-And how are negative values represented? Well, this is another subject
+We saw how we [[CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro | represent integers ]] with binary values, but better than interpreting/representing integers, is calculating them.
 
 ### Binary addition
 Binary addition can be done in a similar way as decimal addition, the only difference being that the ``+`` operator actually corresponds to the ``XOR`` Boolean operator. Therefore 

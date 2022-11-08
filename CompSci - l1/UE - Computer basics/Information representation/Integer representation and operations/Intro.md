@@ -17,4 +17,9 @@ How is it possible to represent the "+" and "-" values in a computer. Well, we k
 Its like if we were asking the question: is the number negative: 1 = yes and 0 = no.
 Then we put this as the first bit on binary representation from the left to right. 
 
-But there is actually a catch with this.
+But there is actually two catches with this:
+
+#### Bytes
+We actually need a way to define were our sign will be placed we do it by defining a constraint of how these will be stored.
+
+We therefore set the called "bytes" (octects in some languages)
