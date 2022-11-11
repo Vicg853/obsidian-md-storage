@@ -8,40 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b58cb1e58ee3ceea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c38aa71c4e6336b",
+            "id": "64db3e49531f90cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "file": "Algebra - L1/Divisibility/Definition.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d1ae686f0739e4ad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "483229ca4030c17f",
+            "id": "74a551af6bad614c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
+                "file": "Algebra - L1/Divisibility/Finding a.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "file": "Algebra - L1/Divisibility/Finding a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+                "file": "Algebra - L1/Divisibility/Finding a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +149,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "9c38aa71c4e6336b",
+  "active": "74a551af6bad614c",
   "lastOpenFiles": [
+    "Algebra - L1/Divisibility/Definition.md",
+    "Mathematical Analysis - L1/Function/Types/Affine.md",
+    "Mathematical Analysis - L1/Function/Untitled.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
     "CompSci - l1/UE - Computer basics/Information representation/Binary operations/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/Power.md",
-    "Mathematical Analysis - L1/Function/Types/Logarithmic/Naperianic Properties.md",
-    "Mathematical Analysis - L1/Function/Types/Logarithmic/Based logarithmic Properties.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md"
+    "Mathematical Analysis - L1/Derivation/Derivatives/Power.md"
   ]
 }
