@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/Language Basics/C++/Pointers.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c891a97c009d7e07",
+            "id": "b42961edb135fd75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/Language Basics/C++/Heap.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "315f5691cfd02718",
+            "id": "c7e0ac7cfdcdb3fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/Language Basics/C++/Pointers.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ca488a80b0050f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 216.5
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/Language Basics/C++/Heap.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/Language Basics/C++/Heap.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +173,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "c891a97c009d7e07",
+  "active": "b42961edb135fd75",
   "lastOpenFiles": [
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+    "CompSci - l1/Language Basics/C++/Heap.md",
     "CompSci - l1/Language Basics/C++/Pointers.md",
-    "CompSci - l1/Language Basics/C++.md",
-    "CompSci - l1/UE - Programming basics/Untitled.md",
-    "CompSci - l1/UE - Programming basics/The machine basics.md",
-    "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
-    "CompSci - l1/UE - Programming basics/Coding basics.md",
-    "CompSci - l1/UE - Programming basics/Functions/Intro.md",
-    "Algebra - L1/Divisibility/Definition.md",
-    "Algebra - L1/Divisibility/Finding a.md",
-    "Mathematical Analysis - L1/Function/Types/Affine.md"
+    "CompSci - l1/Language Basics/C++.md"
   ]
 }

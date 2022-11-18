@@ -11,15 +11,9 @@ We use a combination of bits to represent numbers in a computer. Each exact comb
 This convention follows the [[Base representation theory#Mathematical theory| base representation mathematical theory]]. Therefore the decimal representation of ``0011`` is justified by: 
 $$0011 \iff 0 \cdot 2^3 + 0 \cdot 2^2 + 1 \cdot 2^1 + 1 \cdot 2^0 = 3$$ 
 
-### Negative integers
-How is it possible to represent the "+" and "-" values in a computer. Well, we know that we have only two symbols, therefore we can simply represent them with ``0`` -> ``+`` and ``1`` -> ``-``. 
-
-Its like if we were asking the question: is the number negative: 1 = yes and 0 = no.
-Then we put this as the first bit on binary representation from the left to right. 
-
-But there is actually two catches with this:
-
 #### Bytes
-We actually need a way to define were our sign will be placed we do it by defining a constraint of how these will be stored.
+We also need to define a rule, to be able to represent more complex numbers, as for exampe negative ones. The main one being a defined set of bits for each representation.
 
-We therefore set the called "bytes" (octects in some languages)
+We therefore set the called "bytes" (octects in French), which constrains a groups of bits, that are always $2^N$ times bits. Therefore: 2 bits, 4bits, 8bits, 16bits, 32bits, 64bits, 128bits, 256bits, 512bits, 1024bits, 2048bits, 4096bit, ... (we could go on infinitely). 
+
+With each higher power, our representation capacity also grows. It is useful noting that the representation capacity is also 
