@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "700876f407ce86eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -26,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,17 +184,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "b42961edb135fd75",
+  "active": "64db3e49531f90cf",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
     "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
     "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
     "CompSci - l1/Language Basics/C++/Heap.md",
-    "CompSci - l1/Language Basics/C++/Pointers.md",
-    "CompSci - l1/Language Basics/C++.md"
+    "CompSci - l1/Language Basics/C++/Pointers.md"
   ]
 }

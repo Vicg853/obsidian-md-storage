@@ -17,4 +17,6 @@ We could use fractions. But, they present the same problem with comparison prese
 It could be a solution and will actually serve us later, but, alone it can't do much. We now have a big precision issue, that can be really solved and we still have the negative 0 value, that can't be represented.
 
 ### Floating point
-We therefore arrived to [[IEEE 754|floating point numbers]], who have standardized by the IEEE, in the 754 convention.
+We finally come to the solution: scientific notation. It allows us to create huge values, with little storage and with a reasonable precision (as it is usually even used for scientific purposes). Which will fit most cases. 
+
+More about it [[Floating points|here]] and its also important to know that the IEEE standardized [[IEEE 754|floating point numbers]] in the 754 convention.
