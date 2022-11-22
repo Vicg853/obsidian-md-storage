@@ -20,7 +20,7 @@ Both the mantissa and the exponent are represented in two's complement by themse
 ### IEEE 754
 But, it can be quite confusing on how to correctly define how much each respective part's size, position and etc.
 
-For that the IEEE defined standard for two floating numbers representations, which can be discovered [[IEEE 754|here]].
+For that the IEEE defined standard for two floating numbers representations, which can be discovered [[CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro|here]].
 
 ### Conversion 
 #### To base 10
@@ -38,16 +38,3 @@ The original comma's position, is always a barrier between integers and fraction
 
 Note that when converting, e.g.: ``-13 + 0.5 = -12.5``, therefore, pay attention when finding the integer part of a number in a binary conversion table.
 
-### Normalization
-There are technically many ways to represent floating point numbers, even in normal scientific notation. The idea of normalization, is to always position the dot, to the right of the most relevant number, which will:
-- maximize precision
-- omit ambiguity 
-- and facilitate arithmetic operations, as computers don't need to convert to similar formatted numbers
-
-Following the above techniques, should result in normalized results.
-
-#### Negative normalization
-Normalizing positive integers, consists of moving the dot to the right of the left most 1 that is followed on its right by a 0.
-
-#### Positive normalization
-Normalizing negative integers, consists of moving the dot to the right of the left most 0 that is followed on its right by a 1.

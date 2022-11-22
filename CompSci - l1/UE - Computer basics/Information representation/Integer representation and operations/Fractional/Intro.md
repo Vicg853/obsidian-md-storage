@@ -19,4 +19,4 @@ It could be a solution and will actually serve us later, but, alone it can't do 
 ### Floating point
 We finally come to the solution: scientific notation. It allows us to create huge values, with little storage and with a reasonable precision (as it is usually even used for scientific purposes). Which will fit most cases. 
 
-More about it [[Floating points|here]] and its also important to know that the IEEE standardized [[IEEE 754|floating point numbers]] in the 754 convention.
+More about it [[Floating points|here]] and its also important to know that the IEEE standardized [[CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro|floating point numbers]] in the 754 convention.
