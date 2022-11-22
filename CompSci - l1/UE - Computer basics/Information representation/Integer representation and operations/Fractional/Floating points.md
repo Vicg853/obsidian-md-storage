@@ -47,5 +47,7 @@ There are technically many ways to represent floating point numbers, even in nor
 Following the above techniques, should result in normalized results.
 
 #### Negative normalization
+Normalizing positive integers, consists of moving the dot to the right of the left most 1 that is followed on its right by a 0.
 
 #### Positive normalization
+Normalizing negative integers, consists of moving the dot to the right of the left most 0 that is followed on its right by a 1.
