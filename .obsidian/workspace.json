@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64db3e49531f90cf",
+            "id": "a91623e47375ef06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
+                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "78b21e911e7e5a97",
+            "id": "76b213ba17a775c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae3486c55965cec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
+                "file": "Mathematical Analysis - L1/Function/Bijection/Intro.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
+                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
+                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +148,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "3e76e6a6d3ea02e2",
+  "active": "a91623e47375ef06",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Rounding.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Normalization.md",
-    "CompSci - l1/Language Basics/C++/Pointers.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
-    "imgs/Screenshot 2022-11-18 170145 1.jpg"
+    "Mathematical Analysis - L1/Function/Bijection/Intro.md",
+    "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/Composed function.md",
+    "Mathematical Analysis - L1/Derivation/Variation rate relationship.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
+    "Mathematical Analysis - L1/Exos/a.md",
+    "Mathematical Analysis - L1/Derivation/Taylor-young.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/Bijection.md",
+    "Mathematical Analysis - L1/Function/Types/N Root.md",
+    "Mathematical Analysis - L1/Derivation/Derivatives/Square root.md"
   ]
 }

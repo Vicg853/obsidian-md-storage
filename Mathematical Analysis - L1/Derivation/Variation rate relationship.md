@@ -1,0 +1,1 @@
+The variation rate is actually equals to the function's derivative, at $x_0$ (where $x_0$ is the point $x$ leans to).

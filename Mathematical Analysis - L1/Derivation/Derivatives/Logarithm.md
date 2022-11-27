@@ -1,0 +1,1 @@
+The logarithmic' function derivative follows the form of $\mathsf{ln}'(x) = {1 \over x}$
