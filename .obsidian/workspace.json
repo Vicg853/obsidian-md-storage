@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
-                "mode": "source",
+                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
+                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
+                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +150,15 @@
   },
   "active": "a91623e47375ef06",
   "lastOpenFiles": [
-    "Mathematical Analysis - L1/Function/Bijection/Intro.md",
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Naperianic Properties.md",
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Based logarithmic Properties.md",
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Intro.md",
+    "imgs/Pasted image 20221127171216.png",
     "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
+    "Mathematical Analysis - L1/Function/Bijection/Intro.md",
     "Mathematical Analysis - L1/Derivation/Derivatives/Composed function.md",
     "Mathematical Analysis - L1/Derivation/Variation rate relationship.md",
     "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
-    "Mathematical Analysis - L1/Exos/a.md",
-    "Mathematical Analysis - L1/Derivation/Taylor-young.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/Bijection.md",
-    "Mathematical Analysis - L1/Function/Types/N Root.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/Square root.md"
+    "Mathematical Analysis - L1/Exos/a.md"
   ]
 }

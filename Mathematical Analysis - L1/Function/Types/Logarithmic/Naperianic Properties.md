@@ -8,3 +8,7 @@ $a^2 = e^{n\ \mathsf{ln}(a)}$
 
 We also have some application with the derivative of a power function:
 $f: x \mapsto a^x,\ f'(x) = \mathsf{ln}(a)e^{x \ \mathsf{ln}(a)} = \mathsf{ln}(a)a^x$
+
+#### Sum
+The sum of two naperian functions correspondons to the logarithm of the product of their contents:
+$$\mathsf{ln}(a) + \mathsf{ln}(b) = \mathsf{ln}(a \cdot b)$$
