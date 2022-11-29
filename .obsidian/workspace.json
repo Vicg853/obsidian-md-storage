@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
-                "mode": "preview",
+                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "76b213ba17a775c4",
+            "id": "f33e70218a5b9bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis - L1/Function/Bijection/Intro.md",
-                "mode": "preview",
+                "file": "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
+                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis - L1/Derivation/Taylor-young.md",
+                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +150,15 @@
   },
   "active": "a91623e47375ef06",
   "lastOpenFiles": [
+    "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
+    "CompSci - l1/UE - Programming basics/The machine basics.md",
+    "CompSci - l1/UE - Programming basics/Coding basics.md",
+    "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+    "CompSci - l1/UE - Programming basics/Paradigms/Queue.md",
+    "CompSci - l1/Language Basics/C++/Heap.md",
+    "Mathematical Analysis - L1/Derivation/Taylor-young.md",
     "Mathematical Analysis - L1/Function/Types/Logarithmic/Naperianic Properties.md",
     "Mathematical Analysis - L1/Function/Types/Logarithmic/Based logarithmic Properties.md",
-    "Mathematical Analysis - L1/Function/Types/Logarithmic/Intro.md",
-    "imgs/Pasted image 20221127171216.png",
-    "Mathematical Analysis - L1/Exponential/Logarithm relationship.md",
-    "Mathematical Analysis - L1/Function/Bijection/Intro.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/Composed function.md",
-    "Mathematical Analysis - L1/Derivation/Variation rate relationship.md",
-    "Mathematical Analysis - L1/Derivation/Derivatives/N Root.md",
-    "Mathematical Analysis - L1/Exos/a.md"
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Intro.md"
   ]
 }

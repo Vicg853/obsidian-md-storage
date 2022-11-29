@@ -4,3 +4,5 @@ Therefore, we have two keywords to work with it:
 - ``new`` which allocates memory in the heap
 - ``delete`` which frees the respective allocated memory
 
+Note that memory may not always be available, or another error may occur while asking for new memory allocations. 
+
