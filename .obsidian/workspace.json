@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4cdf86af9ea64934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +162,15 @@
   },
   "active": "a91623e47375ef06",
   "lastOpenFiles": [
+    "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
     "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
     "CompSci - l1/UE - Programming basics/The machine basics.md",
     "CompSci - l1/UE - Programming basics/Coding basics.md",
-    "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
     "CompSci - l1/UE - Programming basics/Paradigms/Queue.md",
     "CompSci - l1/Language Basics/C++/Heap.md",
     "Mathematical Analysis - L1/Derivation/Taylor-young.md",
     "Mathematical Analysis - L1/Function/Types/Logarithmic/Naperianic Properties.md",
-    "Mathematical Analysis - L1/Function/Types/Logarithmic/Based logarithmic Properties.md",
-    "Mathematical Analysis - L1/Function/Types/Logarithmic/Intro.md"
+    "Mathematical Analysis - L1/Function/Types/Logarithmic/Based logarithmic Properties.md"
   ]
 }
