@@ -8,37 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a91623e47375ef06",
+            "id": "4bad2745281604b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+                "file": "Mathematical Analysis - L1/Integrals/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4cdf86af9ea64934",
+            "id": "d03382ac51c28e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+                "file": "Mathematical Analysis - L1/Integrals/Intro.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f33e70218a5b9bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+                "file": "Mathematical Analysis - L1/Integrals/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+                "file": "Mathematical Analysis - L1/Integrals/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +148,10 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "a91623e47375ef06",
+  "active": "4bad2745281604b8",
   "lastOpenFiles": [
+    "Mathematical Analysis - L1/Integrals/Intro.md",
     "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
     "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
     "CompSci - l1/UE - Programming basics/The machine basics.md",
     "CompSci - l1/UE - Programming basics/Coding basics.md",
