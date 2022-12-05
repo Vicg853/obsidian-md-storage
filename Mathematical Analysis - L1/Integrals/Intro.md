@@ -1,0 +1,1 @@
+The idea of integral comes with the initiative of calculating the area between a function's cuve and its
