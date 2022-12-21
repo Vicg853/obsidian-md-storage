@@ -1,4 +1,4 @@
-As stated [[Mathematical Analysis - L1/Function/Types/N Root | here]], the $\sqrt[n]{x}$ function has a some special behaviour based on the truthiness of the following statement $2 \mid n$.
+As stated [[Calculus 1&2 - L1/Function/Types/N Root | here]], the $\sqrt[n]{x}$ function has a some special behaviour based on the truthiness of the following statement $2 \mid n$.
 
 Therefore, its derivative's behaviour also changes.
 
