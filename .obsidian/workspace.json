@@ -8,13 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bad2745281604b8",
+            "id": "359b80cb9bb30494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Algebra - L1/Divisibility/Greatest common divisor.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7f3cac17aabed58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Divisibility/Greatest common divisor.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -70,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 218.5
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -145,17 +157,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4bad2745281604b8",
+  "active": "359b80cb9bb30494",
   "lastOpenFiles": [
-    "Algebra - L1/Divisibility/Finding a.md",
-    "Algebra - L1/Divisibility/Intro.md",
+    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout rule's.md",
     "Algebra - L1/Divisibility/Greatest common divisor.md",
+    "Algebra - L1/Divisibility/Intro.md",
+    "Algebra - L1/Divisibility/Finding a.md",
+    "Algebra - L1/Divisibility/Theorems/Gausse's lem.md",
     "CompSci - l1/Algorithms/Pim's algorithm.md",
     "Untitled.canvas",
     "Calculus 1&2 - L1/Integrals/Intro.md",
     "CompSci - l1/UE - Programming basics/Paradigms/Pile (stack).md",
-    "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md",
-    "CompSci - l1/UE - Programming basics/The machine basics.md",
-    "CompSci - l1/UE - Programming basics/Coding basics.md"
+    "CompSci - l1/UE - Programming basics/Software and hardware interfaces.md"
   ]
 }
