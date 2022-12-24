@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Divisibility/Greatest common divisor.md",
+                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Divisibility/Greatest common divisor.md",
+                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Divisibility/Greatest common divisor.md",
+                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +159,8 @@
   },
   "active": "359b80cb9bb30494",
   "lastOpenFiles": [
-    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout rule's.md",
     "Algebra - L1/Divisibility/Greatest common divisor.md",
+    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
     "Algebra - L1/Divisibility/Intro.md",
     "Algebra - L1/Divisibility/Finding a.md",
     "Algebra - L1/Divisibility/Theorems/Gausse's lem.md",
