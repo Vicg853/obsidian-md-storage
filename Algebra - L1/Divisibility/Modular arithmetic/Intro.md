@@ -20,8 +20,7 @@ Although, it must be noted that $r$ (or $b$), could actually be higher than this
 - $a \equiv b\ [1]$ is always true as $\forall a,b \in\Bbb N \implies \{(1 | a, q | b), 1 | a - b\}$
 - $\forall k_1, k_2 \in \Bbb Z, a\equiv b\ [n] \iff a + k_1\cdot n \equiv b+k_2 \cdot n\ [n]$
 
-### Complex properties
-As we are working with divisibility, we have some of its more complex rules, that can be applied to modular arithmetic:
-- reflexivity: $\forall a \in \Bbb Z, a \equiv a\ [n]$
-- symmetry: $\forall a, b \in \Bbb Z, a \equiv b \implies b \equiv a\ [n]$
-- transitivity: $\forall a, b, c \in \Bbb  (a\equiv b\ [n], b \equiv c\ [n]) \implies a \equiv c [n]$, we can prove this using GCD (more specifically Euclid's algorithm) of $gcd(a, b)$ with $gcd(b, c)$
+And [[Complex properties|here]] we have some more complex properties.
+
+### The big link
+One of the biggest reasons of modular arithmetic and its derivatives, is to solve the famous double variable equation $ax+by=c$, creating a sure and exact method, instead of using systems, which can be arbitrary.

@@ -1,6 +1,6 @@
 ### GCD
 The a special relationship with prime numbers: 
-1) For two prime numbers, its value is of ``1`` and therefore, they are either equal, or are simply  [[Greatest common divisor#Related primes| related primes]].
+1) For two prime numbers, its value is of ``1`` and therefore, they are either equal, or are simply  [[Greatest common divisor#Coprimes| coprimes]].
 2) For a prime number and a composed number its value is also of ``1``
 
 ### Integer decomposition
