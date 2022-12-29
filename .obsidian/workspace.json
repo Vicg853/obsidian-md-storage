@@ -18,8 +18,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0ee04f37907d76a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fa783cb96aafdd0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c244fccb05f734cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +183,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "09f862f80581d47f",
+  "active": "c244fccb05f734cd",
   "lastOpenFiles": [
+    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
+    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
     "Algebra - L1/Divisibility/Modular arithmetic/Complex properties.md",
     "Algebra - L1/Primes/Relationships.md",
     "Algebra - L1/Primes/Intro.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
-    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
     "Algebra - L1/Divisibility/Theorems/Gauss's lemma.md",
-    "Algebra - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md",
-    "Algebra - L1/Divisibility/Intro.md",
-    "Algebra - L1/Divisibility/Greatest common divisor.md"
+    "Algebra - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md"
   ]
 }
