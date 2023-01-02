@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cecdc881b294b457",
+        "id": "41f40db31bd9dfe7",
         "type": "tabs",
         "children": [
           {
-            "id": "a918a1364617509b",
+            "id": "40f4923ae8a6bab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2f1a8be570b83886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Trigonometry/Trigonometric functions.md",
+                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Trigonometry/Trigonometric functions.md",
+                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +160,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "a918a1364617509b",
+  "active": "2f1a8be570b83886",
   "lastOpenFiles": [
-    "Algebra - L1/Trigonometry/Intro.md",
+    "Algebra - L1/Trigonometry/Trigonometric functions.md",
     "Algebra - L1/Trigonometry/Important angle values.md",
+    "Algebra - L1/Trigonometry/Intro.md",
     "imgs/IMG_20221026_095230754.jpg",
     "imgs/IMG_20221026_091711065.jpg",
     "imgs/Screenshot 2022-11-18 170145.jpg",
     "imgs/Screenshot 2022-11-18 170145 1.jpg",
     "EN - L1/Text comp. syn..md",
     "imgs/Pasted image 20221230162159.png",
-    "imgs/Pasted image 20221230155647.png",
-    "Pasted image 20221230161952.png"
+    "imgs/Pasted image 20221230155647.png"
   ]
 }
