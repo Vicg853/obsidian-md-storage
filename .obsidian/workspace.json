@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Trigonometry/Polar coordinates.md",
+                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "2f1a8be570b83886",
   "lastOpenFiles": [
-    "Algebra - L1/Trigonometry/Trigonometric functions.md",
-    "Algebra - L1/Trigonometry/Polar coordinates.md",
-    "Algebra - L1/Trigonometry/Important angle values.md",
-    "Algebra - L1/Trigonometry/Intro.md",
-    "imgs/IMG_20221026_095230754.jpg",
-    "imgs/IMG_20221026_091711065.jpg",
-    "imgs/Screenshot 2022-11-18 170145.jpg",
-    "imgs/Screenshot 2022-11-18 170145 1.jpg",
-    "EN - L1/Text comp. syn..md",
-    "imgs/Pasted image 20221230162159.png"
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Rounding.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Normalization.md"
   ]
 }

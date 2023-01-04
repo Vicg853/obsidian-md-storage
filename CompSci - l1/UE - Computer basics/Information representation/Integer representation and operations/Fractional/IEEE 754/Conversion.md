@@ -6,12 +6,14 @@ First, the negative or positive sign, must be put inside the sign bit (1 for neg
 We than convert the number into binary, to place it into the mantissa. The best way to do it, is creating a table, split in half by the decimal dot: values on the left are positive powers of 2 and to the right we have negative powers of two.
 We then fill it with 1s and 0s based on our number. 
 > [!TIP] Finding whole number
-> To find the whole number we can use Euclid's algorithm, while always retaining the remainder, which together correspond to the respective whole value in binary.
+> To find the whole number we can use Euclid's algorithm, dividing the number by the base number, while always retaining the remainder, which together correspond to the respective whole value in binary.
 > The sequence of bits, should be read from bottom to top (if you follow the downwards order of the Euclidian algorithm)
+> _Important_: the last result must be kept (which will be either 1 or 0, depending of the operation's remainder)
 
 > [!TIP] Finding decimal part
 > To find the decimal part, we the Euclid's algorithm inverse: we multiply by two, then keeping only the decimal part for the next step (if the result is``1.25`` we use only ``0.25`` for the next step) and retain the whole part of the result as the binary grouping for the decimal number part.
 > The bits are now organized from top to bottom 
+> We stop when the decimal part is zero
 
 Finally we normalize the number (which will always correspond to a positive normalization as the mantissa is always positive) as seen [[Normalization#Positive normalization|here]] and we remove the first bit value as it will always be equals to one.
 We keep track of the moves made, as this corresponds to the exponent level.

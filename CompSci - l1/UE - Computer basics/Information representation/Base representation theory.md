@@ -31,7 +31,12 @@ $N$ is usually noted: $(N)_b$
 For example this translates to (with $N = 563, k = 3, b = 10$): $563 = 10^2\ \cdot \ 5\ +\ 10^1\ \cdot \ 6\ +\ 10^0\ \cdot \ 3 = 10^2\ \cdot \ 5\ +\ 10\ \cdot \ 6\ +\ 3$
 
 ### Conversion
-To convert from a base to another, we can use Euclides algorithm
+##### From base 10
+Converting from base ten, to any other base, consists of simply, using Euclid's algorithm, dividing the respective Base10 number by the base and collecting the remainders as each respective of the representation characters'.
+
+##### Into base 10
+Converting into base 10, consists of decomposing the numbers
+
 
 ### Computer science
 Apart from what is said in the introduction, this concept is primarily important for computer science because computers don't communicate and work in the same base as us, they use a base of 2, which means ``0``s and ``1``s, a.k.a.: binary. 
