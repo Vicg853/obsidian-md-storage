@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f1a8be570b83886",
+            "id": "cb89b9d7a8902ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+                "file": "Algebra - L1/Complex numbers/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c5f8018517757e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Complex numbers/Complex equations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb73d5fa92e04f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "171b69bb73fdaa40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra - L1/Complex numbers/Complex equations.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
+                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +183,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "2f1a8be570b83886",
+  "active": "bb73d5fa92e04f3c",
   "lastOpenFiles": [
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Negative values.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Intro.md",
+    "Algebra - L1/Complex numbers/Complex equations.md",
+    "Algebra - L1/Complex numbers/Intro.md",
+    "Algebra - L1/Complex numbers/The complex number.md",
+    "Algebra - L1/Basic theorems.md",
+    "Algebra - L1/Trigonometry/Intro.md",
+    "Algebra - L1/Trigonometry/Polar coordinates.md",
+    "Algebra - L1/Trigonometry/Important angle values.md",
     "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Rounding.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Fractional/Normalization.md"
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
+    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md"
   ]
 }
