@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb89b9d7a8902ce4",
+            "id": "7ec4d969c65f1901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Complex numbers/Intro.md",
-                "mode": "source",
+                "file": "Calculus 1&2 - L1/Integrals/Intro.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c5f8018517757e5c",
+            "id": "55c4a531b28125e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Complex numbers/Complex equations.md",
-                "mode": "source",
+                "file": "Calculus 1&2 - L1/Integrals/Integration by part.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "bb73d5fa92e04f3c",
+            "id": "b6e1b91e06c787bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
-                "mode": "source",
+                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "171b69bb73fdaa40",
+            "id": "03c0b61c6f8246d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Complex numbers/Complex equations.md",
+                "file": "Calculus 1&2 - L1/Integrals/Riemann.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
+                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Intro.md",
+                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +183,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "bb73d5fa92e04f3c",
+  "active": "b6e1b91e06c787bc",
   "lastOpenFiles": [
+    "Calculus 1&2 - L1/Integrals/Intro.md",
+    "Calculus 1&2 - L1/Integrals/Integration by part.md",
+    "Calculus 1&2 - L1/Integrals/Variable change.md",
+    "Calculus 1&2 - L1/Integrals/Riemann.md",
     "Algebra - L1/Complex numbers/Complex equations.md",
+    "EN - L1/TDs/06-01-2023.md",
+    "EN - L1/Text comp. syn..md",
+    "Calculus 1&2 - L1/Differential equations/Intro.md",
     "Algebra - L1/Complex numbers/Intro.md",
-    "Algebra - L1/Complex numbers/The complex number.md",
-    "Algebra - L1/Basic theorems.md",
-    "Algebra - L1/Trigonometry/Intro.md",
-    "Algebra - L1/Trigonometry/Polar coordinates.md",
-    "Algebra - L1/Trigonometry/Important angle values.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Base representation theory.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Operations.md",
-    "CompSci - l1/UE - Computer basics/Information representation/Integer representation and operations/Intro.md"
+    "Algebra - L1/Complex numbers/The complex number.md"
   ]
 }

@@ -1,7 +1,3 @@
-The idea of integral comes with the initiative of calculating the area between a function's cuve and a graph's axis.
+The Integral's general idea is of finding a curve's area, by doing the images differences of two integers $b$ and $a$, by a function's primitive ($f^-1$).
 
-A curve's area from an interval $a$ to $b$, two numbers from the x axis and where $a < b$, is represented with the following equation:
-$$
-\int_b^a{f(x)\ \mathsf{d}x}
-$$
-
+The integral is a simplification of [[Riemann|Riemann's method]], of fiddling a function's area, which consist of recursively doing additions on images of $f$.
