@@ -4,52 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "41f40db31bd9dfe7",
+        "id": "b1d964f9dfa6c195",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec4d969c65f1901",
+            "id": "9106592f61ff8f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Intro.md",
-                "mode": "preview",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "55c4a531b28125e1",
+            "id": "92d9d69ca5d4b469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Integration by part.md",
-                "mode": "preview",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b6e1b91e06c787bc",
+            "id": "58f490966d40e1e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
-                "mode": "preview",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "03c0b61c6f8246d6",
+            "id": "6f3316593c7f5517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Riemann.md",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 1&2 - L1/Integrals/Variable change.md",
+                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +183,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "b6e1b91e06c787bc",
+  "active": "58f490966d40e1e0",
   "lastOpenFiles": [
-    "Calculus 1&2 - L1/Integrals/Intro.md",
-    "Calculus 1&2 - L1/Integrals/Integration by part.md",
-    "Calculus 1&2 - L1/Integrals/Variable change.md",
-    "Calculus 1&2 - L1/Integrals/Riemann.md",
-    "Algebra - L1/Complex numbers/Complex equations.md",
-    "EN - L1/TDs/06-01-2023.md",
-    "EN - L1/Text comp. syn..md",
+    "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
     "Calculus 1&2 - L1/Differential equations/Intro.md",
-    "Algebra - L1/Complex numbers/Intro.md",
-    "Algebra - L1/Complex numbers/The complex number.md"
+    "Calculus 1&2 - L1/Differential equations/Homogenous format.md",
+    "imgs/Pasted image 20230108212219.png",
+    "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
+    "Calculus 1&2 - L1/Differential equations/First order linear/Cauchy's problem.md",
+    "Calculus 1&2 - L1/Integrals/Integration by part.md",
+    "Calculus 1&2 - L1/Differential equations/First order linear/Intro.md",
+    "imgs/Pasted image 20230108160427.jpg",
+    "Calculus 1&2 - L1/Integrals/Intro.md"
   ]
 }
