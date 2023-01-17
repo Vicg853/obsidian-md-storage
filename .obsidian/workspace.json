@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "92d9d69ca5d4b469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58f490966d40e1e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f3316593c7f5517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
-                "mode": "source",
+                "file": "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
+                "file": "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
+                "file": "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +146,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "58f490966d40e1e0",
+  "active": "9106592f61ff8f12",
   "lastOpenFiles": [
+    "Calculus 1&2 - L1/Differential equations/First order linear/Intro.md",
+    "Calculus 1&2 - L1/Differential equations/First order linear/Cauchy's problem.md",
+    "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
+    "Calculus 1&2 - L1/Differential equations/Second order linear/Homogenous.md",
     "Calculus 1&2 - L1/Differential equations/Second order linear/Intro.md",
     "Calculus 1&2 - L1/Differential equations/Intro.md",
     "Calculus 1&2 - L1/Differential equations/Homogenous format.md",
     "imgs/Pasted image 20230108212219.png",
-    "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md",
-    "Calculus 1&2 - L1/Differential equations/First order linear/Cauchy's problem.md",
     "Calculus 1&2 - L1/Integrals/Integration by part.md",
-    "Calculus 1&2 - L1/Differential equations/First order linear/Intro.md",
-    "imgs/Pasted image 20230108160427.jpg",
-    "Calculus 1&2 - L1/Integrals/Intro.md"
+    "imgs/Pasted image 20230108160427.jpg"
   ]
 }
