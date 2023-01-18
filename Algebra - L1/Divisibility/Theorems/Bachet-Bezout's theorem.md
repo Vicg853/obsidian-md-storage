@@ -5,6 +5,11 @@ Moere specifically $a$ and $b$'s GCD, will be equal to $a \cdot u$ plus $b \cdot
 ### Properties
 Consider $E$ the solution set of a Bachet-Bazout's identity. The solutions in $E$ will always be positive and $E$ itself will never be an empty set.
 
+### Finding $u, v$
+
+###### Example
+![[Pasted image 20230118152015.png]]
+
 ### Proof
 Bachet-Bezout used the following demonstration for its theorem: 
 1) First, he proves that E will never be an empty set and that the solutions inside of this set will always be positive integers
