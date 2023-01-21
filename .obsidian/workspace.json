@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+                "file": "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +148,13 @@
   },
   "active": "9106592f61ff8f12",
   "lastOpenFiles": [
-    "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
-    "Algebra - L1/Divisibility/Greatest common divisor.md",
-    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Complex properties.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
     "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Complex properties.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
+    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+    "Algebra - L1/Divisibility/Greatest common divisor.md",
+    "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
     "Algebra - L1/Divisibility/Theorems/Gauss's lemma.md",
     "Algebra - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md",
     "Calculus 1&2 - L1/Differential equations/First order linear/Solving homogenous associated f.md"
