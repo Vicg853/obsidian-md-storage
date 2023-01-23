@@ -12,13 +12,14 @@ The residue, by convention, is usually $r \in [0, n - 1]$ ($a \equiv r\ [n]$).
 Although, it must be noted that $r$ (or $b$), could actually be higher than this and that this interval exist, to narrow the possibilities and therefore reduce complexity.
 
 ### Properties
-- $a \equiv b\ [n] \iff a \mod n = b \mod n$. 
-  As if we respect the interval, we should usually have $b \lt a, b \gt n$ therefore $a \mod n = a - k \cdot n = r = b = b mod n$
+- $a \equiv b\ [n] \iff a \mod n = b\ \mod\ n$. 
+  As if we respect the interval, we should usually have $b \lt a, b \gt n$ therefore $a \mod n = a - k \cdot n = r = b = b\ mod\ n$
 - $a \equiv 0\ [n] \iff n\ |\ a$
 - $a \equiv b\ [n] \iff -a \equiv -b\ [n]$
 - $a \equiv b\ [0] \iff a = b$ as $a = k \cdot 0 + b$ 
 - $a \equiv b\ [1]$ is always true as $\forall a,b \in\Bbb N \implies \{(1 | a, q | b), 1 | a - b\}$
 - $\forall k_1, k_2 \in \Bbb Z, a\equiv b\ [n] \iff a + k_1\cdot n \equiv b+k_2 \cdot n\ [n]$
+- If $c\ \land\ n$ then $a \equiv b\ [n] \iff a\cdot c \equiv b\cdot c\ [n]$ 
 
 And [[Complex properties|here]] we have some more complex properties.
 
