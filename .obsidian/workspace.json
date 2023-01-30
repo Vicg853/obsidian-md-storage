@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d964f9dfa6c195",
+        "id": "dc0cab0efc74860c",
         "type": "tabs",
         "children": [
           {
-            "id": "08395d750a13195b",
+            "id": "605ce7bed892364c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs - L1/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs - L1/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs - L1/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +146,11 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "08395d750a13195b",
+  "active": "605ce7bed892364c",
   "lastOpenFiles": [
+    "Graph theory - L1/Intro.md",
     "Algebra 1&2 - L1/Linear Equations/Matrices/Intro.md",
     "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Complex properties.md",
-    "Graphs - L1/Intro.md",
     "Algebra 1&2 - L1/Linear Equations/Matrices/Linear equation matrices.md",
     "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Intro.md",
     "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Module inverse.md",
