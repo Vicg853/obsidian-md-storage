@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9106592f61ff8f12",
+            "id": "08395d750a13195b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
-                "mode": "preview",
+                "file": "Graphs - L1/Intro.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 200
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
+                "file": "Graphs - L1/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra - L1/Divisibility/Modular arithmetic/Intro.md",
+                "file": "Graphs - L1/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +146,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "9106592f61ff8f12",
+  "active": "08395d750a13195b",
   "lastOpenFiles": [
-    "Algebra - L1/Divisibility/Modular arithmetic/Module inverse.md",
-    "Algebra - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
-    "Algebra - L1/Divisibility/Theorems/Gauss's lemma.md",
-    "Algebra - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md",
-    "Algebra - L1/Divisibility/Finding a.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Solving ax+by=c.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Equations/Intro.md",
-    "Algebra - L1/Divisibility/Greatest common divisor.md",
-    "Algebra - L1/Divisibility/Intro.md",
-    "Algebra - L1/Divisibility/Modular arithmetic/Complex properties.md"
+    "Algebra 1&2 - L1/Linear Equations/Matrices/Intro.md",
+    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Complex properties.md",
+    "Graphs - L1/Intro.md",
+    "Algebra 1&2 - L1/Linear Equations/Matrices/Linear equation matrices.md",
+    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Intro.md",
+    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Module inverse.md",
+    "Algebra 1&2 - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+    "Algebra 1&2 - L1/Divisibility/Theorems/Gauss's lemma.md",
+    "Algebra 1&2 - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md",
+    "Algebra 1&2 - L1/Divisibility/Finding a.md"
   ]
 }

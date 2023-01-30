@@ -4,7 +4,7 @@ Mathematically, we often use $P$ as notation for a variable that stores a boolea
 
 $$P =  1+1 \implies P = False$$
 
-In this document, you may find some basic operators and symbols used in boolean logic and you can find more advanced properties and things in the following ones: [[Algebra - L1/Bool/Properties|some properties to keep in mind]], some [[Vocab|vocab]] used here
+In this document, you may find some basic operators and symbols used in boolean logic and you can find more advanced properties and things in the following ones: [[Properties|some properties to keep in mind]], some [[Vocab|vocab]] used here
 
 #### Negation
 We can also negate boolean statements, we often use $\lnot$ symbol as a notation for it, e.g.: $\lnot P$. 

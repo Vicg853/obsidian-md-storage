@@ -14,7 +14,7 @@ Just like in simple functions, differential equations also have different "forma
 - [[Calculus 1&2 - L1/Differential equations/First order linear/Intro|Linear differential equations]]
 
 #### Some divisibility concepts
-Something that must be noted, as it can be useful in some differential equations, is algebra's [[Algebra - L1/Divisibility/Intro|divisibility notion]]:
+Something that must be noted, as it can be useful in some differential equations, is algebra's [[Algebra 1&2 - L1/Divisibility/Intro|divisibility notion]]:
 
 Consider we have an second order differential homogenous equation such as $y''+y'+y=0$, $y$ is only one of his solutions, if $\lambda y$ is also a solution and also 
 

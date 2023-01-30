@@ -1,4 +1,4 @@
-As [[Algebra - L1/Complex numbers/Intro|seen ]] previously, complex equations, are composed of an imaginary unit and give back a complex result $z$.
+As [[Algebra 1&2 - L1/Complex numbers/Intro|seen ]] previously, complex equations, are composed of an imaginary unit and give back a complex result $z$.
 
 Here are some of this function's properties and behaviours:
 #### $z$ equality 
