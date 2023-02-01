@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0cab0efc74860c",
+        "id": "325250bf63c062e5",
         "type": "tabs",
         "children": [
           {
-            "id": "605ce7bed892364c",
+            "id": "9461504da31391ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dde97a98c891b18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra 1&2 - L1/Matrix/Linear equation rel..md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4cc478cad286a9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra 1&2 - L1/Matrix/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +170,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "605ce7bed892364c",
+  "active": "9461504da31391ab",
   "lastOpenFiles": [
-    "Graph theory - L1/Intro.md",
+    "Algebra 1&2 - L1/Matrix/Linear equation rel..md",
+    "Algebra 1&2 - L1/Linear Equations/Intro.md",
+    "Algebra 1&2 - L1/Matrix/Intro.md",
     "Algebra 1&2 - L1/Linear Equations/Matrices/Intro.md",
+    "CompSci - l1/UE - OOP - L1S2/Intro.md",
+    "Graph theory - L1/Intro.md",
+    "Calculus 1&2 - L1/Sequences/Intro.md",
     "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Complex properties.md",
     "Algebra 1&2 - L1/Linear Equations/Matrices/Linear equation matrices.md",
-    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Intro.md",
-    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Module inverse.md",
-    "Algebra 1&2 - L1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
-    "Algebra 1&2 - L1/Divisibility/Theorems/Gauss's lemma.md",
-    "Algebra 1&2 - L1/Divisibility/Theorems/Propositions based of B-B's theorem.md",
-    "Algebra 1&2 - L1/Divisibility/Finding a.md"
+    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Intro.md"
   ]
 }
