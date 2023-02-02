@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "325250bf63c062e5",
+        "id": "32b35cb3d5191f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "9461504da31391ab",
+            "id": "b7c8940978feb496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dde97a98c891b18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra 1&2 - L1/Matrix/Linear equation rel..md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4cc478cad286a9a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra 1&2 - L1/Matrix/Intro.md",
+                "file": "L1/Computers structure/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5026054382324
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
+                "file": "L1/Computers structure/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra 1&2 - L1/Linear Equations/Intro.md",
+                "file": "L1/Computers structure/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,17 +146,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "9461504da31391ab",
+  "active": "b7c8940978feb496",
   "lastOpenFiles": [
-    "Algebra 1&2 - L1/Matrix/Linear equation rel..md",
-    "Algebra 1&2 - L1/Linear Equations/Intro.md",
-    "Algebra 1&2 - L1/Matrix/Intro.md",
+    "L1/Untitled.md",
+    "Algorithms/Fibonacci.md",
+    "Algorithms/Pim's algorithm.md",
+    "CompSci - l1/Language Basics/C++.md",
+    "CompSci - l1/TD - Programming basics/TD1.md",
+    "L1/Algebra 2/Linear Equations/Intro.md",
+    "L1/Algebra 2/Matrix/Linear equation rel..md",
+    "L1/Algebra 2/Matrix/Intro.md",
     "Algebra 1&2 - L1/Linear Equations/Matrices/Intro.md",
-    "CompSci - l1/UE - OOP - L1S2/Intro.md",
-    "Graph theory - L1/Intro.md",
-    "Calculus 1&2 - L1/Sequences/Intro.md",
-    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Complex properties.md",
-    "Algebra 1&2 - L1/Linear Equations/Matrices/Linear equation matrices.md",
-    "Algebra 1&2 - L1/Divisibility/Modular arithmetic/Intro.md"
+    "L1/OOP/Intro.md"
   ]
 }
