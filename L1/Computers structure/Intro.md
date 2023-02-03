@@ -13,4 +13,4 @@ Well, but are does all this structure serves for?
 
 In a nutshell, all of this, serves for a single thing: boolean operations. Simple ones and zeros, performing boolean arithmetic, which turns into numbers, characters, electrical/light signals and many more.
 
-These operations are ran under complex circuits, which follow boolean rules and logic and which can be themselves, abstracted into functions and variables [[|as seen here]]
+These operations are ran under complex circuits, which follow boolean rules and logic and which can be themselves, abstracted into functions and variables [[L1/Computer basics/Information representation/Intro|as seen here]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computers structure/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computers structure/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computers structure/Intro.md",
+                "file": "Graph theory - L1/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "b7c8940978feb496",
   "lastOpenFiles": [
-    "L1/Untitled.md",
-    "Algorithms/Fibonacci.md",
-    "Algorithms/Pim's algorithm.md",
-    "CompSci - l1/Language Basics/C++.md",
-    "CompSci - l1/TD - Programming basics/TD1.md",
-    "L1/Algebra 2/Linear Equations/Intro.md",
-    "L1/Algebra 2/Matrix/Linear equation rel..md",
-    "L1/Algebra 2/Matrix/Intro.md",
-    "Algebra 1&2 - L1/Linear Equations/Matrices/Intro.md",
-    "L1/OOP/Intro.md"
+    "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Intro.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Rounding.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Normalization.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md"
   ]
 }

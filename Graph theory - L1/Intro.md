@@ -1,32 +1,35 @@
 A graph is a data structure, used across a multitude of disciplines. 
 
-Usually noted $G$, it contains two main set elements, noted $V$ and $E$: vertices and edges respectively; Its full form is noted $G = (V, E)$.
+Usually noted $G$, it contains two main set elements, noted $V$ and $E$: vertexes and edges respectively; Its full form is noted $G = (V, E)$.
 
-Edges are similar to points and vertices are the "paths" that connect them all together.
-Vertices are noted as a set of two edges that are connected by the current edge.
+Vertexes are similar to points and edges are the "paths" that connect them all together and Edges can be noted as a set of two vertexes which are connected by it.
 
-##### Properties
-- Not every edge is connected to every other one
-- Some edges can be left alone (no one is connected to it)
+Note that, not every vertex is necessarily connected to every other vertex, and neither are them necessarily connected to anyone.
 
-##### Definition
-A graph's "order" corresponds to its edge count and its size is its vertice/arc count.
-This is applied for both arc-like or vertice-like graph.
+##### Vocabulary
+- "order": a graph's vertex count
+- "size": a graph's edge count
+- In a "simple graph" each vertex has a single connection to another vertex
+- Differently in a "multi-graph" we may (as well as we may not) have multiple connections between two vertexes
 
-##### Vertices type
-_A loop_
-_A multi-vertice_
+#### Vertexes (or nodes)
+A vertex, as already stated, is an element, which creates connections with other elements. It is commonly represented as a circle and an unique identifier: an integer, a letter, ...
 
-##### Vertice and arc vocabulary
-An edge is _incident_ to an arc/vertice, if it is one of it's extremities.
-An arc _originates_ from an edge, if this edge is the first element of its set.
+A vertex's degree, is the total count of connections it holds to others, or even, to itself added to it.
 
-##### Graph types
-_Simple graph_: is a graph containing only simple vertices: 
-_Multi-graph_: is a graph containing at least a single looped vertice or multi-vertices
+#### Edges / Arcs
+Edges as well as Arcs, are the connections created between two edges as stated before. They are commonly represented as a single line, going from a point from another.
 
-##### Vertice degree
-$d(u) = |\delta(u)|$
+Why two variants? Edges, correspond to an non-oriented connection, represented a simple line connecting two nodes. Arcs oppositely, have an orientation, they are represented similarly to vectors and define a strict direction.
+Hence a graph's adjectives: oriented graph and non-oriented graph.
 
-##### Arcs
-Arcs can be illustrated as oriented vertices, or vector-like vertices 
+Both of them anyway, have two connections: one is the _incident_, therefore comes int a node at this point and an _originated_, which comes out of a respective edge.
+
+###### Max size
+An un-oriented graph's max size can be discovered using its order in the following operation: 
+$${n(n-1)}\over2$$ 
+As for oriented graph's max size can be discovered using its order in the following operation: 
+$$n^2$$
+
+###### Looped arc
+We consider an arc looped when it both originates and incides the same node.
