@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7c8940978feb496",
+            "id": "5593c7e8c116aa82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "58cc292a6280b097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Computers structure/Code.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5a2f7898f196a8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Boolean logic/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5026054382324
+    "width": 200
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph theory - L1/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +171,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "b7c8940978feb496",
+  "active": "58cc292a6280b097",
   "lastOpenFiles": [
+    "L1/Computer basics/Computers structure/Intro.md",
+    "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
+    "karnaught_map_eg.png",
+    "L1/Computer basics/Boolean logic/Simplification/Intro.md",
     "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Intro.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Floating points.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Special values.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Rounding.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Intro.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/IEEE 754/Conversion.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Operations.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Normalization.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Fractional/Intro.md"
+    "L1/Computer basics/Boolean logic/Intro.md",
+    "L1/Computer basics/Boolean logic/Logic function simplification.md",
+    "L1/Computer basics/Computers structure/Circuits.md",
+    "L1/Graph theory - L1/Intro.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Intro.md"
   ]
 }
