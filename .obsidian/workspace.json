@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5593c7e8c116aa82",
+            "id": "b7c8940978feb496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58cc292a6280b097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Computer basics/Computers structure/Code.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5a2f7898f196a8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Computer basics/Boolean logic/Intro.md",
+                "file": "L1/Computer basics/Information representation/Codes/List.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5026054382324
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Code.md",
+                "file": "L1/Computer basics/Information representation/Codes/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Code.md",
+                "file": "L1/Computer basics/Information representation/Codes/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +146,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "58cc292a6280b097",
+  "active": "b7c8940978feb496",
   "lastOpenFiles": [
+    "L1/Computer basics/Computers structure/Code.md",
+    "L1/Computer basics/Information representation/Codes/List.md",
     "L1/Computer basics/Computers structure/Intro.md",
-    "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
-    "karnaught_map_eg.png",
-    "L1/Computer basics/Boolean logic/Simplification/Intro.md",
     "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
-    "L1/Computer basics/Boolean logic/Intro.md",
-    "L1/Computer basics/Boolean logic/Logic function simplification.md",
-    "L1/Computer basics/Computers structure/Circuits.md",
-    "L1/Graph theory - L1/Intro.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Intro.md"
+    "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
+    "L1/Computer basics/Boolean logic/Simplification/Intro.md",
+    "L1/Computer basics/Information representation/Base representation theory.md",
+    "L1/Computer basics/Information representation/Integer representation and operations/Negative values.md",
+    "L1/Computers structure/Intro.md",
+    "L1/Untitled.md"
   ]
 }
