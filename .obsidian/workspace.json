@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "32b35cb3d5191f8d",
+        "id": "855919cc2ee6ca94",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c8940978feb496",
+            "id": "4991fedba08f847e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Information representation/Codes/List.md",
+                "file": "L1/Graph theory - L1/Reprsentation/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "398a98586bafedb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5026054382324
+    "width": 262.5026054382324
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Information representation/Codes/List.md",
+                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Information representation/Codes/List.md",
+                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +159,17 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
-  "active": "b7c8940978feb496",
+  "active": "398a98586bafedb2",
   "lastOpenFiles": [
-    "L1/Computer basics/Computers structure/Code.md",
-    "L1/Computer basics/Information representation/Codes/List.md",
-    "L1/Computer basics/Computers structure/Intro.md",
-    "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
-    "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
-    "L1/Computer basics/Boolean logic/Simplification/Intro.md",
-    "L1/Computer basics/Information representation/Base representation theory.md",
-    "L1/Computer basics/Information representation/Integer representation and operations/Negative values.md",
-    "L1/Computers structure/Intro.md",
-    "L1/Untitled.md"
+    "L1/Graph theory - L1/Reprsentation/Intro.md",
+    "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
+    "L1/Graph theory - L1/Vertexes (or Nodes).md",
+    "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
+    "L1/Graph theory - L1/Intro.md",
+    "L1/Graph theory - L1/Edges-Arcs.md",
+    "L1/Programming basics/Operators & expressions.md",
+    "L1/Graph theory - L1/Particular graphs.md",
+    "L1/Calculus 2/Sequences/Intro.md",
+    "L1/Calculus 2/Sequences/Sequence types.md"
   ]
 }
