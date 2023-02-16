@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
-                "mode": "source",
+                "file": "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
+                "file": "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
+                "file": "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,8 @@
   },
   "active": "398a98586bafedb2",
   "lastOpenFiles": [
-    "L1/Graph theory - L1/Reprsentation/Intro.md",
     "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
+    "L1/Graph theory - L1/Reprsentation/Intro.md",
     "L1/Graph theory - L1/Vertexes (or Nodes).md",
     "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
     "L1/Graph theory - L1/Intro.md",

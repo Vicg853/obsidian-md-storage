@@ -7,3 +7,4 @@ Each column corresponds to a single incidence for a respective Edge: if an Edge 
 
 #### Oriented graphs
 The difference on oriented Graphs, is that the value can be either 0 or 1 (incoming Arc) or -1 (out-going Arc). 
+
