@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Graph theory - L1/Intro.md",
+                "file": "L1/Graph theory - L1/Particular graphs.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Graph theory - L1/Intro.md",
+                "file": "L1/Graph theory - L1/Particular graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Graph theory - L1/Intro.md",
+                "file": "L1/Graph theory - L1/Particular graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +148,13 @@
   },
   "active": "73d300e953244ca2",
   "lastOpenFiles": [
+    "L1/Graph theory - L1/Intro.md",
+    "L1/Graph theory - L1/Mathematical Representation/Edge-Arc representation.md",
+    "L1/Graph theory - L1/Mathematical Representation/Intro.md",
+    "L1/Graph theory - L1/Mathematical Representation/Memory complexity.md",
     "L1/Algebra 2/Linear Equations/Crammer system.md",
     "L1/Algebra 2/Linear Equations/Intro.md",
-    "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
-    "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
-    "L1/Graph theory - L1/Reprsentation/Intro.md",
     "L1/Graph theory - L1/Vertexes (or Nodes).md",
-    "L1/Graph theory - L1/Intro.md",
     "L1/Graph theory - L1/Edges-Arcs.md",
     "L1/Programming basics/Operators & expressions.md",
     "L1/Graph theory - L1/Particular graphs.md"

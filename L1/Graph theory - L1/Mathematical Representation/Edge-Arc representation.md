@@ -1,4 +1,4 @@
-We can also use Matrices to represent a Node's incident Edges/Arcs. Its called an incidence Matrix and differently to a normal [[L1/Graph theory - L1/Reprsentation/Intro#Mathematical representation| Graph Matrix]], it isn't symmetric as it has dimensions of $n\cdot m$.
+We can also use Matrices to represent a Node's incident Edges/Arcs. Its called an incidence Matrix and differently to a normal [[L1/Graph theory - L1/Mathematical Representation/Intro#Mathematical representation| Graph Matrix]], it isn't symmetric as it has dimensions of $n\cdot m$.
 
 #### Non oriented
 In non-oriented graphs, each of the matrix's line represents a node and each column an Edge it is connected to, tho it is completely arbitrary the order used to note them.
