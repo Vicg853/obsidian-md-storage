@@ -40,4 +40,23 @@ We also say that an induced sub-graph, is induced from its parent, by ${u, v, ..
 The [[#Sub-graph| Sub-graph]] and [[#Complete and null graphs]] notions are important for this section.
 
 _A clique_, is a Graph's complete sub-graph. 
-_An  anti-clique_, is a Graph's null sub-graph. Consequently, it becomes a Graph's null and induced sub-graph (there is no connection between this specific node set, therefore it is implicitly an induced sub-graph as their vertexes are neceserely null).
+_An  anti-clique_, is a Graph's null sub-graph. Consequently, it becomes a Graph's null and induced sub-graph (there is no connection between this specific node set, therefore it is implicitly an induced sub-graph as their vertexes are necessarily null).
+
+##### Coloration
+A graph's anti-clique can also have a color based representation, hence the "graph coloration" label. 
+![[Pasted image 20230220120249.png]]
+
+When coloring anti-cliques, each one must have its own defined color and their respective nodes must be colored in it. 
+
+##### Partition
+Partition is the idea of finding multiple anti-clique patterns in a graph and splitting them with coloration and into sets. 
+We have therefore the mathematical properties for two vertex sets: $V_i \cap V_j = \emptyset \forall i, j$ and $\cup_i\ V_j = V$.
+
+#### Coupe
+A coupe, starts by splitting a graph into two sub-graphs and therefore paying a closer attention to the incidences to a given or both parts: the edges/arcs coming in/out of this sub-graph, that don't belong to this sub-graph.
+
+Consider $S$ one of $G$'s coupe, we note its incidence: $\delta(S)$
+![[Pasted image 20230220123337.png]]
+
+##### Bi-parted graph
+When a graph's coupe incidence set considers all of its edges, we can assume it as a bi-parted graph and also observe that all of the other coupe's nodes will have a connection with the currently observed coupe.
