@@ -12,12 +12,12 @@ A regular graph behave in such a way that all his Nodes have the same degree. We
 #### Complete and null graphs
 In a complete graph every node is connected to every other possible nodes. All possibly existing edge, exists. 
 
-Antagnostically, a graph where no connection exists, is called a Null graph: this graph does not feature any edges.
+Antignosticaly, a graph where no connection exists, is called a Null graph: this graph does not feature any edges.
 
 We can notice that a complete graph's [[#Complementary graphs|complementary]] version, is a null graph and it is the same thing the other way around.
 
 #### Sub-graph
-As its name state, an anologous notion for sub-graph, is a child graph, that contains its parent's nodes and at least some of its vertexes.
+As its name state, an analogous notion for sub-graph, is a child graph, that contains its parent's nodes and at least some of its vertexes.
 
 There are two types of subgraph's:
 
@@ -60,3 +60,10 @@ Consider $S$ one of $G$'s coupe, we note its incidence: $\delta(S)$
 
 ##### Bi-parted graph
 When a graph's coupe incidence set considers all of its edges, we can assume it as a bi-parted graph and also observe that all of the other coupe's nodes will have a connection with the currently observed coupe.
+
+#### Planar graph
+A planar graph has the peculiar particularity that there is at least a single ways of drawing it, without having any of its edges crossing each other.
+
+An interesting property to notice, is that a 4th order complete graph is the last to be planar. All superior ordered graphs can't be drawn without presenting crossed edges. 
+
+Similarly a planar graph will usually be colored with at most 4 different colours.
