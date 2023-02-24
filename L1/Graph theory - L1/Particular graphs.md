@@ -31,8 +31,8 @@ As we can see: all edges composed by the two of a graph's distinct nodes, that a
 ##### Induced sub-graphs
 Differently that its normal version an induced sub-graph, has all of its parent's graph edges and nodes.
 
+In other words, for each node couple included in the sub-graph, their edge will be present in the sub-graph, if it exists in the parent one.
 This can be mathematically stated as: $\forall u,v \in V'$ and $e = (u, v)\in E \implies e \in E'$. 
-As we see, for all node included in the node sub-graph's node list, if there are edges in the graph's edge list, this edge will be included in the sub-graph's edge list. 
 
 We also say that an induced sub-graph, is induced from its parent, by ${u, v, ...}$ nodes.
 
@@ -66,4 +66,4 @@ A planar graph has the peculiar particularity that there is at least a single wa
 
 An interesting property to notice, is that a 4th order complete graph is the last to be planar. All superior ordered graphs can't be drawn without presenting crossed edges. 
 
-Similarly a planar graph will usually be colored with at most 4 different colours.
+Similarly a planar graph will usually be colored with at most 4 different colours
