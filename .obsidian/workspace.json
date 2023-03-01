@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "855919cc2ee6ca94",
+        "id": "a9c28fddb9044f70",
         "type": "tabs",
         "children": [
           {
-            "id": "73d300e953244ca2",
+            "id": "38bab1c3c7864128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "L1/Calculus 2/Sequences/Sequence types.md",
                 "mode": "source",
                 "source": true
@@ -27,6 +28,10 @@
               "state": {
                 "file": "L1/Calculus 2/Sequences/Infinity proof.md",
                 "mode": "source",
+=======
+                "file": "L1/Graph theory - L1/Particular graphs.md",
+                "mode": "preview",
+>>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
                 "source": true
               }
             }
@@ -83,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5026054382324
+    "width": 200
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -99,7 +104,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "L1/Calculus 2/Sequences/Infinity proof.md",
+=======
+                "file": "L1/Graph theory - L1/Particular graphs.md",
+>>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "L1/Calculus 2/Sequences/Infinity proof.md",
+=======
+                "file": "L1/Graph theory - L1/Particular graphs.md",
+>>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +172,7 @@
       "privacy-glasses:Toggle Privacy Glasses": false
     }
   },
+<<<<<<< HEAD
   "active": "e6dd6917a6046be9",
   "lastOpenFiles": [
     "L1/Calculus 2/Sequences/Sequence types.md",
@@ -171,5 +185,29 @@
     "L1/Graph theory - L1/Reprsentation/Intro.md",
     "L1/Graph theory - L1/Vertexes (or Nodes).md",
     "L1/Graph theory - L1/Edges-Arcs.md"
+=======
+  "active": "38bab1c3c7864128",
+  "lastOpenFiles": [
+    "L1/Graph theory - L1/Known graphs.md",
+    "L1/Graph theory - L1/Particular graphs.md",
+    "imgs/Pasted image 20230222130606.png",
+    "imgs/Pasted image 20230224214441.png",
+    "imgs/Pasted image 20230224213559.png",
+    "imgs/Pasted image 20230224213534.png",
+    "L1/Graph theory - L1/Edges-Arcs.md",
+    "imgs/Pasted image 20230224210624.png",
+    "L1/Algebra 1/Divisibility/Modular arithmetic/Complex properties.md",
+    "L1/Graph theory - L1/Graph paths.md",
+    "L1/Graph theory - L1/Intro.md",
+    "imgs/Pasted image 20230224163852.png",
+    "L1/Graph theory - L1/Mathematical Representation/Intro.md",
+    "L1/Epañ B1/ejercicios/Hay - Estar.md",
+    "pdf-and-filles/2_HAY - ESTAR.pdf",
+    "pdf-and-filles/2_ESTAR.pdf",
+    "L1/Epañ B1/ejercicios/Estar.md",
+    "imgs/IMG_20230216_175725331.jpg",
+    "L1/Epañ B1/ejercicios/Verbo ser - presente.md",
+    "L1/Graph theory - L1/Vertexes (or Nodes).md"
+>>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
   ]
 }

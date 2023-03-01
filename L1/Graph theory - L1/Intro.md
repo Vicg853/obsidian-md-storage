@@ -6,7 +6,7 @@ Vertexes are similar to points and edges are the "paths" that connect them all t
 
 Note that, not every vertex is necessarily connected to every other vertex, and neither are them necessarily connected to anyone.
 
-We also have some special Graph behaviour sometimes, which are stated [[Particular graphs|here]].
+We also have some special Graph behaviour sometimes, which are stated [[Particular graphs|here]] as well as some observable patterns in them, such as: [[Graph paths| paths]].
 
 ##### Vocabulary
 - "order": a graph's vertex count
