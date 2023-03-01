@@ -6,13 +6,14 @@ These are Graphs that complement themselves as for Arc/Edge-wise. This can be ea
 Mathematically this can be noted: $G=(V, E)$ and $\bar G=(V, \bar E)$.
 ![[Pasted image 20230215095223.png]]
 
-#### Regular graph
+#### Regular graph (noted $K_n$)
 A regular graph behave in such a way that all his Nodes have the same degree. We also call them $\Delta$-regular, where delta is the shared degree number.
 
 #### Complete and null graphs
 In a complete graph every node is connected to every other possible nodes. All possibly existing edge, exists. 
 
 Antignosticaly, a graph where no connection exists, is called a Null graph: this graph does not feature any edges.
+A null graph is usually noted $N_n$
 
 We can notice that a complete graph's [[#Complementary graphs|complementary]] version, is a null graph and it is the same thing the other way around.
 

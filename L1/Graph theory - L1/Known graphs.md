@@ -10,10 +10,10 @@ A Graph manifesting such behaviour is called an Euclidian Graph and it is only p
 
 In an Euclidian graph, it is possible to go cycle through all edges of the graph's edges (note that based on a cycle's properties: it will go through all edges, exactly once).
 
-#### Chain graph
+#### Chain graph (noted (noted $P_n$))
 A chain graph, is solely composed of a chain and formed in such way.
 
-#### Cycle graph
+#### Cycle graph (noted $C_n$)
 A cycle graph, is solely composed of a cycle and formed in such way.
 
 It has an interesting property: it will always be 2-regular (as defined [[Particular graphs#Regular graph|here]]).
