@@ -4,41 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c28fddb9044f70",
+        "id": "931d3de531ba48c5",
         "type": "tabs",
         "children": [
           {
-            "id": "38bab1c3c7864128",
+            "id": "58a5bbeba11ba635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "L1/Calculus 2/Sequences/Sequence types.md",
+                "file": "L1/Calculus 2/Sequences/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e6dd6917a6046be9",
+            "id": "6f9785ceb88d7f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Calculus 2/Sequences/Infinity proof.md",
+                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
                 "mode": "source",
-=======
-                "file": "L1/Graph theory - L1/Particular graphs.md",
-                "mode": "preview",
->>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d75f2d0eabce0fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FFI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "1d5be1d88501c552",
@@ -104,11 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "L1/Calculus 2/Sequences/Infinity proof.md",
-=======
-                "file": "L1/Graph theory - L1/Particular graphs.md",
->>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
+                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "L1/Calculus 2/Sequences/Infinity proof.md",
-=======
-                "file": "L1/Graph theory - L1/Particular graphs.md",
->>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
+                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,55 +157,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "privacy-glasses:Toggle Privacy Glasses": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "privacy-glasses:Toggle Privacy Glasses": false
+      "markdown-importer:Open format converter": false
     }
   },
-<<<<<<< HEAD
-  "active": "e6dd6917a6046be9",
+  "active": "d75f2d0eabce0fb8",
   "lastOpenFiles": [
-    "L1/Calculus 2/Sequences/Sequence types.md",
+    "L1/Calculus 2/Sequences/Sub-sequences.md",
+    "L1/Calculus 2/Sequences/Limits/Intro.md",
+    "L1/Calculus 2/Sequences/Limits",
     "L1/Calculus 2/Sequences/Intro.md",
-    "L1/Graph theory - L1/Intro.md",
-    "L1/Algebra 2/Linear Equations/Crammer system.md",
-    "L1/Algebra 2/Linear Equations/Intro.md",
-    "L1/Graph theory - L1/Reprsentation/Memory complexity.md",
-    "L1/Graph theory - L1/Reprsentation/Edge-Arc representation.md",
-    "L1/Graph theory - L1/Reprsentation/Intro.md",
-    "L1/Graph theory - L1/Vertexes (or Nodes).md",
-    "L1/Graph theory - L1/Edges-Arcs.md"
-=======
-  "active": "38bab1c3c7864128",
-  "lastOpenFiles": [
-    "L1/Graph theory - L1/Known graphs.md",
-    "L1/Graph theory - L1/Particular graphs.md",
-    "imgs/Pasted image 20230222130606.png",
-    "imgs/Pasted image 20230224214441.png",
-    "imgs/Pasted image 20230224213559.png",
-    "imgs/Pasted image 20230224213534.png",
-    "L1/Graph theory - L1/Edges-Arcs.md",
-    "imgs/Pasted image 20230224210624.png",
-    "L1/Algebra 1/Divisibility/Modular arithmetic/Complex properties.md",
-    "L1/Graph theory - L1/Graph paths.md",
-    "L1/Graph theory - L1/Intro.md",
-    "imgs/Pasted image 20230224163852.png",
-    "L1/Graph theory - L1/Mathematical Representation/Intro.md",
-    "L1/Epañ B1/ejercicios/Hay - Estar.md",
-    "pdf-and-filles/2_HAY - ESTAR.pdf",
-    "pdf-and-filles/2_ESTAR.pdf",
-    "L1/Epañ B1/ejercicios/Estar.md",
-    "imgs/IMG_20230216_175725331.jpg",
-    "L1/Epañ B1/ejercicios/Verbo ser - presente.md",
-    "L1/Graph theory - L1/Vertexes (or Nodes).md"
->>>>>>> 35b11633b67929fa02c7192d72d7c34f4182fa18
+    "L1/Calculus 2/Sequences/Sequence types.md",
+    "L1/Calculus 2/Sequences/Infinity proof.md",
+    "Mathematical Analysis - L1/Function types/Inverse.md",
+    "Mathematical Analysis - L1/Function types/Affine.md",
+    "Mathematical Analysis - L1/Symbols recap.md",
+    "Mathematical Analysis - L1/Intro.md",
+    "Mathematical Analysis - L1/Funcs/Min, maj & born.md",
+    "Mathematical Analysis - L1/Funcs/Monotone.md",
+    "Mathematical Analysis - L1/Funcs/Periodique.md",
+    "CompSci - l1/Algorithms/Fibonacci.md",
+    "CompSci - l1/TD - Programming basics/Untitled.md",
+    "CompSci - l1/UE - Computer basics/Boolean functions.md"
   ]
 }
