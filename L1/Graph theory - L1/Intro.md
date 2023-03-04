@@ -29,3 +29,10 @@ An un-oriented graph's max size can be discovered using its order in the followi
 $${n(n-1)}\over2$$ 
 As for oriented graph's max size can be discovered using its order in the following operation: 
 $$n^2$$
+
+#### Chapter index
+- Common graphs, seen with high frequency and that may have names given to them: [[Known graphs]]
+- Mathematical or theoric proofs of certain behaviours in a Graph: [[Proofs]]
+- Some graph particularities: [[Particular graphs]]
+- Paths, cycles and etc. in graphs: [[Graph paths]]
+- Mathematical representation of Graphs [[L1/Graph theory - L1/Mathematical Representation/Intro|Mathematical representation]]
