@@ -26,7 +26,7 @@
 #### Eje 3
 1) Estoy muy cansada, no puedo más.
 2) Los niños estan muy delgados, no comen nada.
-3) Ana estoy preocupada porque su padre estás en el hospital.
+3) Ana esta preocupada porque su padre estás en el hospital.
 4) Ya estamos hartos de esperar.
 5) ¿Vosotros estaís bien?
 6) Esa mesa esta llena de papeles.

@@ -14,7 +14,7 @@
 - ¿Están los niños en ese parque?
 - ¿Hay comida para todos?
 - ¿Hay algún ordenador en la classe?
-- ¿Mis pantalones están en tu armario?
+- ¿Están mis pantalones  en tu armario?
 - ¿Hay biblioteca cerca de aqui?
 
 #### Eje 3

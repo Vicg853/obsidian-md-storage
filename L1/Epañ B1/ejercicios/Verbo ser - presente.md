@@ -20,7 +20,7 @@
 9) Maribel es peluquera, trabaja cerca de aquí.
 10) Mi piso es pequeño, pero la cocina es bastante grande.
 11) Yo soy de Madrid y soy taxista.
-12) ¿Eres española? No, soy mexicana.
+12) ¿(Tu) eres española? No, soy mexicana.
 13) Los padres de mi novia son ricos.
 14) Mi novia es azafata.
 

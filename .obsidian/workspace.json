@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
+                "file": "L1/Algebra 2/Matrix/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a9ce6916b387278a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Algebra 2/Matrix/Inverse.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ea69f4981bd16c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Algebra 2/Matrix/Powers.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
+                "file": "L1/Algebra 2/Matrix/Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Calculus 2/Sequences/Limits/Intro.md",
+                "file": "L1/Algebra 2/Matrix/Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +194,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d75f2d0eabce0fb8",
+  "active": "ea69f4981bd16c47",
   "lastOpenFiles": [
-    "L1/Calculus 2/Sequences/Sub-sequences.md",
+    "L1/Algebra 2/Matrix/Inverse.md",
+    "L1/Algebra 2/Matrix/Powers.md",
+    "L1/Algebra 2/Matrix/Intro.md",
+    "L1/Algebra 2/Matrix/Linear equation rel..md",
+    "L1/Algebra 2/Linear Equations/Crammer system.md",
+    "L1/Epañ B1/ejercicios/Hay - Estar.md",
+    "L1/Epañ B1/ejercicios/Estar.md",
+    "L1/Epañ B1/ejercicios/Verbo ser - presente.md",
     "L1/Calculus 2/Sequences/Limits/Intro.md",
+    "L1/Calculus 2/Sequences/Sub-sequences.md",
     "L1/Calculus 2/Sequences/Limits",
     "L1/Calculus 2/Sequences/Intro.md",
     "L1/Calculus 2/Sequences/Sequence types.md",
