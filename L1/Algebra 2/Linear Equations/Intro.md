@@ -19,4 +19,6 @@ Where:
 Linear equations are also strongly tied to [[L1/Algebra 2/Matrix/Intro|matrices]] and can even be [[Linear equation rel.|represented as matrices]] (they usually separated into three matrices: a coefficients matrix, a unknowns matrix and a results matrix).
 
 #### Pivot
-A pivot, is the first non null element of a matrice's line. Each line's pivot, is usually always defined one one column after the last's line pivot column.
+A pivot, is the first non null element of a matrice's line. 
+
+In some cases, we can see each of a system's line's pivots, behave in a certain special way, such on a crammer system, where each pivot

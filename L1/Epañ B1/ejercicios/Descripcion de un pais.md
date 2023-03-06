@@ -1,0 +1,6 @@
+- Es muy vierde (tienes vegetación demasiada)
+- Tienes una ciudad con playa y una montaña con una estatua con sus brazos abiertos
+- Es conocida por fiestas como el carnaval y playas
+- Se habla el portugues
+- Hay recibido numerosos inmigrantes europeos, dentre elos principalmente espanoles y italianos
+- El motivo de tener dmasiada vegetacion es porque cubre una grande parte de la selva amazonica
