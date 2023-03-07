@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4527d28df0fcf8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Algebra 2/Linear Equations/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a7e9ceedb0a075e3",
             "type": "leaf",
             "state": {
@@ -30,9 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7ba6dfdd8fe3c527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8d8d3a6117054a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/EN/TDs/7-03-2023.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
+                "file": "L1/EN/TDs/7-03-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
+                "file": "L1/EN/TDs/7-03-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +171,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a7e9ceedb0a075e3",
+  "active": "8d8d3a6117054a41",
   "lastOpenFiles": [
-    "L1/Algebra 2/Linear Equations/Intro.md",
+    "L1/EN/TDs/06-01-2023.md",
+    "L1/EN/TDs/7-03-2023.md",
+    "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
     "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
+    "L1/EN/Documents",
+    "L1/Algebra 2/Linear Equations/Intro.md",
     "L1/Algebra 2/Linear Equations/Crammer system.md",
     "L1/Graph theory - L1/Mathematical Representation/Adjacence matrix.md",
     "L1/Graph theory - L1/Mathematical Representation/Intro.md",
@@ -184,9 +200,6 @@
     "L1/Epañ B1/ejercicios/Verbo ser - presente.md",
     "L1/Calculus 2/Sequences/Sub-sequences.md",
     "L1/Calculus 2/Sequences/Limits",
-    "L1/Calculus 2/Sequences/Sequence types.md",
-    "L1/Calculus 2/Sequences/Infinity proof.md",
-    "Mathematical Analysis - L1/Function types/Inverse.md",
-    "Mathematical Analysis - L1/Function types/Affine.md"
+    "L1/Calculus 2/Sequences/Sequence types.md"
   ]
 }
