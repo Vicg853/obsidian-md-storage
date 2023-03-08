@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language Basics/C++/Custom operator definition.md",
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language Basics/C++/Custom operator definition.md",
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language Basics/C++/Custom operator definition.md",
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "37de58cd05121d20",
   "lastOpenFiles": [
-    "Language Basics/C++/Class-function friendship.md",
     "Language Basics/C++/Custom operator definition.md",
+    "Language Basics/C++/Class-function friendship.md",
     "L1/Programming basics/Software and hardware interfaces.md",
     "L1/Programming basics/The machine basics.md",
     "L1/Programming basics/Functions/Intro.md",
