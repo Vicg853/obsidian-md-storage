@@ -26,3 +26,6 @@ In some cases, we can see each of a system's line's pivots, behave in a certain 
 
 #### Homogeneous system
 A homogeneous system, is when all equations' results are null
+
+#### Compatibility
+A system, is defined as compatible, when there is a solution for it. When a solution cannot be found, it is called an incompatible system, as its equations don't relate to each other 
