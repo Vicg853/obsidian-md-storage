@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2128a86179757bb5",
+        "id": "783099cf9102c8d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7e9ceedb0a075e3",
+            "id": "37de58cd05121d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
+                "file": "Language Basics/C++/Custom operator definition.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "7ba6dfdd8fe3c527",
+            "id": "701d412239cacbf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d8d3a6117054a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/EN/TDs/7-03-2023.md",
+                "file": "Language Basics/C++/Class-function friendship.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/EN/TDs/7-03-2023.md",
+                "file": "Language Basics/C++/Custom operator definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/EN/TDs/7-03-2023.md",
+                "file": "Language Basics/C++/Custom operator definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +158,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8d8d3a6117054a41",
+  "active": "37de58cd05121d20",
   "lastOpenFiles": [
-    "L1/EN/TDs/06-01-2023.md",
+    "Language Basics/C++/Class-function friendship.md",
+    "Language Basics/C++/Custom operator definition.md",
+    "L1/Programming basics/Software and hardware interfaces.md",
+    "L1/Programming basics/The machine basics.md",
+    "L1/Programming basics/Functions/Intro.md",
+    "L1/Programming basics/Paradigms/Pile (stack).md",
+    "L1/Programming basics/Operators & expressions.md",
     "L1/EN/TDs/7-03-2023.md",
+    "L1/EN/TDs/06-01-2023.md",
     "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
     "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
     "L1/EN/Documents",
@@ -193,13 +187,6 @@
     "L1/Calculus 2/Sequences/Limits/Intro.md",
     "L1/Algebra 2/Matrix/Intro.md",
     "L1/Algebra 2/Matrix/Inverse.md",
-    "L1/Algebra 2/Matrix/Powers.md",
-    "L1/Algebra 2/Matrix/Linear equation rel..md",
-    "L1/Epañ B1/ejercicios/Hay - Estar.md",
-    "L1/Epañ B1/ejercicios/Estar.md",
-    "L1/Epañ B1/ejercicios/Verbo ser - presente.md",
-    "L1/Calculus 2/Sequences/Sub-sequences.md",
-    "L1/Calculus 2/Sequences/Limits",
-    "L1/Calculus 2/Sequences/Sequence types.md"
+    "L1/Calculus 2/Sequences/Limits"
   ]
 }
