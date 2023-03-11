@@ -1,0 +1,1 @@
+Calculating a matrice's rang, consists of developing a system based on it, where $\forall b_i = 0$ (all lines' results) (a.k.a. an homogeneous system)

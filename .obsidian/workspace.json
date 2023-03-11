@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "783099cf9102c8d0",
+        "id": "855af0dd04aab008",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6fc4fe3356aae4",
+            "id": "2ef6586d5e993b32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "18c82aa1784684d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Epañ B1/Classe 09-03-2023.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Epañ B1/Classe 09-03-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Epañ B1/Classe 09-03-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +140,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18c82aa1784684d6",
+  "active": "2ef6586d5e993b32",
   "lastOpenFiles": [
     "L1/Epañ B1/Verbos/Grupos irregulares.md",
     "L1/Epañ B1/Classe 09-03-2023.md",
+    "L1/Algebra 2/Matrix/Trace.md",
+    "Pasted image 20230310130702.png",
+    "Pasted image 20230310130653.png",
+    "Pasted image 20230310130651.png",
+    "Pasted image 20230310130610.png",
+    "Pasted image 20230310130553.png",
+    "Pasted image 20230310130540.png",
+    "L1/Algebra 2/Matrix/Rang.md",
     "L1/Algebra 2/Linear Equations/Intro.md",
     "L1/Epañ B1/Verbos",
     "Language Basics/C++/Custom operator definition.md",
@@ -186,9 +175,6 @@
     "L1/Graph theory - L1/Known graphs.md",
     "L1/Graph theory - L1/Intro.md",
     "L1/Graph theory - L1/Graph paths.md",
-    "L1/Graph theory - L1/Particular graphs.md",
-    "L1/Calculus 2/Sequences/Intro.md",
-    "L1/Calculus 2/Sequences/Limits/Intro.md",
     "L1/Calculus 2/Sequences/Limits"
   ]
 }
