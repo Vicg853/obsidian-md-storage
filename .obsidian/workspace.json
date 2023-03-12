@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "855af0dd04aab008",
+        "id": "81efd3f3f6e84126",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef6586d5e993b32",
+            "id": "3c317f64174f251b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "L1/Algebra 2/Linear Equations/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,22 +145,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2ef6586d5e993b32",
+  "active": "3c317f64174f251b",
   "lastOpenFiles": [
+    "L1/Algebra 1/Divisibility/Theorems/Gauss's lemma.md",
+    "L1/Algebra 2/Linear Equations/Intro.md",
+    "L1/Algebra 2/Matrix/Rank.md",
+    "L1/Algebra 2/Matrix/Powers.md",
+    "L1/Algebra 2/Linear Equations/Rank.md",
+    "L1/Algebra 2/Linear Equations/Crammer system.md",
+    "L1/Algebra 2/Matrix/Identity matrix.md",
+    "L1/Algebra 2/Matrix/Inverse.md",
+    "imgs/IMG_20230311_141501351.jpg",
+    "L1/Algebra 2/Matrix/Intro.md",
+    "L1/Algebra 2/Matrix/Trace.md",
+    "L1/Algebra 2/Matrix/Linear equation rel..md",
+    "imgs/Pasted image 20230310130610.png",
     "L1/Epañ B1/Verbos/Grupos irregulares.md",
     "L1/Epañ B1/Classe 09-03-2023.md",
-    "L1/Algebra 2/Matrix/Trace.md",
-    "Pasted image 20230310130702.png",
-    "Pasted image 20230310130653.png",
-    "Pasted image 20230310130651.png",
-    "Pasted image 20230310130610.png",
-    "Pasted image 20230310130553.png",
-    "Pasted image 20230310130540.png",
-    "L1/Algebra 2/Matrix/Rang.md",
-    "L1/Algebra 2/Linear Equations/Intro.md",
+    "imgs/Pasted image 20230310130702.png",
+    "imgs/Pasted image 20230310130653.png",
+    "imgs/Pasted image 20230310130651.png",
+    "imgs/Pasted image 20230310130553.png",
+    "imgs/Pasted image 20230310130540.png",
     "L1/Epañ B1/Verbos",
-    "Language Basics/C++/Custom operator definition.md",
-    "Language Basics/C++/Class-function friendship.md",
+    "pdf-and-filles/Language Basics/C++/Custom operator definition.md",
+    "pdf-and-filles/Language Basics/C++/Class-function friendship.md",
     "L1/Programming basics/Software and hardware interfaces.md",
     "L1/Programming basics/The machine basics.md",
     "L1/Programming basics/Functions/Intro.md",
@@ -166,15 +180,8 @@
     "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
     "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
     "L1/EN/Documents",
-    "L1/Algebra 2/Linear Equations/Crammer system.md",
     "L1/Graph theory - L1/Mathematical Representation/Adjacence matrix.md",
     "L1/Graph theory - L1/Mathematical Representation/Intro.md",
-    "L1/Graph theory - L1/Mathematical Representation/Edge-Arc representation.md",
-    "L1/Calculus 1/Differential equations/First order linear/Intro.md",
-    "L1/Graph theory - L1/Proofs.md",
-    "L1/Graph theory - L1/Known graphs.md",
-    "L1/Graph theory - L1/Intro.md",
-    "L1/Graph theory - L1/Graph paths.md",
     "L1/Calculus 2/Sequences/Limits"
   ]
 }

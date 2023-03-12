@@ -1,11 +1,11 @@
 Linear equations system, is defined by a set of $n$ variable equations. 
 
 It following notation, is used to define and list this set:
-$$\left\{\begin{array}{l}
-a_{11} x_{1}\ \ +\ a_{12} x_{2} +\ \dots\ \ + a_{n} x_{1n}\ =\ b_1 \\
-a_{21} x_{1}\ \ +\ a_{22} x_{2} +\ \dots\ \ + a_{n} x_{2n}\ =\ b_2 \\
-\ \ \ \ \vdots\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \vdots\ \ \ \ \ \ \ \ \ \ \ddots\ \  \ \ \ \ \ \ \ \vdots\ \ \ \ \ \ \ \ \ \ \ \ \ \vdots \\
-a_{m1} x_{1} +\ a_{m2} x_{2} +\ \dots\ + a_{mn} x_{n}\  =\ b_m \\
+$$\left\{\begin{array}{c}
+a_{11} x_{1} & + & a_{12} x_{2} & + & \dots & + & a_{n} x_{1n} & = & b_1 \\
+a_{21} x_{1} & + & a_{22} x_{2} & + & \dots & + & a_{n} x_{2n} & = & b_2 \\
+\vdots & \ & \vdots & \ & \ddots & \ & \vdots & \ & \vdots \\
+a_{m1} x_{1} & + & a_{m2} x_{2} & + & \dots & + & a_{mn} x_{n} & = & b_m \\
 \end{array}\right. $$
 
 Where: 
@@ -28,4 +28,15 @@ In some cases, we can see each of a system's line's pivots, behave in a certain 
 A homogeneous system, is when all equations' results are null
 
 #### Compatibility
-A system, is defined as compatible, when there is a solution for it. When a solution cannot be found, it is called an incompatible system, as its equations don't relate to each other 
+A system, is defined as compatible, when there is a solution for it. When a solution cannot be found, it is called an incompatible system, as its equations don't relate to each other.
+
+#### Rank
+When transforming a system from another form into an [[#Homogeneous system|homogeneous form]], we can find the so called system's "rank". 
+
+The rank corresponds to the count of unknown elements present in it.
+
+The rank allows us to find other things, such as: the [[#Solution dimension|solutions dimension]]s. 
+
+The same can be found for [[L1/Algebra 2/Matrix/Intro|matrices]], when finding its associated [[L1/Algebra 2/Matrix/Rank|homogeneous system]].
+
+#### Solution dimension
