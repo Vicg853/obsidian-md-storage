@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "81efd3f3f6e84126",
+        "id": "582ab0dcccd2ce55",
         "type": "tabs",
         "children": [
           {
-            "id": "20b24b7b18f7e843",
+            "id": "bda27d33b747bc86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
+                "file": "L1/Graph theory - L1/Trees/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "394beff5202999f7",
+            "id": "559bb43d1995b657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/EN/TDs/0 -02-2023.md",
+                "file": "L1/Graph theory - L1/Weighted Graphs/Intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b06efbbc8f0acae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/EN/TDs/0 -02-2023.md",
+                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/EN/TDs/0 -02-2023.md",
+                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +170,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "394beff5202999f7",
+  "active": "7b06efbbc8f0acae",
   "lastOpenFiles": [
-    "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
+    "L1/Graph theory - L1/Trees/Intro.md",
+    "L1/Graph theory - L1/Algorithms/Prim's.md",
+    "Algorithms/Pim's algorithm.md",
+    "L1/Graph theory - L1/Weighted Graphs/Alogirhtms.md",
+    "L1/Graph theory - L1/Algorithms/Kruskal's.md",
+    "L1/Graph theory - L1/Algorithms/Untitled",
+    "L1/Graph theory - L1/Algorithms",
+    "L1/Graph theory - L1/Weighted Graphs/Intro.md",
+    "L1/Graph theory - L1/Weighted Graphs",
+    "L1/Graph theory - L1/Particular graphs.md",
+    "L1/Graph theory - L1/Known graphs.md",
+    "L1/Epañ B1/Verbos/Grupos irregulares.md",
+    "L1/Graph theory - L1/Trees",
     "L1/EN/TDs/0 -02-2023.md",
+    "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
     "L1/EN/Text comp. syn..md",
     "L1/EN/TDs/27-02-2023.md",
     "L1/EN/TDs/7-03-2023.md",
@@ -179,21 +204,12 @@
     "L1/Algebra 2/Linear Equations/Rank.md",
     "imgs/IMG_20230311_141501351.jpg",
     "imgs/Pasted image 20230310130610.png",
-    "L1/Epañ B1/Verbos/Grupos irregulares.md",
-    "L1/Epañ B1/Classe 09-03-2023.md",
     "imgs/Pasted image 20230310130702.png",
     "imgs/Pasted image 20230310130653.png",
     "imgs/Pasted image 20230310130651.png",
     "imgs/Pasted image 20230310130553.png",
     "imgs/Pasted image 20230310130540.png",
     "L1/Epañ B1/Verbos",
-    "pdf-and-filles/Language Basics/C++/Custom operator definition.md",
-    "pdf-and-filles/Language Basics/C++/Class-function friendship.md",
-    "L1/Programming basics/Software and hardware interfaces.md",
-    "L1/Programming basics/The machine basics.md",
-    "L1/Programming basics/Functions/Intro.md",
-    "L1/Programming basics/Paradigms/Pile (stack).md",
-    "L1/Programming basics/Operators & expressions.md",
     "L1/EN/Documents",
     "L1/Calculus 2/Sequences/Limits"
   ]

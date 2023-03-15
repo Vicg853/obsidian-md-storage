@@ -1,0 +1,3 @@
+A weighted graph, is a graph which's links, have a certain "weight". This graph can be of any nature: oriented, non-oriented, multiple, ...
+
+It is usually mathematically noted as $w$ and a graph's whole weight is $\sum^V_{v} w(v)$.

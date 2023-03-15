@@ -37,6 +37,9 @@ This can be mathematically stated as: $\forall u,v \in V'$ and $e = (u, v)\in E 
 
 We also say that an induced sub-graph, is induced from its parent, by ${u, v, ...}$ nodes.
 
+##### Covering tree
+A covering tree is a sub-graph, following a [[L1/Graph theory - L1/Trees/Intro|tree-like graph]] behaviour.
+
 #### Cliques and anti-cliques
 The [[#Sub-graph| Sub-graph]] and [[#Complete and null graphs]] notions are important for this section.
 
