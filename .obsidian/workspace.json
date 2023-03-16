@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bda27d33b747bc86",
+            "id": "cc9c0ab40e203924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Graph theory - L1/Trees/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "559bb43d1995b657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Graph theory - L1/Weighted Graphs/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b06efbbc8f0acae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
+                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
+                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Epañ B1/Verbos/Grupos irregulares.md",
+                "file": "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +145,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b06efbbc8f0acae",
+  "active": "cc9c0ab40e203924",
   "lastOpenFiles": [
+    "L1/Epañ B1/ejercicios/Description hobby.md",
+    "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
+    "L1/Epañ B1/Pronomes/Pronomes.md",
+    "L1/Epañ B1/Verbos/Grupos irregulares.md",
+    "L1/Epañ B1/Pronomes",
     "L1/Graph theory - L1/Trees/Intro.md",
     "L1/Graph theory - L1/Algorithms/Prim's.md",
     "Algorithms/Pim's algorithm.md",
@@ -183,7 +163,6 @@
     "L1/Graph theory - L1/Weighted Graphs",
     "L1/Graph theory - L1/Particular graphs.md",
     "L1/Graph theory - L1/Known graphs.md",
-    "L1/Epañ B1/Verbos/Grupos irregulares.md",
     "L1/Graph theory - L1/Trees",
     "L1/EN/TDs/0 -02-2023.md",
     "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
@@ -199,9 +178,6 @@
     "L1/Algebra 2/Matrix/Identity matrix.md",
     "L1/Algebra 2/Matrix/Intro.md",
     "L1/Algebra 2/Linear Equations/Crammer system.md",
-    "L1/Algebra 2/Linear Equations/Intro.md",
-    "L1/Algebra 1/Divisibility/Theorems/Gauss's lemma.md",
-    "L1/Algebra 2/Linear Equations/Rank.md",
     "imgs/IMG_20230311_141501351.jpg",
     "imgs/Pasted image 20230310130610.png",
     "imgs/Pasted image 20230310130702.png",
