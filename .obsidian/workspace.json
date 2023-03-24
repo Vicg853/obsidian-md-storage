@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edf4ca1ca1166fa2",
+        "id": "063e2bd6f32dee09",
         "type": "tabs",
         "children": [
           {
-            "id": "1a36d02698f2e870",
+            "id": "d3b54b7569fcb661",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1a36d02698f2e870",
+  "active": "d3b54b7569fcb661",
   "lastOpenFiles": [
+    "L1/Epañ B1/P demonstrativos.md",
     "L1/Operating systems/File system.md",
     "L1/Operating systems/Command line/Commands.md",
     "L1/Operating systems/Command line/Intro.md",
@@ -174,7 +175,6 @@
     "L1/EN/TDs/06-01-2023.md",
     "L1/Algebra 2/Matrix/Trace.md",
     "L1/Algebra 2/Matrix/Rank.md",
-    "L1/Algebra 2/Matrix/Powers.md",
     "imgs/IMG_20230311_141501351.jpg",
     "imgs/Pasted image 20230310130610.png",
     "imgs/Pasted image 20230310130702.png",
