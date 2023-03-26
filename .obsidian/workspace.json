@@ -11,8 +11,12 @@
             "id": "d3b54b7569fcb661",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "L1/Graph theory - L1/Known graphs.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "L1/Graph theory - L1/Known graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "L1/Graph theory - L1/Known graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,13 +147,15 @@
   },
   "active": "d3b54b7569fcb661",
   "lastOpenFiles": [
+    "L1/Graph theory - L1/Particular graphs.md",
+    "L1/Graph theory - L1/Trees/Intro.md",
     "L1/Epañ B1/P demonstrativos.md",
     "L1/Operating systems/File system.md",
     "L1/Operating systems/Command line/Commands.md",
     "L1/Operating systems/Command line/Intro.md",
     "L1/Operating systems/Intro.md",
     "L1/Operating systems/Command line",
-    "Pasted image 20230323150238.png",
+    "imgs/Pasted image 20230323150238.png",
     "L1/EN/TDs/20-03-2023.md",
     "L1/Operating systems",
     "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
@@ -155,7 +163,6 @@
     "L1/Epañ B1/Pronomes/Pronomes.md",
     "L1/Epañ B1/Verbos/Grupos irregulares.md",
     "L1/Epañ B1/Pronomes",
-    "L1/Graph theory - L1/Trees/Intro.md",
     "L1/Graph theory - L1/Algorithms/Prim's.md",
     "Algorithms/Pim's algorithm.md",
     "L1/Graph theory - L1/Weighted Graphs/Alogirhtms.md",
@@ -164,7 +171,6 @@
     "L1/Graph theory - L1/Algorithms",
     "L1/Graph theory - L1/Weighted Graphs/Intro.md",
     "L1/Graph theory - L1/Weighted Graphs",
-    "L1/Graph theory - L1/Particular graphs.md",
     "L1/Graph theory - L1/Known graphs.md",
     "L1/Graph theory - L1/Trees",
     "L1/EN/TDs/0 -02-2023.md",
