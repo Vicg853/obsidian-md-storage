@@ -1,4 +1,3 @@
-2
 #### Hamiltonien
 There are two types of Hamiltonien patterns in a graph: 
 - chain-like (as defined [[Graph paths#Path and chains (in oriented graphs)|here]]) patterns, where all nodes are present in the chain, exactly once: an elementary chain, but all without closing the path at beginning node
