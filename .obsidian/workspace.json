@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3b54b7569fcb661",
+            "id": "4c7747aa91c4a580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Graph theory - L1/Trees/Intro.md",
+                "file": "L1/Graph theory - L1/Mathematical Representation/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a53328008f31bec7",
+            "id": "79fbfefd55bcd3eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Graph theory - L1/Trees/Finding a covering tree.md",
+                "file": "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Graph theory - L1/Trees/Finding a covering tree.md",
+                "file": "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Graph theory - L1/Trees/Finding a covering tree.md",
+                "file": "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +158,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a53328008f31bec7",
+  "active": "3e76e6a6d3ea02e2",
   "lastOpenFiles": [
-    "Pasted image 20230326225633.png",
-    "L1/Graph theory - L1/Trees/Intro.md",
+    "L1/Graph theory - L1/Mathematical Representation/Intro.md",
+    "L1/Graph theory - L1/Mathematical Representation/Adjacence matrix.md",
+    "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
+    "L1/Graph theory - L1/Mathematical Representation/Adjacence list.md",
+    "L1/Graph theory - L1/Mathematical Representation/Memory complexity.md",
     "L1/Graph theory - L1/Trees/Finding a covering tree.md",
+    "imgs/Pasted image 20230326225633.png",
+    "L1/Graph theory - L1/Trees/Intro.md",
     "L1/Graph theory - L1/Known graphs.md",
     "L1/Graph theory - L1/Particular graphs.md",
     "L1/Epañ B1/P demonstrativos.md",
@@ -190,10 +195,6 @@
     "L1/Graph theory - L1/Trees",
     "L1/EN/TDs/0 -02-2023.md",
     "L1/EN/Documents/Passive voice - English Lesson (Anglo-Link, 14.229).md",
-    "L1/EN/Text comp. syn..md",
-    "L1/EN/TDs/27-02-2023.md",
-    "L1/EN/TDs/7-03-2023.md",
-    "L1/EN/TDs/06-01-2023.md",
     "imgs/IMG_20230311_141501351.jpg",
     "imgs/Pasted image 20230310130610.png",
     "imgs/Pasted image 20230310130702.png",

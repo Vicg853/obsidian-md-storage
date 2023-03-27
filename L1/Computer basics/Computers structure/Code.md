@@ -1,6 +1,6 @@
 Coding (as in encoding, decoding and not human-machine code (a.k.a programming) ), is one of the key computer science elements. 
 
-It plays a fundamental role, from binary to human characters (small code [[List|list]]) as a way to compress data, calculate and store it: computers use only binary values, while we humans need visual and complex characters. Therefore, we need an entity which takes care of their translation.
+It plays a fundamental role, from binary to human characters (small code [[L1/Computer basics/Information representation/Codes/List|list]]) as a way to compress data, calculate and store it: computers use only binary values, while we humans need visual and complex characters. Therefore, we need an entity which takes care of their translation.
 
 This entity is called a transcoder and is usually given two different names, based on the main and translated language: 
 - the encoder, which is supposed to transform the main language, into another 
