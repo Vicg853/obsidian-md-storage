@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
+                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders & Decoders & Transcoders.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
+                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders & Decoders & Transcoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
+                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders & Decoders & Transcoders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +159,8 @@
   },
   "active": "4c7747aa91c4a580",
   "lastOpenFiles": [
-    "L1/Computer basics/Computers structure/Core circuits/Busses.md",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
+    "L1/Computer basics/Computers structure/Core circuits/Busses.md",
     "L1/Computer basics/Computers structure/Intro.md",
     "L1/Computer basics/Computers structure/Core circuits/Encoders & Decoders & Transcoders.md",
     "L1/Computer basics/Computers structure/Core circuits",
