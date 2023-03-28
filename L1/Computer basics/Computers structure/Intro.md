@@ -8,6 +8,11 @@ Hence the Von Neumann model: the current mostly accepted based architecture, use
 - The memory(ies) which stores a calculation's instructions and current runtime progress. The two most common type of memory seen in most devices are: ROM (Hard Drives, SSDs, ...) which stores long term memory (programs) and RAM which stores runtime data (variables, file caches, ...). There also other common storage devices, that are mostly platform specific: CPU L1/L2/L3 caches, ...
 - An output and an input device, which controls and interfaces communications with other devices and with programs: ports, stdout, stdin, ethernet, USB and other such as these. There is almost an infinity of them and they vary A LOT between computers.
 
+Putting the core elements aside we are also gonna turn our eyes to some of the smaller parts that compose a computer and even ALUs:
+- [[Multiplexers & De-multiplexers]]
+- [[Encoders & Decoders & Transcoders]]
+- [[Busses]]
+
 ##### Operations
 Well, but are does all this structure serves for? 
 
