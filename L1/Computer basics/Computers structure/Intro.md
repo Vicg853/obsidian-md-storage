@@ -1,16 +1,15 @@
-What we call a "computer" is strongly general and doesn't consider a variety of sub-labels we give them: sever, PC, mobile phone, tablet,...; Which usually reference a certain characteristics of tasks we devote/assign them to. 
+What we call a "computer" is too general and doesn't consider a variety of sub-labels we give them: sever, PC, mobile phone, tablet,...; Which usually reference a certain characteristics of tasks we devote/assign them to. 
 
-A computer actually in general, is a machine, which can perform complex calculations and should in theory, perform any type of calculation. Therefore, when producing computers, we should follow a common set of things, so those are able to perform any calculation, which isn't known at the moment of its creation.
+However, they are all usually reduced to a couple key characteristics/components, of which they are composed of:
+- the Arithmetic and Logic Unit (or ALU for short), charged of performing basic logical and arithmetic operations;
+- the controller, which's role is to schedule requested and ongoing operations (that could come from the ALU, the memory, user, ...);
+- memory imposed of storing performed calculations, based on what the ALU or the user requests (could be cached information by the processor, or simply a random information that is stored based on a user's request).
+  Nevertheless it is mostly defined as a unit where programs or core instructions are stored;
+- Input and Output (I/O for short) where other devices can be connected. allowing for information to be inserted and/or retrieved
 
-Hence the Von Neumann model: the current mostly accepted based architecture, used across devices. This model is composed of four main elements:
-- The main Arithmetic and Logic unit (or ALU for short), tasked of making all the required elementary calculations (mathematical operations ($+, -, \times, \div$), boolean logic, floating point arithmetic, ...) (note that its capacities can also vary. Each ALU usually has its own set of capabilities)
-- The control unit (usually called "chipset" on bigger computers (PCs, servers))
-- The memory(ies) which stores a calculation's instructions and current runtime progress. The two most common type of memory seen in most devices are: ROM (Hard Drives, SSDs, ...) which stores long term memory (programs) and RAM which stores runtime data (variables, file caches, ...). There also other common storage devices, that are mostly platform specific: CPU L1/L2/L3 caches, ...
-- An output and an input device, which controls and interfaces communications with other devices and with programs: ports, stdout, stdin, ethernet, USB and other such as these. There is almost an infinity of them and they vary A LOT between computers.
-
-Putting the core elements aside we are also gonna turn our eyes to some of the smaller parts that compose a computer and even ALUs:
+These core elements, also require their own components. Among many, here the usually more importants: 
 - [[Multiplexers & De-multiplexers]]
-- [[Encoders & Decoders & Transcoders]]
+- [[Encoders, Decoders & Transcoders]]
 - [[Busses]]
 
 ##### Operations
