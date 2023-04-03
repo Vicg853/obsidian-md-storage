@@ -1,9 +1,9 @@
 What we call a "computer" is too general and doesn't consider a variety of sub-labels we give them: sever, PC, mobile phone, tablet,...; Which usually reference a certain characteristics of tasks we devote/assign them to. 
 
 However, they are all usually reduced to a couple key characteristics/components, of which they are composed of:
-- the Arithmetic and Logic Unit (or ALU for short), charged of performing basic logical and arithmetic operations;
+- the [[ALU|Arithmetic and Logic Unit]] (or ALU for short), charged of performing basic logical and arithmetic operations;
 - the controller, which's role is to schedule requested and ongoing operations (that could come from the ALU, the memory, user, ...);
-- memory imposed of storing performed calculations, based on what the ALU or the user requests (could be cached information by the processor, or simply a random information that is stored based on a user's request).
+- [[Memory|memory]] imposed of storing performed calculations, based on what the ALU or the user requests (could be cached information by the processor, or simply a random information that is stored based on a user's request).
   Nevertheless it is mostly defined as a unit where programs or core instructions are stored;
 - Input and Output (I/O for short) where other devices can be connected. allowing for information to be inserted and/or retrieved
 

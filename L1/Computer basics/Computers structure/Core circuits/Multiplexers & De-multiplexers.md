@@ -12,6 +12,10 @@ On each case, the input and exit count can change:
 - on multiplexers, we have a single input, which is converted into several outputs
 - on de-multiplexers, we have several inputs being bottled-down to a single output
 
+As we are talking about circuits, therefore the hardware level, there two simple mathematical statements that can help us find the number of inputs/outputs for a respective mux/de-mux:
+- for a multiplexer, a serial bus handling $n$ input bits will ouput $2^n$ bits
+- for a de-multiplexer, a parallel serial output handling $n$ bits, will require $2^n$ input bits
+
 #### Bus usage example
 One of this circuitry's most common use cases is the conversion between serial and parallel bus types.
 

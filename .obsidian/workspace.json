@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c7747aa91c4a580",
+            "id": "822b360c7acd2f6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
+                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e365fdd00cdebe7a",
+            "id": "00eeef015261500c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
+                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
+                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
+                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +157,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4c7747aa91c4a580",
+  "active": "822b360c7acd2f6f",
   "lastOpenFiles": [
+    "L1/Computer basics/Computers structure/ALU.md",
+    "L1/Computer basics/Computers structure/Flags - Status.md",
     "L1/Computer basics/Computers structure/Intro.md",
+    "Pasted image 20230403172840.png",
+    "Pasted image 20230403172826.png",
+    "Pasted image 20230403172808.png",
+    "Pasted image 20230403172807.png",
+    "Pasted image 20230403165701.png",
+    "L1/Computer basics/Computers structure/Memory.md",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
+    "L1/Programming basics/Functions/Intro.md",
+    "L1/Computer basics/Software/Stream.md",
+    "L1/Computer basics/Software/Buffers.md",
     "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
+    "L1/Computer basics/Software",
     "L1/Computer basics/Computers structure/Circuits.md",
     "L1/Computer basics/Computers structure/Core circuits/Busses.md",
     "L1/EN/TDs/30-03-2023.md",
@@ -180,16 +192,9 @@
     "L1/Epañ B1/P demonstrativos.md",
     "L1/Operating systems/File system.md",
     "L1/Operating systems/Command line/Commands.md",
-    "L1/Operating systems/Command line/Intro.md",
-    "L1/Operating systems/Intro.md",
     "L1/Operating systems/Command line",
     "imgs/Pasted image 20230323150238.png",
-    "L1/EN/TDs/20-03-2023.md",
     "L1/Operating systems",
-    "L1/Epañ B1/ejercicios/Descripcion de un pais.md",
-    "L1/Epañ B1/ejercicios/Description hobby.md",
-    "L1/Epañ B1/Pronomes/Pronomes.md",
-    "L1/Epañ B1/Verbos/Grupos irregulares.md",
     "L1/Epañ B1/Pronomes",
     "L1/Graph theory - L1/Algorithms/Untitled",
     "L1/Graph theory - L1/Algorithms",
@@ -198,11 +203,6 @@
     "imgs/IMG_20230311_141501351.jpg",
     "imgs/Pasted image 20230310130610.png",
     "imgs/Pasted image 20230310130702.png",
-    "imgs/Pasted image 20230310130653.png",
-    "imgs/Pasted image 20230310130651.png",
-    "imgs/Pasted image 20230310130553.png",
-    "imgs/Pasted image 20230310130540.png",
-    "L1/Epañ B1/Verbos",
-    "L1/EN/Documents"
+    "L1/Epañ B1/Verbos"
   ]
 }
