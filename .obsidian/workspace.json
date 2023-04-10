@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "063e2bd6f32dee09",
+        "id": "e1681117e059191d",
         "type": "tabs",
         "children": [
           {
-            "id": "822b360c7acd2f6f",
+            "id": "35787361cd03edc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "00eeef015261500c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
+                "file": "L1/Algebra 2/Matrix/Operations/Powers.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
+                "file": "L1/Algebra 2/Matrix/Operations/Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Flags - Status.md",
+                "file": "L1/Algebra 2/Matrix/Operations/Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,16 +145,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "822b360c7acd2f6f",
+  "active": "35787361cd03edc9",
   "lastOpenFiles": [
-    "L1/Computer basics/Computers structure/ALU.md",
+    "L1/Algebra 2/Matrix/Operations/Index.md",
+    "L1/Algebra 2/Matrix/Intro.md",
+    "L1/Algebra 2/Matrix/Operations/Powers.md",
+    "L1/Algebra 2/Matrix/Operations",
+    "L1/Algebra 2/Matrix/Linear equation rel..md",
+    "L1/Algebra 2/Matrix/Ope.md",
+    "L1/Algebra 2/Matrix/Identity matrix.md",
+    "Pasted image 20230410155020.png",
+    "imgs/Pasted image 20230410154334.png",
+    "imgs/Pasted image 20230410153111.png",
+    "imgs/Pasted image 20230410153051.png",
+    "L1/Epañ B1/Verbos/Grupos irregulares.md",
+    "L1/Epañ B1/Pronomes/Pronomes.md",
+    "L1/Epañ B1/Classe 16-02-2023.md",
+    "L1/Epañ B1/Classe 09-03-2023.md",
     "L1/Computer basics/Computers structure/Flags - Status.md",
+    "L1/Computer basics/Computers structure/ALU.md",
     "L1/Computer basics/Computers structure/Intro.md",
-    "Pasted image 20230403172840.png",
-    "Pasted image 20230403172826.png",
-    "Pasted image 20230403172808.png",
-    "Pasted image 20230403172807.png",
-    "Pasted image 20230403165701.png",
+    "imgs/Pasted image 20230403172840.png",
+    "imgs/Pasted image 20230403172826.png",
+    "imgs/Pasted image 20230403172808.png",
+    "imgs/Pasted image 20230403172807.png",
+    "imgs/Pasted image 20230403165701.png",
     "L1/Computer basics/Computers structure/Memory.md",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
     "L1/Programming basics/Functions/Intro.md",
@@ -182,27 +185,13 @@
     "L1/Graph theory - L1/Mathematical Representation/Intro.md",
     "L1/Graph theory - L1/Mathematical Representation/Adjacence matrix.md",
     "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
-    "L1/Graph theory - L1/Mathematical Representation/Adjacence list.md",
-    "L1/Graph theory - L1/Mathematical Representation/Memory complexity.md",
-    "L1/Graph theory - L1/Trees/Finding a covering tree.md",
     "imgs/Pasted image 20230326225633.png",
-    "L1/Graph theory - L1/Trees/Intro.md",
-    "L1/Graph theory - L1/Known graphs.md",
-    "L1/Graph theory - L1/Particular graphs.md",
-    "L1/Epañ B1/P demonstrativos.md",
-    "L1/Operating systems/File system.md",
-    "L1/Operating systems/Command line/Commands.md",
     "L1/Operating systems/Command line",
-    "imgs/Pasted image 20230323150238.png",
     "L1/Operating systems",
     "L1/Epañ B1/Pronomes",
     "L1/Graph theory - L1/Algorithms/Untitled",
     "L1/Graph theory - L1/Algorithms",
     "L1/Graph theory - L1/Weighted Graphs",
-    "L1/Graph theory - L1/Trees",
-    "imgs/IMG_20230311_141501351.jpg",
-    "imgs/Pasted image 20230310130610.png",
-    "imgs/Pasted image 20230310130702.png",
-    "L1/Epañ B1/Verbos"
+    "L1/Graph theory - L1/Trees"
   ]
 }
