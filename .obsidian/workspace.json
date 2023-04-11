@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "12a62193d00d2b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Computers structure/Clock.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Algebra 2/Matrix/Operations/Powers.md",
+                "file": "L1/Computer basics/Computers structure/Clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Algebra 2/Matrix/Operations/Powers.md",
+                "file": "L1/Computer basics/Computers structure/Clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +158,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "35787361cd03edc9",
+  "active": "12a62193d00d2b4b",
   "lastOpenFiles": [
+    "L1/Computer basics/Computers structure/Circuits.md",
+    "L1/Computer basics/Computers structure/Memory.md",
+    "L1/Computer basics/Computers structure/Intro.md",
+    "L1/Computer basics/Computers structure/Clock.md",
+    "L1/Algebra 2/Matrix/Operations/Powers.md",
     "L1/Algebra 2/Matrix/Operations/Index.md",
     "L1/Algebra 2/Matrix/Intro.md",
-    "L1/Algebra 2/Matrix/Operations/Powers.md",
     "L1/Algebra 2/Matrix/Operations",
     "L1/Algebra 2/Matrix/Linear equation rel..md",
     "L1/Algebra 2/Matrix/Ope.md",
@@ -164,27 +181,23 @@
     "L1/Epañ B1/Classe 09-03-2023.md",
     "L1/Computer basics/Computers structure/Flags - Status.md",
     "L1/Computer basics/Computers structure/ALU.md",
-    "L1/Computer basics/Computers structure/Intro.md",
     "imgs/Pasted image 20230403172840.png",
     "imgs/Pasted image 20230403172826.png",
     "imgs/Pasted image 20230403172808.png",
     "imgs/Pasted image 20230403172807.png",
     "imgs/Pasted image 20230403165701.png",
-    "L1/Computer basics/Computers structure/Memory.md",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
     "L1/Programming basics/Functions/Intro.md",
     "L1/Computer basics/Software/Stream.md",
     "L1/Computer basics/Software/Buffers.md",
     "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
     "L1/Computer basics/Software",
-    "L1/Computer basics/Computers structure/Circuits.md",
     "L1/Computer basics/Computers structure/Core circuits/Busses.md",
     "L1/EN/TDs/30-03-2023.md",
     "L1/Computer basics/Computers structure/Core circuits",
     "L1/Computer basics/Computers structure/Code.md",
     "L1/Graph theory - L1/Mathematical Representation/Intro.md",
     "L1/Graph theory - L1/Mathematical Representation/Adjacence matrix.md",
-    "L1/Graph theory - L1/Mathematical Representation/Incidence matrix.md",
     "imgs/Pasted image 20230326225633.png",
     "L1/Operating systems/Command line",
     "L1/Operating systems",
