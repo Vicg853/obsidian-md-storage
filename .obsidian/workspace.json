@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Untitled.md",
+                "file": "L1/Computer basics/Computers structure/Memory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d593ecb931a97c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Computers structure/Core circuits/High impendance.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Untitled.md",
+                "file": "L1/Computer basics/Computers structure/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Epañ B1/ejercicios/Untitled.md",
+                "file": "L1/Computer basics/Computers structure/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,10 +159,13 @@
   },
   "active": "65247e2c2db45e71",
   "lastOpenFiles": [
+    "L1/Computer basics/Computers structure/Core circuits/High impendance.md",
+    "L1/Computer basics/Computers structure/Memory.md",
+    "L1/Computer basics/Software/Buffers.md",
+    "L1/Computer basics/Software/Stream.md",
     "L1/Epañ B1/ejercicios/Untitled.md",
     "L1/Computer basics/Computers structure/Clock.md",
     "L1/Computer basics/Computers structure/Circuits.md",
-    "L1/Computer basics/Computers structure/Memory.md",
     "L1/Computer basics/Computers structure/Intro.md",
     "L1/Algebra 2/Matrix/Operations/Powers.md",
     "L1/Algebra 2/Matrix/Operations/Index.md",
@@ -176,15 +191,12 @@
     "imgs/Pasted image 20230403165701.png",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
     "L1/Programming basics/Functions/Intro.md",
-    "L1/Computer basics/Software/Stream.md",
-    "L1/Computer basics/Software/Buffers.md",
     "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
     "L1/Computer basics/Software",
     "L1/Computer basics/Computers structure/Core circuits/Busses.md",
     "L1/EN/TDs/30-03-2023.md",
     "L1/Computer basics/Computers structure/Core circuits",
     "L1/Computer basics/Computers structure/Code.md",
-    "L1/Graph theory - L1/Mathematical Representation/Intro.md",
     "imgs/Pasted image 20230326225633.png",
     "L1/Operating systems/Command line",
     "L1/Operating systems",
