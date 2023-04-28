@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad07a8d27a82124",
+        "id": "93f9aa63ef193ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "d1bb1e0432a8f284",
+            "id": "8538a4c966ab202d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/EN/TDs/18-04-2023.md",
+                "file": "L1/Algebra 2/Vectors/Intro.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "10922080b9cd891d",
+            "id": "1091ecbf00d3f9cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/EN/TDs/18-04-2023.md",
+                "file": "L1/Algebra 2/Vectors/Vector-VectorSpaces relations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88bae8b14e59ceea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Algebra 2/Vectors/Vector spaces.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/EN/TDs/18-04-2023.md",
+                "file": "L1/Algebra 2/Vectors/Vector-VectorSpaces relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/EN/TDs/18-04-2023.md",
+                "file": "L1/Algebra 2/Vectors/Vector-VectorSpaces relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +170,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10922080b9cd891d",
+  "active": "1091ecbf00d3f9cd",
   "lastOpenFiles": [
+    "L1/Algebra 2/Vectors/Intro.md",
+    "L1/Algebra 2/Vectors/Vector-VectorSpaces relations.md",
+    "L1/Algebra 2/Vectors/Vector spaces.md",
+    "L1/Algebra 2/Linear applications",
+    "L1/Algebra 2/Vectors",
+    "L1/Epañ B1/Verbos/Futuro.md",
     "L1/EN/TDs/18-04-2023.md",
     "L1/Computer basics/Computers structure/Memory.md",
     "L1/Computer basics/Computers structure/Core circuits/High impendance.md",
@@ -192,19 +210,13 @@
     "imgs/Pasted image 20230403172807.png",
     "imgs/Pasted image 20230403165701.png",
     "L1/Computer basics/Computers structure/Core circuits/Multiplexers & De-multiplexers.md",
-    "L1/Programming basics/Functions/Intro.md",
-    "L1/Computer basics/Computers structure/Core circuits/Encoders, Decoders & Transcoders.md",
     "L1/Computer basics/Software",
-    "L1/Computer basics/Computers structure/Core circuits/Busses.md",
-    "L1/EN/TDs/30-03-2023.md",
     "L1/Computer basics/Computers structure/Core circuits",
     "imgs/Pasted image 20230326225633.png",
     "L1/Operating systems/Command line",
     "L1/Operating systems",
     "L1/Epañ B1/Pronomes",
     "L1/Graph theory - L1/Algorithms/Untitled",
-    "L1/Graph theory - L1/Algorithms",
-    "L1/Graph theory - L1/Weighted Graphs",
-    "L1/Graph theory - L1/Trees"
+    "L1/Graph theory - L1/Algorithms"
   ]
 }
