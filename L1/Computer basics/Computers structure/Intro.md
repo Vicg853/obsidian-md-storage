@@ -18,3 +18,8 @@ Well, but are does all this structure serves for?
 In a nutshell, all this results in a single outcome: boolean operations. Simple ones and zeros and boolean arithmetic, that turn into numbers, characters, electrical/light signals and many more.
 
 These operations, are ran on complex circuits following boolean logic, which are  abstracted into functions and variables [[L1/Computer basics/Information representation/Intro|as seen here]].
+
+#### Temporal circuits
+Until now, only the called combinational circuits were mentioned. But, another core circuit type, are [[Temporal Circuits|temporal circuits]], they are essential current computer and an important section of circuits.
+
+These are principally critical for storage, for its temporal properties, allowing the computer to keep data across time.

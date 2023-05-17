@@ -2,4 +2,4 @@ If memory didn't exists, nothing we do would be possible: we depend on rememberi
 
 Hence storage devices and, on small scale, circuits.
 
-#### A small problem
+But memory circuits, couldn't be crafted with usual combinational circuits, they require [[Temporal Circuits|non-combinational]] (or temporal) circuits.
