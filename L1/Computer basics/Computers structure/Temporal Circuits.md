@@ -8,3 +8,5 @@ They are represented as:
 - `Q(t + 1)` the next one
 
 This circuit type, is actually critical for [[Memory|memory circuits]] to be functional.
+
+The single issue with temporal circuits, is that inconsistencies can happen when couple with other both temporal and non-temporal circuits. To solve that, a core system called [[Clock|clock]] is used to establish when circuits will "react", preventing therefore miss-synchronization between them.

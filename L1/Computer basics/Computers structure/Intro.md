@@ -23,3 +23,7 @@ These operations, are ran on complex circuits following boolean logic, which are
 Until now, only the called combinational circuits were mentioned. But, another core circuit type, are [[Temporal Circuits|temporal circuits]], they are essential current computer and an important section of circuits.
 
 These are principally critical for storage, for its temporal properties, allowing the computer to keep data across time.
+
+#### Keeping track of things...
+The ability to keep track of the time, iterations and others things is also a key for a processor to properly perform what it needs. 
+Circuits tasked with that are simply called [[Counter|Counters]] and they are used for a handful of tasks, from simple program progress, to loops, variables and more.

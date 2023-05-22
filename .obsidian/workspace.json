@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Clock.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02cb9bd1a69db2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Computers structure/Memory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63f2d40beffd6c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1/Computer basics/Computers structure/Core temporal circuits/Flip-flops.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FFI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Computer basics/Computers structure/Intro.md",
+                "file": "L1/Computer basics/Computers structure/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,18 +178,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f5adba85e974316b",
+  "active": "02cb9bd1a69db2f3",
   "lastOpenFiles": [
-    "L1/Computer basics/Computers structure/Code.md",
-    "L1/Computer basics/Computers structure/Clock.md",
-    "L1/Computer basics/Computers structure/Intro.md",
+    "Pasted image 20230521205010.png",
+    "L1/Computer basics/Computers structure/Core temporal circuits/Flip-flops.md",
+    "L1/Computer basics/Computers structure/Core temporal circuits/Counter.md",
+    "L1/Computer basics/Computers structure/Core combinatory circuits/High impendance.md",
+    "Pasted image 20230521201733.png",
     "L1/Computer basics/Computers structure/Memory.md",
+    "L1/Computer basics/Computers structure/Clock.md",
     "L1/Computer basics/Computers structure/Temporal Circuits.md",
+    "L1/Computer basics/Computers structure/Intro.md",
+    "L1/Computer basics/Computers structure/Code.md",
+    "L1/Computer basics/Computers structure/Core temporal circuits",
     "L1/Computer basics/Software/Stream.md",
     "L1/Computer basics/Software/Buffers.md",
     "L1/Computer basics/Computers structure/ALU.md",
     "L1/Computer basics/Computers structure/Core combinatory circuits/Multiplexers & De-multiplexers.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/High impendance.md",
     "L1/Computer basics/Computers structure/Core combinatory circuits/Encoders, Decoders & Transcoders.md",
     "L1/Computer basics/Computers structure/Core combinatory circuits/Busses.md",
     "L1/Operating systems/Processes/Intra-procesus comunication.md",
@@ -181,9 +211,6 @@
     "L1/Algebra 2/Vectors",
     "L1/Epañ B1/Verbos/Futuro.md",
     "L1/EN/TDs/18-04-2023.md",
-    "L1/Epañ B1/ejercicios/Untitled.md",
-    "L1/Computer basics/Computers structure/Circuits.md",
-    "L1/Algebra 2/Matrix/Operations/Powers.md",
     "L1/Algebra 2/Matrix/Operations",
     "imgs/Pasted image 20230410155020.png",
     "imgs/Pasted image 20230410154334.png",
@@ -196,10 +223,8 @@
     "imgs/Pasted image 20230403165701.png",
     "L1/Computer basics/Software",
     "L1/Computer basics/Computers structure/Core combinatory circuits",
-    "imgs/Pasted image 20230326225633.png",
     "L1/Operating systems/Command line",
     "L1/Operating systems",
-    "L1/Epañ B1/Pronomes",
-    "L1/Graph theory - L1/Algorithms/Untitled"
+    "L1/Epañ B1/Pronomes"
   ]
 }
