@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Operating systems/Intro.md",
-                "mode": "source",
+                "file": "L1/Operating systems/Command line/The POSIX convention.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1/Operating systems/Intro.md",
+                "file": "L1/Operating systems/Command line/The POSIX convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1/Operating systems/Intro.md",
+                "file": "L1/Operating systems/Command line/The POSIX convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,12 @@
   },
   "active": "02cb9bd1a69db2f3",
   "lastOpenFiles": [
+    "L1/Operating systems/Command line/Terminal & shell.md",
+    "L1/Operating systems/Command line/The POSIX convention.md",
+    "L1/Operating systems/Command line/Commands.md",
+    "L1/Operating systems/Intro.md",
+    "L1/Operating systems/Command line/Intro.md",
+    "L1/Operating systems/File system.md",
     "L1/Operating systems/Processes/Intra-procesus comunication.md",
     "L1/Operating systems/Processes/Process scheduling.md",
     "L1/Computer basics/Computers structure/Memory.md",
@@ -179,13 +185,8 @@
     "L1/Epañ B1/Verbos/Imperativo.md",
     "L1/Epañ B1/P demonstrativos.md",
     "L1/Algebra 2/Vectors/Vector-VectorSpaces relations.md",
-    "L1/Epañ B1/Untitled.md",
-    "L1/Algebra 2/Vectors/Intro.md",
-    "L1/Algebra 2/Vectors/Vector spaces.md",
     "L1/Algebra 2/Linear applications",
     "L1/Algebra 2/Vectors",
-    "L1/Epañ B1/Verbos/Futuro.md",
-    "L1/EN/TDs/18-04-2023.md",
     "L1/Algebra 2/Matrix/Operations",
     "imgs/Pasted image 20230410155020.png",
     "imgs/Pasted image 20230410154334.png",

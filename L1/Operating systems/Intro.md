@@ -4,12 +4,12 @@ Long story short, the operating system looks more or less like:
 ![[Pasted image 20230323150238.png]]
 
 Apart from the things mentioned above, the operating system also manages:
-- manages files and directories (physically and its appearance)
-- Memory management (as already mentioned): it ensures that programs only use their provided memory space and that each program can have its memory space
-- Program management (as mentioned)
-- I/O management: keyboards, sound peripherals, general peripherals and also inner hardware such as graphic cards, memory on itself, ...
-- [[L1/Operating systems/Command line/Intro|Command line]] management
-- U.I. management
+- manages files and directories (physically and its appearance);
+- Memory management (as already mentioned): it ensures that programs only use their provided memory space and that each program can have its memory space;
+- Program management (as mentioned);
+- I/O management: keyboards, sound peripherals, general peripherals and also inner hardware such as graphic cards, memory on itself, ...;
+- [[L1/Operating systems/Command line/Intro|Command line]] management;
+- program and general hardware inter-communication;
 
 In a nutshell, an OS works as an interpreter (the person, not the program) between programs and the computer's physical resources (hard drives, USBs, I/O, ...), as well as assures users/programs isolation/runtime and resource control/access.
 
@@ -26,6 +26,10 @@ Nevertheless, even with each newer generations a same set of problem kept showin
 - missing per program isolation (preventing global crashes and unexpected memory modification)
 - hardware diversification
 - I/O compatibility diversification
+
+#### Working with an OS
+There are many interfaces provided by an OS allowing users/programs to work with it. Here are some of them:
+- the [[Terminal & shell|terminal]]
 
 
 
