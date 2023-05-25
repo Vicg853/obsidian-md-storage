@@ -28,8 +28,10 @@ Nevertheless, even with each newer generations a same set of problem kept showin
 - I/O compatibility diversification
 
 #### Working with an OS
-There are many interfaces provided by an OS allowing users/programs to work with it. Here are some of them:
-- the [[Terminal & shell|terminal]]
+There are many interfaces provided by and other specificities inside an OS allowing everything to work properly to work with it. Here are some of them:
+- the [[Terminal & shell|terminal]] providing a standard and powerful communication between both parties (user - computer)
+- disk [[File systems|file systems]] and [[Disk repartition|disk organization]] allowing everything to be neatly stored in storage devices
+- 
 
 
 
