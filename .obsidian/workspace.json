@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/EN/Intro.md",
+                "file": "L2/EN/TD1-19-09-2023.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/EN/Intro.md",
+                "file": "L2/EN/TD1-19-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/EN/Intro.md",
+                "file": "L2/EN/TD1-19-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,10 +153,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3e76e6a6d3ea02e2",
+  "active": "0846836e517da709",
   "lastOpenFiles": [
-    "L2/Embedded circuits/Coding circuits/Intro.md",
     "L2/EN/Intro.md",
+    "L2/EN/TD1-19-09-2023.md",
+    "L2/Embedded circuits/Coding circuits/Intro.md",
     "L2/EN",
     "L2/Embedded circuits/Intro.md",
     "L2/Embedded circuits/Coding circuits",
@@ -189,7 +190,6 @@
     "L1/Operating systems/Storage/Disk repartition.md",
     "L1/Operating systems/File system.md",
     "L1/Operating systems/Storage/File systems.md",
-    "L1/Operating systems/Intro.md",
     "L1/Operating systems/Storage",
     "imgs/Pasted image 20230521205010.png",
     "imgs/Pasted image 20230521201733.png",
