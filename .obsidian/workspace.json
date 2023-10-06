@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "162db78f69a58a6c",
+        "id": "cb50cb3ecdbf14ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f66634bde98249b7",
+            "id": "71ab229bc4f25b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/Linear programming/Linear models.md",
+                "file": "L2/Automata and language theory/Programming languages.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/Linear programming/Linear models.md",
+                "file": "L2/Automata and language theory/Programming languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/Linear programming/Linear models.md",
+                "file": "L2/Automata and language theory/Programming languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,44 +153,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f66634bde98249b7",
+  "active": "71ab229bc4f25b71",
   "lastOpenFiles": [
-    "L2/Embedded circuits/Coding circuits/The Quartus Prime Circuits application.md",
-    "L2/Embedded circuits/Coding circuits/Intro.md",
+    "L2/Linear programming/TDs/Sceance7-03-10-2023.md",
+    "L2/Automata and language theory/Programming languages.md",
+    "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
+    "L2/Linear programming/TDs",
+    "L1/Computer basics/Boolean logic/Simplification/Intro.md",
+    "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
+    "L2/Embedded circuits/Intro.md",
+    "L2/Embedded circuits/Embedded hardware.md",
     "L2/Embedded circuits/Finite state machines.md",
+    "L2/Embedded circuits/Coding circuits/Intro.md",
+    "L2/Embedded circuits/Coding circuits/The Quartus Prime Circuits application.md",
+    "L1/Computer basics/Boolean logic/Logic function simplification.md",
+    "L1/Computer basics/Boolean logic/Intro.md",
+    "L1/Computer basics/Boolean logic/Complex boolean operators.md",
+    "L1/Computer basics/Computers structure/Core combinatory circuits/Busses.md",
+    "L1/Computer basics/Computers structure/Core temporal circuits/Counter.md",
+    "L1/Computer basics/Computers structure/Circuits.md",
+    "L2/Advanced algorithms/Data structures.md",
+    "L2/EN/TD3-28-09-2023.md",
     "L2/EN/TD1-19-09-2023.md",
     "L2/EN/Intro.md",
+    "L2/Linear programming/Linear models.md",
+    "L2/Advanced algorithms",
     "L2/EN",
-    "L2/Embedded circuits/Intro.md",
     "L2/Embedded circuits/Coding circuits",
     "L2/DBWEB/Defs.md",
     "L2/DBWEB/Intro.md",
     "L2/Automata and language theory/TD/18-09-2023 - TD1.md",
     "L2/Automata and language theory/TD",
-    "L2/Linear programming/Linear models.md",
     "L1/Computer basics/Computers structure/Intro.md",
     "L1/Computer basics/Computers structure/Flags - Status.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/Busses.md",
     "L2/Automata and language theory",
-    "L1/Computer basics/Computers structure/Core temporal circuits/Flip-flops.md",
-    "L1/Computer basics/Computers structure/Memory.md",
-    "L1/Computer basics/Computers structure/Temporal Circuits.md",
-    "L1/Computer basics/Computers structure/Code.md",
-    "L1/Computer basics/Computers structure/Clock.md",
-    "L1/Computer basics/Computers structure/Circuits.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/Multiplexers & De-multiplexers.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/High impendance.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/Encoders, Decoders & Transcoders.md",
-    "L1/Computer basics/Computers structure/Core temporal circuits/Counter.md",
     "L2/Networks",
     "L2/Embedded circuits",
     "L2/Linear programming",
-    "L1/Operating systems/Storage/Compression.md",
     "L2/DBWEB",
-    "L2",
-    "L1/Operating systems/Storage/Disk repartition.md",
-    "L1/Operating systems/File system.md",
-    "L1/Operating systems/Storage",
     "imgs/Pasted image 20230521205010.png",
     "imgs/Pasted image 20230521201733.png",
     "imgs/Pasted image 20230410155020.png",
