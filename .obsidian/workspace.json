@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb50cb3ecdbf14ee",
+        "id": "9df5fcc1c07ab05c",
         "type": "tabs",
         "children": [
           {
-            "id": "71ab229bc4f25b71",
+            "id": "1c8a4ef1907c8881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/Automata and language theory/Programming languages.md",
+                "file": "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/Automata and language theory/Programming languages.md",
+                "file": "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/Automata and language theory/Programming languages.md",
+                "file": "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,44 +153,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71ab229bc4f25b71",
+  "active": "1c8a4ef1907c8881",
   "lastOpenFiles": [
-    "L2/Linear programming/TDs/Sceance7-03-10-2023.md",
+    "imgs/Screenshot 2023-10-19 at 1.49.56 PM.png",
+    "L2/Embedded circuits/Intro.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
+    "L2/Embedded circuits/Electronic and analogous devices",
+    "L2/Embedded circuits/Finite state machines.md",
+    "L2/Embedded circuits/Embedded hardware.md",
+    "L1/Algebra 1/Divisibility/Theorems/Gauss's lemma.md",
+    "L1/Algebra 1/Divisibility/Theorems/Bachet-Bezout's theorem.md",
+    "L1/Algebra 1/Divisibility/Finding a.md",
+    "L1/Algebra 2/Linear Equations/Intro.md",
+    "L1/Algebra 2/Linear Equations/Crammer system.md",
+    "L2/Networks/Network kinds.md",
+    "L2/Networks/Intro.md",
+    "L2/Automata and language theory/Grammar.md",
+    "L2/Automata and language theory/TD/13-10-2023 - TD 4.md",
     "L2/Automata and language theory/Programming languages.md",
+    "L2/Automata and language theory/TD/18-09-2023 - TD1.md",
+    "L2/Linear programming/Table modeling.md",
+    "L2/Linear programming/Simplex method.md",
+    "L2/Linear programming/Linear models.md",
+    "L2/Linear programming/TDs/Sceance7-03-10-2023.md",
     "L1/Computer basics/Boolean logic/Basic boolean expressions.md",
     "L2/Linear programming/TDs",
     "L1/Computer basics/Boolean logic/Simplification/Intro.md",
     "L1/Computer basics/Boolean logic/Simplification/Karnaught tables.md",
-    "L2/Embedded circuits/Intro.md",
-    "L2/Embedded circuits/Embedded hardware.md",
-    "L2/Embedded circuits/Finite state machines.md",
     "L2/Embedded circuits/Coding circuits/Intro.md",
     "L2/Embedded circuits/Coding circuits/The Quartus Prime Circuits application.md",
     "L1/Computer basics/Boolean logic/Logic function simplification.md",
-    "L1/Computer basics/Boolean logic/Intro.md",
-    "L1/Computer basics/Boolean logic/Complex boolean operators.md",
-    "L1/Computer basics/Computers structure/Core combinatory circuits/Busses.md",
-    "L1/Computer basics/Computers structure/Core temporal circuits/Counter.md",
-    "L1/Computer basics/Computers structure/Circuits.md",
-    "L2/Advanced algorithms/Data structures.md",
-    "L2/EN/TD3-28-09-2023.md",
-    "L2/EN/TD1-19-09-2023.md",
-    "L2/EN/Intro.md",
-    "L2/Linear programming/Linear models.md",
     "L2/Advanced algorithms",
     "L2/EN",
     "L2/Embedded circuits/Coding circuits",
-    "L2/DBWEB/Defs.md",
-    "L2/DBWEB/Intro.md",
-    "L2/Automata and language theory/TD/18-09-2023 - TD1.md",
     "L2/Automata and language theory/TD",
-    "L1/Computer basics/Computers structure/Intro.md",
-    "L1/Computer basics/Computers structure/Flags - Status.md",
     "L2/Automata and language theory",
     "L2/Networks",
     "L2/Embedded circuits",
     "L2/Linear programming",
-    "L2/DBWEB",
     "imgs/Pasted image 20230521205010.png",
     "imgs/Pasted image 20230521201733.png",
     "imgs/Pasted image 20230410155020.png",
