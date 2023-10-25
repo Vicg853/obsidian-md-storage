@@ -8,6 +8,8 @@ When working with embedded circuits, there is a thigh interaction between the re
 ###### Ohms law and resistors
 Resistance is the concept that every electronic device holds the current that it is provided with. 
 
+A resistance "power" is measured as follows: $P = RI^2 = {U^2 \over R}$
+
 ###### Capacitors
 
 _Charging capacity_: $V_C(t) = E\ (1 - \exp{- t \over R_C}\ )$

@@ -7,6 +7,10 @@ There are a couple of characteristics that are present and common to most progra
 
 #### Interpretation steps
 Similarly they all usually share the same three following interpretation steps:
-1) Lexical analysis, tasked with the tokenization of all content
+1) Lexical analysis, tasked with the content's tokenization
 2) Syntactic analysis where a token three is created
-3) 
+3) Analysis of previous structures consistency with the languages grammar and rules
+
+[[Screenshot 2023-10-21 at 2.46.24 PM.png|Example]]
+
+#### 

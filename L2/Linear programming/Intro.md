@@ -33,6 +33,8 @@ $$
 > $b_m$ corresponds to the constraints that are applied to certain cases
 > $a_nm$s and $c_nm$s to the coefficients applied to the quantities that we intend to find (we can for example consider them as costs)
 
+A shorter alternative, on larger and more complex problems, is to write it down in a [[Normal form|sum format]] (a.k.a. the normal form).
+
 ## Three modeling pillars
 There are three pillars guiding us on how to solve a problem using the linear algorithm. They are found by answering these questions:
 1) Which quantities can we work on?
