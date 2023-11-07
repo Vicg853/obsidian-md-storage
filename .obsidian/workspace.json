@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9df5fcc1c07ab05c",
+        "id": "0feb7a64bde2d16e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8a4ef1907c8881",
+            "id": "33e4544f917795df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/Automatons and language theory/Algebraic structures/Intro.md",
-                "mode": "source",
+                "file": "L2/Automatons and formal language theory/Formal language theory.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/Automatons and language theory/Algebraic structures/Intro.md",
+                "file": "L2/Automatons and formal language theory/Formal language theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/Automatons and language theory/Algebraic structures/Intro.md",
+                "file": "L2/Automatons and formal language theory/Formal language theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,11 +153,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c8a4ef1907c8881",
+  "active": "33e4544f917795df",
   "lastOpenFiles": [
-    "L2/Automatons and language theory/Programming languages.md",
-    "L2/Automatons and language theory/Algebraic structures/Intro.md",
-    "L2/Automatons and language theory/Algebraic structures",
+    "L2/Automatons and formal language theory/Formal language theory.md",
+    "L2/Automatons and formal language theory/Grammar.md",
+    "L2/Automatons and formal language theory/Algebraic structures/Intro.md",
+    "L2/Automatons and formal language theory/Algebraic structures",
     "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities/Registers.md",
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Interrupt.md",
     "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities",
@@ -186,7 +187,6 @@
     "L2/Linear programming/Table modeling.md",
     "L2/DBWEB/TP/TP2-20-10-2023.md",
     "imgs/Screenshot 2023-10-21 at 2.46.24 PM.png",
-    "L2/Automatons and language theory/Grammar.md",
     "L2/DBWEB/TP",
     "imgs/Screenshot 2023-10-19 at 1.49.56 PM.png",
     "L2/Embedded circuits/Intro.md",
