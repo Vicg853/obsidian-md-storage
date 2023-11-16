@@ -31,5 +31,14 @@ Three core concepts worth remembering when studying formal languages are:
 - group: monoid E set, where for each element a symmetrical corresponding element exists $x\forall x \in E, \exists y \in E,\ x \cdot y = y \cdot x = e$
 - free monoid: 
 
+###### Pre-Su-Fixes
+In an algebraic form, prefixes, suffixes and infixes are named differently in algebraic form:
+- factor, stated as $v$ where $u = \alpha\cdot v\cdot\beta$
+- left factor, stated as $v$ where $u = v\cdot\alpha\cdot \beta$
+- right factor, stated as $v$ where $u = \alpha\cdot\beta\cdot v$
+
+###### Conjugués (as in Portuguese: conjuge)
+Conjugués is the term given to a couple of words with a same concatenation of left and right factors, but ordered differently.
+
 #### Language
-A language, is a set of rules that put order to an alphabet. It can simply be illustrated by an example: $L =\ \{\ u \in X^*\ |\ x_1 \not\in\{0, \dots 9\ \}\ \}$ (taken form the earlies Cs' programming languages, formal language definitions)
+A language, is a set of rules that put order to an alphabet. It can simply be illustrated by an example: $L =\ \{\ u \in X^*\ |\ x_1 \not\in\{0, \dots 9\ \}\ \}$ (taken form the earlies Cs' programming language versions, formal language definitions)
