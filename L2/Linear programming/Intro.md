@@ -1,4 +1,4 @@
-Real-life problems can be solved in many different ways, with the use of various algorithms. Among them, we have what the so called "linear programming" field. This field surrounds a core programming model, that makes use of linear algebraic properties and functions, to solve an availability to optimal quantity dilema (or more specifically: either a maximum value or a minimum value).
+eReal-life problems can be solved in many different ways, with the use of various algorithms. Among them, we have what the so called "linear programming" field. This field surrounds a core programming model, that makes use of linear algebraic properties and functions, to solve an availability to optimal quantity dilema (or more specifically: either a maximum value or a minimum value).
 
 How so? Consider the case we need to produce x quantity of a given product and y of another one. Then add a new layer to it: we have limited u and v quantities of base elements, used by both products. 
 Which is optimal climax configuration, allowing us to reach a peak production in each them?
@@ -33,7 +33,9 @@ $$
 > $b_m$ corresponds to the constraints that are applied to certain cases
 > $a_nm$s and $c_nm$s to the coefficients applied to the quantities that we intend to find (we can for example consider them as costs)
 
-A shorter alternative, on larger and more complex problems, is to write it down in a [[Normal form|sum format]] (a.k.a. the normal form).
+On larger and more complex problems, is common to write it down in using a [[Normal form|sum format]] (a.k.a. the normal form).
+
+Still, there are other algebraic representations for linear problems 
 
 ## Three modeling pillars
 There are three pillars guiding us on how to solve a problem using the linear algorithm. They are found by answering these questions:

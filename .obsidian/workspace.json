@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/Advanced algorithms/Trees.md",
+                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/Advanced algorithms/Trees.md",
+                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/Advanced algorithms/Trees.md",
+                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,18 @@
   },
   "active": "33e4544f917795df",
   "lastOpenFiles": [
-    "L2/Advanced algorithms/Trees/Binary search tree.md",
+    "L2/Embedded circuits/Electrical engineering basics/Intro.md",
+    "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
+    "L2/Embedded circuits/Electrical engineering basics",
+    "L2/Linear programming/Intro.md",
+    "L2/Linear programming/Standard form.md",
+    "L2/Linear programming/Simplex method.md",
+    "L2/Linear programming/Normal form.md",
+    "L2/EN/TD-21-11-2023.md",
     "L2/Advanced algorithms/Trees/Balanced binary search tree.md",
+    "L2/Advanced algorithms/Trees/Binary search tree.md",
+    "L2/Advanced algorithms/Trees/Untitled.md",
     "L2/Advanced algorithms/Trees.md",
     "L2/Advanced algorithms/Trees",
     "L2/Advanced algorithms/Pseudo-code.md",
@@ -170,22 +180,13 @@
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Intro.md",
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Non-blocking timers.md",
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Interrupt.md",
-    "L2/Linear programming/Intro.md",
     "L2/DBWEB/Defs.md",
     "L2/DBWEB/Intro.md",
     "L2/Automatons and formal language theory/Grammar.md",
-    "L2/Automatons and formal language theory/Automatons.md",
-    "L2/Automatons and formal language theory/Formal language theory.md",
     "L2/Automatons and formal language theory/Algebraic structures",
     "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities",
     "interrupts.png",
-    "L2/EN/TD-5-24-10-2023.md",
-    "L2/EN/TD1-19-09-2023.md",
-    "L2/EN/TD3-28-09-2023.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming",
-    "L2/Embedded circuits/Electronic and analogous devices/Proteus.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Impendance.md",
     "imgs/IMG_20231024_101101442.jpg",
     "imgs/IMG_20231024_092918102.jpg",
     "L2/Embedded circuits/Electronic and analogous devices/Components",
@@ -195,7 +196,6 @@
     "L2/Embedded circuits/Electronic and analogous devices",
     "L2/Linear programming/TDs",
     "L2/Advanced algorithms",
-    "L2/EN",
     "imgs/Pasted image 20230521205010.png",
     "imgs/Pasted image 20230521201733.png",
     "imgs/Pasted image 20230410155020.png",
