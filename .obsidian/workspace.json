@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
+                "file": "L2/Networks/Network kinds.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
+                "file": "L2/Networks/Network kinds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
+                "file": "L2/Networks/Network kinds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +155,34 @@
   },
   "active": "33e4544f917795df",
   "lastOpenFiles": [
+    "L2/Networks/Intro.md",
+    "L2/Networks/Protocols/Low-level OSI network collision.md",
+    "L2/Networks/Network kinds.md",
+    "L2/Networks/Protocols",
+    "L2/Advanced algorithms/Algorithmic complexity/Intro.md",
+    "L2/Advanced algorithms/Intro.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Simple circuits/Divisor bridge.md",
+    "L2/Advanced algorithms/Algorithmic complexity",
+    "imgs/IMG_20231024_101101442 1.jpg",
+    "L2/Embedded circuits/Electronic and analogous devices/Components/Diodes.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Simple circuits",
+    "L2/Embedded circuits/Electronic and analogous devices/Components/Untitled",
+    "imgs/IMG_20231024_092918102 1.jpg",
+    "L2/Embedded circuits/Electronic and analogous devices/Components/Capacitors.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Components/AOP.md",
+    "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities/Registers.md",
+    "L2/Espri entreprendre/Presentation finale.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
+    "L2/Espri entreprendre",
     "L2/Embedded circuits/Electrical engineering basics/Intro.md",
     "L2/Embedded circuits/Electrical engineering basics/Ohms law.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Intro.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Proteus.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Impendance.md",
+    "L2/Embedded circuits/Electronic and analogous devices/Current.md",
+    "L2/Linear programming/Simplex method.md",
     "L2/Embedded circuits/Electrical engineering basics",
     "L2/Linear programming/Intro.md",
     "L2/Linear programming/Standard form.md",
-    "L2/Linear programming/Simplex method.md",
     "L2/Linear programming/Normal form.md",
     "L2/EN/TD-21-11-2023.md",
     "L2/Advanced algorithms/Trees/Balanced binary search tree.md",
@@ -169,37 +190,16 @@
     "L2/Advanced algorithms/Trees/Untitled.md",
     "L2/Advanced algorithms/Trees.md",
     "L2/Advanced algorithms/Trees",
-    "L2/Advanced algorithms/Pseudo-code.md",
-    "L2/Advanced algorithms/Intro.md",
-    "L2/Advanced algorithms/Data structures.md",
-    "L2/Advanced algorithms/Backtracking.md",
-    "L2/Automatons and formal language theory/Algebraic structures/Intro.md",
-    "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities/Time.md",
-    "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities/Registers.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Time counting.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Intro.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Non-blocking timers.md",
-    "L2/Embedded circuits/Electronic and analogous devices/Low-level programming/Interrupt.md",
-    "L2/DBWEB/Defs.md",
-    "L2/DBWEB/Intro.md",
-    "L2/Automatons and formal language theory/Grammar.md",
     "L2/Automatons and formal language theory/Algebraic structures",
     "L2/Embedded circuits/Electronic and analogous devices/ATmega328p specificities",
-    "interrupts.png",
+    "imgs/interrupts.png",
     "L2/Embedded circuits/Electronic and analogous devices/Low-level programming",
     "imgs/IMG_20231024_101101442.jpg",
     "imgs/IMG_20231024_092918102.jpg",
-    "L2/Embedded circuits/Electronic and analogous devices/Components",
     "imgs/Screenshot 2023-10-21 at 2.46.24 PM.png",
-    "L2/DBWEB/TP",
     "imgs/Screenshot 2023-10-19 at 1.49.56 PM.png",
-    "L2/Embedded circuits/Electronic and analogous devices",
-    "L2/Linear programming/TDs",
-    "L2/Advanced algorithms",
     "imgs/Pasted image 20230521205010.png",
     "imgs/Pasted image 20230521201733.png",
-    "imgs/Pasted image 20230410155020.png",
-    "imgs/Pasted image 20230410154334.png",
-    "imgs/Pasted image 20230410153111.png"
+    "imgs/Pasted image 20230410155020.png"
   ]
 }

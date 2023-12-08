@@ -1,4 +1,4 @@
-Nowadays, embedded circuits are "smarter" (or actually, more flexible) than the earlier computers and FPGAs: they are usually able to perform multiple tasks, by performing many logical and arithmetic operations. 
+xNowadays, embedded circuits are "smarter" (or actually, more flexible) than the earlier computers and FPGAs: they are usually able to perform multiple tasks, by performing many logical and arithmetic operations. 
 
 Therefore, we are able to either go very high on this subject, with complex computer towers and servers, running OSs and etc; or stay low (which we are going to do) and hover around embedded circuitry and low-power SoCs/chips/etc. 
 

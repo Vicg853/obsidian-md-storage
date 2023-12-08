@@ -5,4 +5,4 @@ $${dq\over dt}=i(t)$$
 $${dq\over dt}=C \cdot {dV_c\over dt}$$
 $$N_c(t)=E(1-e^{t \over R_c})$$
 
-![[IMG_20231024_101101442.jpg]]
+![[IMG_20231024_101101442 1.jpg]]

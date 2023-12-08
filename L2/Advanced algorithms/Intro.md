@@ -8,3 +8,5 @@ Some of the concepts introduced are:
 As for algorithms we have:
 - [[Backtracking]];
 - [[Trees#Algorithms| Tree related algorithms]]
+
+Furthermore, each of an algorithm's instruction, takes time and space for/during its execution, and this can result in major drawbacks or advantages, in large scale. To study and solve problems related to those, the [[L2/Advanced algorithms/Algorithmic complexity/Intro|complexity theories]] were introduced.
